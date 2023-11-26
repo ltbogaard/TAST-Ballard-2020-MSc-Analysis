@@ -1,0 +1,1731 @@
+date,time,session_id,chin_day,sock_day,coho_day,fish_day,treatment,species,num_idv,obs,observer_location,behaviour,foraging,crash,id_photo,comments,block,block_ns,platform_bearing,,platform_distance,x,y
+8/10/20,13:30,B006,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,S,NA,,167,,
+8/10/20,13:30,B006,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,Mom and baby,3,S,NA,,167,,
+8/10/20,13:31,B006,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,2 seals,2,N,NA,,123,,
+8/10/20,13:33,B006,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,2 seals,2,N,NA,,83,,
+8/10/20,13:34,B006,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,74,,
+8/10/20,13:35,B006,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,Second pair again,2,N,NA,,134,,
+8/10/20,13:38,B006,849,0,0,849,OFF,HS,3,LB,Gate,Crash Dive,No,1,Yes,3 seals,3,N,NA,,139,,
+8/10/20,13:39,B006,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,59,,
+8/10/20,13:40,B006,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,74,,
+8/10/20,13:41,B006,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,63,,
+8/10/20,13:43,B006,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,57,,
+8/10/20,13:45,B006,849,0,0,849,OFF,HS,1,LB,Gate,Crash Dive,No,1,No,Same large black male?,1,N,NA,,43,,
+8/10/20,13:49,B006,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,"Mom and baby, data for this session taken from gate",1,N,NA,,52,,
+8/10/20,13:51,B006,849,0,0,849,OFF,HS,3,LB,Gate,Normal Surfacing,No,0,No,3 seals!,1,N,NA,,75,,
+8/10/20,13:53,B006,849,0,0,849,OFF,HS,3,LB,Gate,Normal Surfacing,No,0,No,"Same three seals, mom baby and big dark one.",1,N,NA,,68,,
+8/10/20,13:56,B006,849,0,0,849,OFF,HS,3,LB,Gate,"Normal Surfacing, Crash Dive",No,1,Yes,Group of three crash diving and tactile,2,N,NA,,93,,
+8/10/20,13:59,B006,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,"Mom and baby pair, end of first time block, total #: 5 seals, two mom and baby, one large possible male",2,N,NA,,101,,
+8/10/20,14:00,B007,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,Mom and baby,2,N,NA,,84,,
+8/10/20,14:03,B007,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,"2, Mom and baby Tactile",2,N,NA,,100,,
+8/10/20,14:07,B007,849,0,0,849,OFF,HS,3,LB,Gate,"Crash Dive, Foraging (Fish visible)",Yes,1,Yes,"3 seals, crash dive, fish chase! Got photo and video",3,S,NA,,113,,
+8/10/20,14:10,B007,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,"Before last entry, was taking data 15m from restricted line at the gate, now have moved to curve in walkway 21 m from R line because view thru fence is better",3,S,NA,,127,,
+8/10/20,14:11,B007,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,Mom and baby pair,3,N,NA,,112,,
+8/10/20,14:15,B007,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,Mom and babe,3,N,NA,,125,,
+8/10/20,14:16,B007,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,TINY baby,2,S,NA,,37,,
+8/10/20,14:18,B007,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,Baby swam right up to fish ladder,1,S,NA,,54,,
+8/10/20,14:21,B007,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,Mom and baby,1,N,NA,,56,,
+8/10/20,14:25,B007,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,208,,
+8/10/20,14:27,B007,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,Baby!!,2,N,NA,,71,,
+8/10/20,14:31,B008,849,0,0,849,OFF,HS,3,LB,Gate,Normal Surfacing,No,0,Yes,"3 seals socializing tactile, best guess for total is 4, end 2 session.",3,N,NA,,203,,
+8/10/20,14:36,B008,849,0,0,849,OFF,HS,3,LB,Gate,Normal Surfacing,No,0,Yes,"3 seals socializing tactile, best guess for total is 4, end 2 session.",3,N,NA,,203,,
+8/10/20,14:37,B008,849,0,0,849,OFF,HS,3,LB,Gate,Normal Surfacing,No,0,No,"3 seals a, begin 3rd session at 2:35, man throwing bombs from yellow platform no seals in 1s",3,N,NA,,178,,
+8/10/20,14:40,B008,849,0,0,849,OFF,HS,1,LB,Gate,Crash Dive,No,1,No,Vudeo,3,N,NA,,179,,
+8/10/20,14:44,B008,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,Mom and baby,2,N,NA,,59,,
+8/10/20,14:46,B008,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,124,,
+8/10/20,14:50,B008,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,128,,
+8/10/20,14:56,B008,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,98,,
+8/10/20,15:00,B008,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,89,,
+8/10/20,15:14,B009,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,Start new session moved back to gate ??,2,N,NA,,93,,
+8/10/20,15:15,B009,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,76,,
+8/10/20,15:19,B009,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,Second mom and baby pair,2,N,NA,,102,,
+8/10/20,15:20,B009,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,1st mom and bb pair,2,S,NA,,123,,
+8/10/20,15:20,B009,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,2nd mom and bbb,2,N,NA,,91,,
+8/10/20,15:23,B009,849,0,0,849,OFF,HS,2,LB,Gate,Foraging (Fish visible),Yes,0,Yes,Mom and bb prey sharing!!,2,N,NA,,113,,
+8/10/20,15:25,B009,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,Standing halfway between gay and curve 18m from line,1,N,NA,,46,,
+8/10/20,15:27,B009,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,83,,
+8/10/20,15:30,B009,849,0,0,849,OFF,HS,2,LB,Gate,"Normal Surfacing, Crash Dive",No,1,No,Mom and babe 2,2,N,NA,,70,,
+8/10/20,15:33,B009,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,S,NA,,185,,
+8/10/20,15:37,B009,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,S,NA,,72,,
+8/10/20,15:37,B009,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,56,,
+8/10/20,15:38,B009,849,0,0,849,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,60,,
+8/10/20,15:44,B009,849,0,0,849,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,"Pair tactile social, end of session 6 animals best guess total count",1,N,NA,,68,,
+8/11/20,13:39,B010,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,"Pair tactile social, end of session 6 animals best guess total count",1,N,NA,,68,,
+8/11/20,13:45,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,53,,
+8/11/20,13:46,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,55,,
+8/11/20,13:46,B010,884,7,0,891,OFF,HS,1,LB,Gate,Crash Dive,No,1,No,,2,N,NA,,82,,
+8/11/20,13:47,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,44,,
+8/11/20,13:47,B010,884,7,0,891,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,No,,1,S,NA,,7,,
+8/11/20,13:49,B010,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,2 seals mom vbb,1,S,NA,,30,,
+8/11/20,13:49,B010,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,2 seals,1,N,NA,,40,,
+8/11/20,13:50,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,42,,
+8/11/20,13:52,B010,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,2 seals,1,N,NA,,39,,
+8/11/20,13:54,B010,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,2 seals,1,N,NA,,30,,
+8/11/20,13:55,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,29,,
+8/11/20,13:58,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,111,,
+8/11/20,13:58,B010,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,2 seals,1,N,NA,,15,,
+8/11/20,14:00,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,35,,
+8/11/20,14:00,B010,884,7,0,891,OFF,HS,2,LB,Gate,Crash Dive,No,1,No,2 seals both crash dive,2,S,NA,,56,,
+8/11/20,14:03,B010,884,7,0,891,OFF,HS,2,LB,Gate,Foraging (Fish visible),Yes,0,Yes,"2 prey sharing¡,,",1,N,NA,,29,,
+8/11/20,14:03,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,21,,
+8/11/20,14:04,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,40,,
+8/11/20,14:05,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,34,,
+8/11/20,14:06,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,60,,
+8/11/20,14:07,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,66,,
+8/11/20,14:08,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,158,,
+8/11/20,14:09,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,76,,
+8/11/20,14:10,B010,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,X2,1,N,NA,,52,,
+8/11/20,14:11,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,42,,
+8/11/20,14:14,B010,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,53,,
+8/11/20,15:11,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,209,,
+8/11/20,15:13,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,70,,
+8/11/20,15:13,B011,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,2 seals,3,S,NA,,130,,
+8/11/20,15:14,B011,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,2 seals,2,N,NA,,53,,
+8/11/20,15:17,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,61,,
+8/11/20,15:17,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,77,,
+8/11/20,15:18,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,93,,
+8/11/20,15:19,B011,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,2 seals,2,N,NA,,53,,
+8/11/20,15:21,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,38,,
+8/11/20,15:22,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,43,,
+8/11/20,15:23,B011,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,2 seals,3,S,NA,,134,,
+8/11/20,15:24,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,50,,
+8/11/20,15:24,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,41,,
+8/11/20,15:25,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,60,,
+8/11/20,15:26,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,S,NA,,241,,
+8/11/20,15:26,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,4,N,NA,,241,,
+8/11/20,15:27,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,44,,
+8/11/20,15:30,B011,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,2 seals,1,N,NA,,53,,
+8/11/20,15:31,B011,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,2 seals mom and pup,2,N,NA,,68,,
+8/11/20,15:32,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,45,,
+8/11/20,15:34,B011,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,4,N,NA,,271,,
+8/11/20,15:37,B011,884,7,0,891,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,,1,N,NA,,62,,
+8/11/20,15:57,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,48,,
+8/11/20,15:58,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,52,,
+8/11/20,16:00,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,55,,
+8/11/20,16:01,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,76,,
+8/11/20,16:03,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,This is the seal that had the fish from the last session,1,N,NA,,48,,
+8/11/20,16:07,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,69,,
+8/11/20,16:07,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,S,NA,,48,,
+8/11/20,16:08,B012,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,3,S,NA,,110,,
+8/11/20,16:11,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,S,NA,,66,,
+8/11/20,16:14,B012,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,3,S,NA,,126,,
+8/11/20,16:17,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,32,,
+8/11/20,16:18,B012,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,3,S,NA,,124,,
+8/11/20,16:18,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,45,,
+8/11/20,16:19,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,53,,
+8/11/20,16:21,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,42,,
+8/11/20,16:22,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,44,,
+8/11/20,16:23,B012,884,7,0,891,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,3,S,NA,,127,,
+8/11/20,16:23,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,60,,
+8/11/20,16:24,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,46,,
+8/11/20,16:26,B012,884,7,0,891,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,End session best guess total is 5 indv,1,N,NA,,45,,
+8/12/20,11:19,B013,137,0,0,137,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,Playing with a fish!!!,1,S,NA,,48,,
+8/12/20,11:25,B013,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,Same seal,1,S,NA,,52,,
+8/12/20,11:27,B013,137,0,0,137,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,X2,2,S,NA,,146,,
+8/12/20,11:27,B013,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,45,,
+8/12/20,11:29,B013,137,0,0,137,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,3,S,NA,,135,,
+8/12/20,11:31,B013,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,141,,
+8/12/20,11:32,B013,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,S,NA,,50,,
+8/12/20,11:37,B013,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,S,NA,,66,,
+8/12/20,11:40,B013,137,0,0,137,OFF,HS,3,LB,Gate,Normal Surfacing,No,0,Yes,X3,2,N,NA,,93,,
+8/12/20,11:42,B013,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,73,,
+8/12/20,11:46,B013,137,0,0,137,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,,2,S,NA,,54,,
+8/12/20,11:47,B013,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,S,NA,,64,,
+8/12/20,11:51,B013,137,0,0,137,OFF,HS,2,LB,Gate,Crash Dive,No,1,No,Pair lots of TIL slapping mating?,2,S,NA,,49,,
+8/12/20,11:51,B013,137,0,0,137,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,,2,S,NA,,95,,
+8/12/20,11:52,B013,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,73,,
+8/12/20,13:32,B014,137,0,0,137,OFF,HS,2,LB,Gate,Foraging (Fish visible),Yes,0,Yes,Crazy. 2 seals prey sharing,1,S,NA,,88,,
+8/12/20,13:35,B014,137,0,0,137,OFF,HS,2,LB,Gate,Foraging (Fish visible),Yes,0,Yes,Two different seals prey sharing!!,2,N,NA,,132,,
+8/12/20,13:36,B014,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,37,,
+8/12/20,13:37,B014,137,0,0,137,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,X2,3,S,NA,,168,,
+8/12/20,13:39,B014,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,33,,
+8/12/20,13:39,B014,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,S,NA,,50,,
+8/12/20,13:41,B014,137,0,0,137,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,X2,1,S,NA,,38,,
+8/12/20,13:43,B014,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,All data taken today is from 55m w of the ladder behind the gate,1,S,NA,,15,,
+8/12/20,13:43,B014,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,111,,
+8/12/20,13:45,B014,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,145,,
+8/12/20,13:47,B014,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,4,N,NA,,262,,
+8/12/20,13:54,B014,137,0,0,137,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,Wow.,3,S,NA,,142,,
+8/12/20,13:56,B014,137,0,0,137,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,,1,N,NA,,42,,
+8/12/20,13:59,B014,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,58,,
+8/12/20,14:01,B014,137,0,0,137,OFF,HS,2,LB,Gate,Foraging (Fish visible),Yes,0,Yes,X2,2,N,NA,,82,,
+8/12/20,14:20,B015,137,0,0,137,OFF,HS,3,LB,Gate,Foraging (Fish visible),Yes,0,Yes,X3 prey share,2,N,NA,,41,,
+8/12/20,14:21,B015,137,0,0,137,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,No,,2,N,NA,,44,,
+8/12/20,14:22,B015,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,182,,
+8/12/20,14:23,B015,137,0,0,137,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,32,,
+8/12/20,14:26,B015,137,0,0,137,OFF,HS,4,LB,Gate,Foraging (Fish visible),Yes,0,Yes,4 seals grouped tightly prey sharing passing fish around between them.,2,N,NA,,56,,
+8/12/20,14:28,B015,137,0,0,137,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,2,N,NA,,62,,
+8/13/20,10:31,B016,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,2,N,NA,,62,,
+8/13/20,10:33,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,73,,
+8/13/20,10:35,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,97,,
+8/13/20,10:35,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,95,,
+8/13/20,10:37,B016,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,2,S,NA,,83,,
+8/13/20,10:38,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,23,,
+8/13/20,10:41,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,78,,
+8/13/20,10:43,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,80,,
+8/13/20,10:46,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,S,NA,,57,,
+8/13/20,10:47,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,S,NA,,60,,
+8/13/20,10:51,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,85,,
+8/13/20,10:52,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,60,,
+8/13/20,10:56,B016,202,0,0,202,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,Very far! But got it!,4,N,NA,,258,,
+8/13/20,10:57,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,S,NA,,40,,
+8/13/20,10:59,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,116,,
+8/13/20,10:59,B016,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,75,,
+8/13/20,11:14,B017,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,S,NA,,32,,
+8/13/20,11:15,B017,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,S,NA,,115,,
+8/13/20,11:18,B017,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,21,,
+8/13/20,11:19,B017,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,S,NA,,97,,
+8/13/20,11:23,B017,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,S,NA,,64,,
+8/13/20,11:25,B017,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,X2,2,S,NA,,49,,
+8/13/20,11:27,B017,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,28,,
+8/13/20,11:31,B017,202,0,0,202,OFF,HS,2,LB,Gate,Foraging (Fish visible),Yes,0,Yes,X2,1,S,NA,,3,,
+8/13/20,11:36,B017,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,89,,
+8/13/20,11:36,B017,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,1,S,NA,,39,,
+8/13/20,11:38,B017,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,12,,
+8/13/20,11:39,B017,202,0,0,202,OFF,HS,1,LB,Gate,Crash Dive,No,1,No,,1,S,NA,,30,,
+8/13/20,11:40,B017,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,1,N,NA,,45,,
+8/13/20,11:42,B017,202,0,0,202,OFF,HS,3,LB,Gate,Normal Surfacing,No,0,No,X3,1,S,NA,,39,,
+8/13/20,12:00,B018,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,1,S,NA,,65,,
+8/13/20,12:01,B018,202,0,0,202,OFF,HS,3,LB,Gate,"Normal Surfacing, Foraging (Fish visible)",Yes,0,No,3 on top of each other one w fish,2,S,NA,,81,,
+8/13/20,12:02,B018,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,30,,
+8/13/20,12:03,B018,202,0,0,202,OFF,HS,1,LB,Gate,Crash Dive,No,1,Yes,,2,S,NA,,96,,
+8/13/20,12:04,B018,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,56,,
+8/13/20,12:07,B018,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,2x,1,N,NA,,37,,
+8/13/20,12:11,B018,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,64,,
+8/13/20,12:11,B018,202,0,0,202,OFF,HS,3,LB,Gate,Normal Surfacing,No,0,No,3 seals,2,N,NA,,91,,
+8/13/20,12:14,B018,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,S,NA,,100,,
+8/13/20,12:15,B018,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,118,,
+8/13/20,12:16,B018,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,2,2,N,NA,,75,,
+8/13/20,12:18,B018,202,0,0,202,OFF,HS,1,LB,Gate,Crash Dive,No,1,No,,3,S,NA,,103,,
+8/13/20,12:19,B018,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,1,N,NA,,52,,
+8/13/20,12:22,B018,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,40,,
+8/13/20,12:22,B018,202,0,0,202,OFF,HS,1,LB,Gate,Crash Dive,No,1,No,,1,N,NA,,51,,
+8/13/20,12:24,B018,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,94,,
+8/13/20,12:25,B018,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,2,2,N,NA,,143,,
+8/13/20,12:26,B018,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,43,,
+8/13/20,13:30,B019,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,51,,
+8/13/20,13:30,B019,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,Different seal,1,N,NA,,53,,
+8/13/20,13:31,B019,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,4,N,NA,,249,,
+8/13/20,13:34,B019,202,0,0,202,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,,2,N,NA,,66,,
+8/13/20,13:34,B019,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,3,N,NA,,164,,
+8/13/20,13:35,B019,202,0,0,202,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,,2,N,NA,,66,,
+8/13/20,13:37,B019,202,0,0,202,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,,2,N,NA,,66,,
+8/13/20,13:41,B019,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,2,,
+8/13/20,13:42,B019,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,1,N,NA,,39,,
+8/13/20,13:42,B019,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,2,N,NA,,125,,
+8/13/20,13:43,B019,202,0,0,202,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,,3,N,NA,,136,,
+8/13/20,13:47,B019,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,S,NA,,27,,
+8/13/20,13:49,B019,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,S,NA,,28,,
+8/13/20,13:51,B019,202,0,0,202,OFF,HS,3,LB,Gate,Normal Surfacing,No,0,No,X3,1,N,NA,,33,,
+8/13/20,14:07,B020,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,1,S,NA,,19,,
+8/13/20,14:10,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,75,,
+8/13/20,14:12,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,104,,
+8/13/20,14:15,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,64,,
+8/13/20,14:16,B020,202,0,0,202,OFF,HS,1,LB,Gate,Crash Dive,No,1,Yes,,1,N,NA,,53,,
+8/13/20,14:18,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,66,,
+8/13/20,14:21,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,243,,
+8/13/20,14:23,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,S,NA,,64,,
+8/13/20,14:24,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,145,,
+8/13/20,14:25,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,228,,
+8/13/20,14:27,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,4,N,NA,,272,,
+8/13/20,14:28,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,S,NA,,45,,
+8/13/20,14:28,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,114,,
+8/13/20,14:31,B020,202,0,0,202,OFF,HS,3,LB,Gate,Normal Surfacing,No,0,No,3!,1,S,NA,,33,,
+8/13/20,14:32,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,4,N,NA,,343,,
+8/13/20,14:34,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,85,,
+8/13/20,14:35,B020,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,72,,
+8/13/20,14:37,B020,202,0,0,202,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,Massive fish,1,S,NA,,57,,
+8/13/20,14:49,B021,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,Moved to corner to be in sun 57 m from ladder,2,S,NA,,92,,
+8/13/20,14:53,B021,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,108,,
+8/13/20,14:55,B021,202,0,0,202,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,,2,S,NA,,64,,
+8/13/20,15:01,B021,202,0,0,202,OFF,HS,3,LB,Gate,"Crash Dive, Foraging (Fish visible)",Yes,1,No,Back to 54m from ladder x3 seals,2,S,NA,,67,,
+8/13/20,15:03,B021,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,4,N,NA,,245,,
+8/13/20,15:04,B021,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,198,,
+8/13/20,15:04,B021,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,111,,
+8/13/20,15:06,B021,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,3,S,NA,,163,,
+8/13/20,15:07,B021,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,92,,
+8/13/20,15:10,B021,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,S,NA,,77,,
+8/13/20,15:13,B021,202,0,0,202,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,2 seals socializing,2,S,NA,,86,,
+8/13/20,15:14,B021,202,0,0,202,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,S,NA,,42,,
+8/14/20,13:04,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,191,,
+8/14/20,13:04,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,52,,
+8/14/20,13:04,B022,625,7,0,632,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,2 seals,1,N,NA,,33,,
+8/14/20,13:06,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,209,,
+8/14/20,13:09,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,S,NA,,18,,
+8/14/20,13:10,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,40,,
+8/14/20,13:11,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,120,,
+8/14/20,13:13,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,S,NA,,23,,
+8/14/20,13:14,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,37,,
+8/14/20,13:16,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,30,,
+8/14/20,13:18,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,52,,
+8/14/20,13:19,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,S,NA,,21,,
+8/14/20,13:21,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,68,,
+8/14/20,13:25,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,43,,
+8/14/20,13:27,B022,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,4,S,NA,,233,,
+8/14/20,13:30,B022,625,7,0,632,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,2 seals,3,N,NA,,128,,
+8/14/20,13:47,B023,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,S,NA,,42,,
+8/14/20,13:47,B023,625,7,0,632,OFF,HS,1,LB,Gate,"Normal Surfacing, Foraging (Fish visible)",Yes,0,No,,1,N,NA,,40,,
+8/14/20,13:49,B023,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,S,NA,,97,,
+8/14/20,13:53,B023,625,7,0,632,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,,1,S,NA,,23,,
+8/14/20,13:54,B023,625,7,0,632,OFF,HS,1,LB,Gate,Foraging (Fish visible),Yes,0,Yes,,1,S,NA,,28,,
+8/14/20,13:55,B023,625,7,0,632,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,Yes,X2,2,N,NA,,47,,
+8/14/20,13:57,B023,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,41,,
+8/14/20,13:58,B023,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,S,NA,,57,,
+8/14/20,14:01,B023,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,S,NA,,54,,
+8/14/20,14:02,B023,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,32,,
+8/14/20,14:06,B023,625,7,0,632,OFF,HS,3,LB,Gate,Normal Surfacing,No,0,Yes,3 seals,3,N,NA,,132,,
+8/14/20,14:07,B023,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,53,,
+8/14/20,14:09,B023,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,31,,
+8/14/20,14:12,B023,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,3,N,NA,,116,,
+8/14/20,14:12,B023,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,58,,
+8/14/20,14:25,B024,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,3,N,NA,,175,,
+8/14/20,14:25,B024,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,158,,
+8/14/20,14:27,B024,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,42,,
+8/14/20,14:29,B024,625,7,0,632,OFF,HS,1,LB,Gate,Crash Dive,No,1,Yes,,1,S,NA,,66,,
+8/14/20,14:33,B024,625,7,0,632,OFF,HS,2,LB,Gate,"Normal Surfacing, Crash Dive",No,1,Yes,X2,1,N,NA,,42,,
+8/14/20,14:34,B024,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,2,N,NA,,112,,
+8/14/20,14:35,B024,625,7,0,632,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,2 seals,1,N,NA,,33,,
+8/14/20,14:37,B024,625,7,0,632,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,1,N,NA,,48,,
+8/14/20,14:39,B024,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,42,,
+8/14/20,14:42,B024,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,110,,
+8/14/20,14:42,B024,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,S,NA,,30,,
+8/14/20,14:42,B024,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,62,,
+8/14/20,14:44,B024,625,7,0,632,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,X2,3,N,NA,,108,,
+8/14/20,14:45,B024,625,7,0,632,OFF,HS,2,LB,Gate,Normal Surfacing,No,0,No,Mom and babe,3,N,NA,,131,,
+8/14/20,14:46,B024,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,No,,1,N,NA,,41,,
+8/14/20,14:50,B024,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,1,N,NA,,35,,
+8/14/20,14:54,B024,625,7,0,632,OFF,HS,1,LB,Gate,Normal Surfacing,No,0,Yes,,2,N,NA,,78,,
+8/14/20,19:20,T001,625,7,0,632,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,49,,57,43.01844607,37.39536465
+8/14/20,19:21,T001,625,7,0,632,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2 TAST ON!!!!,3,N,275,,200,-199.2389396,17.43114855
+8/14/20,19:26,T001,625,7,0,632,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,S,92,,200,199.8781654,-6.979899341
+8/14/20,19:34,T001,625,7,0,632,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,327,,110,-59.91029385,92.25376247
+8/14/20,19:37,T001,625,7,0,632,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,346,,175,-42.33633173,169.8017521
+8/14/20,19:53,T001,625,7,0,632,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,346,,175,-42.33633173,169.8017521
+8/15/20,10:18,T002,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,66,,130,118.7609095,52.8757636
+8/15/20,10:20,T002,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,316,,96,-66.68720356,69.05662083
+8/15/20,10:22,T002,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,3,N,139,,132,86.59979183,-99.62166459
+8/15/20,10:24,T002,170,0,0,170,ON,HS,3,LB,Platform,"Normal Surfacing, Crash Dive",No,1,No,X3,3,N,306,,185,-149.668144,108.7402717
+8/15/20,10:44,T003,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,114,,101,92.26809122,-41.08040095
+8/15/20,10:45,T003,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,2,N,312,,78,-57.96529639,52.1921873
+8/15/20,10:47,T003,170,0,0,170,ON,HS,4,LB,Platform,Normal Surfacing,No,0,Yes,C2,1,N,316,,58,-40.29018549,41.72170842
+8/15/20,11:02,T003,170,0,0,170,ON,HS,3,LB,Platform,Normal Surfacing,No,0,No,C2,2,N,212,,48,-25.43612468,-40.70630862
+8/15/20,11:03,T003,170,0,0,170,ON,HS,1,LB,Platform,Crash Dive,No,1,No,Big tail slap,1,N,222,,51,-34.12566092,-37.9003861
+8/15/20,11:07,T003,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,Seal swam close to tast maybe 4m? But underwater,1,N,356,,44,-3.069284845,43.89281821
+8/15/20,11:22,T004,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,Seal swam close to tast maybe 4m? But underwater,1,N,356,,44,-3.069284845,43.89281821
+8/15/20,11:26,T004,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,N,88,,44,43.97319639,1.535577855
+8/15/20,11:30,T004,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,"same as last seal, maybe mom is hunting in the ladder? And this is baby?",1,N,70,,42,39.46709007,14.36484602
+8/15/20,11:33,T004,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,194,,50,-12.09609478,-48.51478631
+8/15/20,11:37,T004,170,0,0,170,ON,HS,3,LB,Platform,Normal Surfacing,No,0,Yes,X3,2,N,306,,72,-58.24922359,42.32053817
+8/15/20,11:41,T004,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,300,,130,-112.5833025,65
+8/15/20,11:43,T004,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,289,,52,-49.16696593,16.92954403
+8/15/20,11:47,T004,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,296,,168,-150.9973998,73.64635266
+8/15/20,11:50,T004,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,S,283,,70,-68.20590453,15.7465738
+8/15/20,12:36,T005,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,286,,61,-58.63696345,16.8138787
+8/15/20,12:38,T005,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,1,N,305,,34,-27.85116951,19.50159884
+8/15/20,12:44,T005,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,1,N,296,,48,-43.14211422,21.04181505
+8/15/20,12:49,T005,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,NA,,34,#VALUE!,#VALUE!
+8/15/20,12:52,T005,170,0,0,170,ON,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,4,S,290,,275,-258.4154707,94.05553941
+8/15/20,12:55,T005,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,272,,76,-75.95370285,2.652361749
+8/15/20,12:55,T005,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,335,,234,-98.89267325,212.0760222
+8/15/20,13:02,T005,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,220,,80,-51.42300877,-61.28355545
+8/15/20,13:05,T005,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,243,,56,-49.89636535,-25.42346799
+8/15/20,13:16,T006,170,0,0,170,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,,1,S,319,,24,-15.7454167,18.11302993
+8/15/20,13:18,T006,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,313,,71,-51.92611281,48.42188356
+8/15/20,13:20,T006,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,71,,260,245.8348297,84.64772016
+8/15/20,13:24,T006,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,"Check bearings for earlier today, compass had to be recalibrated",1,N,277,,46,-45.65712298,5.605989797
+8/15/20,13:26,T006,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,233,,0.1,-0.079863551,-0.060181502
+8/15/20,13:31,T006,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,259,,235,-230.6823881,-44.84011391
+8/15/20,13:35,T006,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,328,,37,-19.60701278,31.37777956
+8/15/20,13:35,T006,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,304,,75,-62.17781794,41.93946776
+8/15/20,13:38,T006,170,0,0,170,ON,HS,3,LB,Platform,Normal Surfacing,No,0,Yes,X3,2,N,285,,107,-103.3540634,27.69363783
+8/15/20,13:42,T006,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,2,S,296,,70,-62.91558324,30.68598028
+8/15/20,13:44,T006,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,S,295,,213,-193.0435586,90.01768975
+8/15/20,13:45,T006,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,4,S,289,,0.1,-0.094551858,0.032556815
+8/15/20,14:01,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,272,,140,-139.9147158,4.885929538
+8/15/20,14:05,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,313,,57,-41.68716099,38.87390652
+8/15/20,14:05,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,N,310,,210,-160.8693331,134.985398
+8/15/20,14:07,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,321,,312,-196.347962,242.46954
+8/15/20,14:08,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,S,277,,260,-258.0619994,31.68602929
+8/15/20,14:09,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,270,,175,-175,-3.22E-14
+8/15/20,14:10,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,266,,230,-229.4397316,-16.04398896
+8/15/20,14:14,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,253,,93,-88.9363423,-27.19056854
+8/15/20,14:16,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,248,,120,-111.2620625,-44.95279121
+8/15/20,14:17,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,271,,54,-53.99177554,0.942429948
+8/15/20,14:21,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,263,,199,-197.5166842,-24.25199934
+8/15/20,14:25,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,290,,160,-150.3508193,54.72322293
+8/15/20,14:27,T007,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,285,,158,-152.6162806,40.89340913
+8/15/20,14:29,T007,170,0,0,170,ON,HS,1,LB,Platform,Crash Dive,No,1,No,,4,N,295,,260,-235.6400246,109.8807481
+8/15/20,14:50,T008,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,281,,83,-81.47505623,15.83714662
+8/15/20,14:51,T008,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,304,,56,-46.42610406,31.31480259
+8/15/20,14:56,T008,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,296,,93,-83.58784631,40.76851665
+8/15/20,15:00,T008,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,359,,69,-1.204216044,68.98949097
+8/15/20,15:02,T008,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,314,,83,-59.70520343,57.65664475
+8/15/20,15:06,T008,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,223,,151,-102.9817524,-110.4344089
+8/15/20,15:09,T008,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,219,,59,-37.12990307,-45.85161173
+8/15/20,15:10,T008,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,S,336,,218,-88.66858819,199.1529098
+8/15/20,15:11,T008,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,332,,68,-31.92406627,60.04043631
+8/15/20,15:13,T008,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,300,,176,-152.4204711,88
+8/15/20,15:15,T008,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,240,,230,-199.1858429,-115
+8/15/20,15:30,T009,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,240,,230,-199.1858429,-115
+8/15/20,15:32,T009,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,242,,168,-148.3351956,-78.87122255
+8/15/20,15:36,T009,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,242,,168,-148.3351956,-78.87122255
+8/15/20,15:38,T009,170,0,0,170,ON,HS,1,LB,Platform,Crash Dive,No,1,No,,3,S,284,,168,-163.009682,40.64287846
+8/15/20,15:40,T009,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,Mom and bb (x2),2,S,281,,65,-63.80576692,12.4025847
+8/15/20,15:42,T009,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,322,,71,-43.71196475,55.94876351
+8/15/20,15:43,T009,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,354,,51,-5.330951627,50.72061666
+8/15/20,15:48,T009,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,281,,41,-40.24671452,7.82316881
+8/15/20,15:53,T009,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,S,320,,25,-16.06969024,19.15111108
+8/15/20,15:55,T009,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,298,,212,-187.1848897,99.52797131
+8/15/20,15:57,T009,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,Baby!,1,S,51,,17,13.21148134,10.69844665
+8/15/20,16:23,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,289,,130,-122.9174148,42.32386008
+8/15/20,16:24,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,S,296,,32,-28.76140948,14.0278767
+8/15/20,16:25,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,310,,108,-82.73279986,69.42106185
+8/15/20,16:29,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,307,,46,-36.73723346,27.68349106
+8/15/20,16:30,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,285,,180,-173.8666487,46.58742812
+8/15/20,16:33,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,Baby super close to tast,1,S,290,,10,-9.396926208,3.420201433
+8/15/20,16:37,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,291,,120,-112.0296512,43.00415395
+8/15/20,16:37,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,281,,73,-71.65878439,13.92905666
+8/15/20,16:43,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,281,,73,-71.65878439,13.92905666
+8/15/20,16:44,T010,170,0,0,170,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,275,,124,-123.5281426,10.8073121
+8/15/20,16:44,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,Baby,2,S,264,,35,-34.80826634,-3.658496214
+8/15/20,16:46,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,341,,46,-14.97613511,43.49385448
+8/15/20,16:49,T010,170,0,0,170,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,S,304,,243,-201.4561301,135.8838755
+8/16/20,10:05,T011,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,3,N,242,,190,-167.7600426,-89.19959693
+8/16/20,10:14,T011,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,C2,3,S,241,,130,-113.7005619,-63.02525063
+8/16/20,10:19,T011,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,343,,150,-43.85575571,143.4457134
+8/16/20,10:26,T011,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,C2,3,S,307,,160,-127.7816816,96.2904037
+8/16/20,10:27,T011,551,0,0,551,ON,HS,1,LB,Platform,Crash Dive,No,1,No,,3,N,309,,149,-115.7947483,93.76873827
+8/16/20,10:42,T012,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,N,259,,43,-42.20996889,-8.204786801
+8/16/20,10:56,T012,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,335,,150,-63.39273926,135.9461681
+8/16/20,10:57,T012,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,332,,132,-61.97024629,116.5490823
+8/16/20,11:10,T012,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,NA,,200,#VALUE!,#VALUE!
+8/16/20,11:58,T013,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,N,NA,,140,#VALUE!,#VALUE!
+8/16/20,12:04,T013,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,NA,,83,#VALUE!,#VALUE!
+8/16/20,12:08,T013,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,2,S,NA,,80,#VALUE!,#VALUE!
+8/16/20,12:33,T014,551,0,0,551,ON,HS,2,LB,Platform,Crash Dive,No,1,No,X2,2,N,NA,,73,#VALUE!,#VALUE!
+8/16/20,12:34,T014,551,0,0,551,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,,2,S,NA,,74,#VALUE!,#VALUE!
+8/16/20,12:37,T014,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,S,304,,243,-201.4561301,135.8838755
+8/16/20,12:39,T014,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,1,N,319,,60,-39.36354174,45.28257481
+8/16/20,12:40,T014,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,255,,140,-135.2296157,-36.23466631
+8/16/20,12:43,T014,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,285,,125,-120.7407283,32.35238064
+8/16/20,12:47,T014,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,S,265,,197,-196.2503555,-17.16968132
+8/16/20,12:48,T014,551,0,0,551,ON,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,3,S,241,,170,-148.6853502,-82.41763544
+8/16/20,12:53,T014,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,304,,68,-56.37455493,38.02511744
+8/16/20,12:55,T014,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,222,,210,-140.5174273,-156.0604134
+8/16/20,12:56,T014,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,222,,210,-140.5174273,-156.0604134
+8/16/20,12:59,T014,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,N,NA,,46,#VALUE!,#VALUE!
+8/16/20,13:24,T015,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,NA,,83,#VALUE!,#VALUE!
+8/16/20,13:28,T015,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,2,N,NA,,56,#VALUE!,#VALUE!
+8/16/20,13:29,T015,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,NA,,81,#VALUE!,#VALUE!
+8/16/20,13:32,T015,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,NA,,100,#VALUE!,#VALUE!
+8/16/20,13:34,T015,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,S,288,,160,-152.1690426,49.4427191
+8/16/20,13:36,T015,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,NA,,203,#VALUE!,#VALUE!
+8/16/20,13:37,T015,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,NA,,65,#VALUE!,#VALUE!
+8/16/20,13:39,T015,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,3,N,NA,,171,#VALUE!,#VALUE!
+8/16/20,13:42,T015,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,NA,,195,#VALUE!,#VALUE!
+8/16/20,13:44,T015,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,345,,66,-17.08205698,63.75110454
+8/16/20,13:48,T015,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,NA,,215,#VALUE!,#VALUE!
+8/16/20,13:50,T015,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,220,,76,-48.85185834,-58.21937768
+8/16/20,14:16,T016,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,N,NA,,38,#VALUE!,#VALUE!
+8/16/20,14:18,T016,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,215,,55,-31.546704,-45.05336244
+8/16/20,14:21,T016,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,1,S,354,,36,-3.763024678,35.80278823
+8/16/20,14:25,T016,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,S,266,,27,-26.93422936,-1.883424791
+8/16/20,14:28,T016,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,S,NA,,27,#VALUE!,#VALUE!
+8/16/20,14:30,T016,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,NA,,63,#VALUE!,#VALUE!
+8/16/20,14:31,T016,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,NA,,63,#VALUE!,#VALUE!
+8/16/20,14:32,T016,551,0,0,551,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,,1,S,NA,,36,#VALUE!,#VALUE!
+8/16/20,14:40,T016,551,0,0,551,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,Video,2,N,316,,85,-59.04596149,61.14388303
+8/16/20,14:42,T016,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,315,,180,-127.2792206,127.2792206
+8/16/20,15:00,T017,551,0,0,551,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,S,233,,180,-143.7543918,-108.3267042
+8/16/20,15:04,T017,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,225,,175,-123.7436867,-123.7436867
+8/16/20,15:06,T017,551,0,0,551,ON,HS,2,LB,Platform,Crash Dive,No,1,No,X2,3,S,231,,140,-108.8004346,-88.10485475
+8/16/20,15:10,T017,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,248,,220,-203.980448,-82.41345055
+8/16/20,15:12,T017,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,261,,101,-99.7565224,-15.79988097
+8/16/20,15:20,T017,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,236,,155,-128.5008237,-86.67490004
+8/16/20,15:22,T017,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,222,,407,-272.3361568,-302.459944
+8/16/20,15:25,T017,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,232,,125,-98.5013442,-76.95768442
+8/16/20,15:25,T017,551,0,0,551,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,N,206,,170,-74.52309495,-152.7949879
+8/17/20,09:50,T018,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,215,,81,-46.45969134,-66.35131559
+8/17/20,09:53,T018,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,225,,99,-70.00357134,-70.00357134
+8/17/20,09:54,T018,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,195,,150,-38.82285677,-144.8888739
+8/17/20,09:55,T018,281,0,0,281,ON,HS,1,LB,Platform,Crash Dive,No,1,No,,1,N,260,,51,-50.2251954,-8.856057061
+8/17/20,09:58,T018,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,N,243,,41,-36.53126749,-18.61361049
+8/17/20,09:58,T018,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,227,,132,-96.53868861,-90.02378353
+8/17/20,10:00,T018,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,237,,75,-62.9002926,-40.84792763
+8/17/20,10:01,T018,281,0,0,281,ON,HS,1,LB,Platform,Crash Dive,No,1,No,,1,N,255,,41,-39.60295888,-10.61158085
+8/17/20,10:03,T018,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,221,,91,-59.70137164,-68.6785718
+8/17/20,10:05,T018,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,210,,141,-70.5,-122.1095819
+8/17/20,10:06,T018,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,197,,218,-63.73703163,-208.4744368
+8/17/20,10:10,T018,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,197,,218,-63.73703163,-208.4744368
+8/17/20,10:10,T018,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,255,,42,-40.5688847,-10.87039989
+8/17/20,10:15,T018,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,245,,40,-36.25231148,-16.90473047
+8/17/20,10:16,T018,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,223,,227,-154.8136277,-166.0172903
+8/17/20,10:18,T018,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,227,,86,-62.89641834,-58.65185897
+8/17/20,10:35,T019,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,N,206,,170,-74.52309495,-152.7949879
+8/17/20,10:36,T019,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,243,,55,-49.00535883,-24.96947749
+8/17/20,10:39,T019,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,197,,85,-24.8515949,-81.28590426
+8/17/20,10:41,T019,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,205,,176,-74.38081407,-159.5101705
+8/17/20,10:45,T019,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,230,,87,-66.64586655,-55.92252204
+8/17/20,10:47,T019,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,300,,215,-186.1954618,107.5
+8/17/20,10:53,T019,281,0,0,281,ON,HS,3,LB,Platform,Foraging (Fish visible),Yes,0,Yes,X3,1,N,230,,60,-45.96266659,-38.56725658
+8/17/20,10:57,T019,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,25,,130,54.94037403,117.8200123
+8/17/20,10:59,T019,281,0,0,281,ON,HS,2,LB,Platform,"Normal Surfacing, Crash Dive",No,1,Yes,X2,1,N,225,,52,-36.76955262,-36.76955262
+8/17/20,11:03,T019,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,210,,66,-33,-57.15767665
+8/17/20,11:34,T020,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,2,S,215,,88,-50.4747264,-72.0853799
+8/17/20,11:37,T020,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,N,275,,88,-87.66513343,7.669705362
+8/17/20,11:40,T020,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,210,,94,-47,-81.40638796
+8/17/20,11:43,T020,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,212,,160,-84.78708228,-135.6876954
+8/17/20,11:43,T020,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,175,,212,18.47701746,-211.193276
+8/17/20,11:45,T020,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,N,43,,51,34.78191636,37.29903878
+8/17/20,11:46,T020,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,S,320,,160,-102.8460175,122.5671109
+8/17/20,11:49,T020,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,2,S,325,,84,-48.18042065,68.80877172
+8/17/20,11:50,T020,281,0,0,281,ON,HS,2,LB,Platform,"Crash Dive, Foraging (Fish visible)",Yes,1,Yes,X2,2,S,330,,86,-43,74.47818473
+8/17/20,12:18,T021,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,330,,83,-41.5,71.88010851
+8/17/20,12:21,T021,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,330,,83,-41.5,71.88010851
+8/17/20,12:22,T021,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2 did last nite go thru? If so delete,2,S,275,,60,-59.77168189,5.229344565
+8/17/20,12:25,T021,281,0,0,281,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,,2,N,210,,74,-37,-64.08587988
+8/17/20,12:28,T021,281,0,0,281,ON,HS,3,LB,Platform,Normal Surfacing,No,0,Yes,X3,3,N,245,,220,-199.3877131,-92.97601758
+8/17/20,12:31,T021,281,0,0,281,ON,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,2,N,213,,134,-72.98163069,-112.3818561
+8/17/20,12:34,T021,281,0,0,281,ON,HS,1,LB,Platform,Crash Dive,No,1,No,,1,S,196,,34,-9.371670098,-32.68289766
+8/17/20,12:37,T021,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,247,,70,-64.43533974,-27.35117899
+8/17/20,12:40,T021,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,205,,81,-34.2320792,-73.41093075
+8/17/20,12:44,T021,281,0,0,281,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,No,,1,N,220,,77,-49.49464595,-58.98542212
+8/17/20,13:25,T022,281,0,0,281,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,No,,1,N,220,,77,-49.49464595,-58.98542212
+8/17/20,13:33,T022,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,210,,236,-118,-204.3819953
+8/17/20,13:35,T022,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,145,,87,49.90114996,-71.26622785
+8/17/20,13:36,T022,281,0,0,281,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,,1,N,236,,67,-55.54551736,-37.46592453
+8/17/20,13:40,T022,281,0,0,281,ON,HS,2,LB,Platform,"Normal Surfacing, Foraging (Fish visible)",Yes,0,Yes,X2 same fish,1,N,300,,46,-39.83716857,23
+8/17/20,13:46,T022,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,3,N,227,,145,-106.0462867,-98.88976221
+8/17/20,13:50,T022,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,190,,73,-12.67631697,-71.89096597
+8/17/20,14:19,T023,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,185,,215,-18.73848469,-214.1818601
+8/17/20,14:20,T023,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,1,S,190,,130,-22.5742631,-128.0250079
+8/17/20,14:24,T023,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,Frieda w the eyebrows!,1,N,356,,34,-2.371720107,33.91717771
+8/17/20,14:26,T023,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,205,,160,-67.61892188,-145.0092459
+8/17/20,14:28,T023,281,0,0,281,ON,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,3,N,210,,160,-80,-138.5640646
+8/17/20,14:30,T023,281,0,0,281,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,Frieda,1,N,340,,45,-15.39090645,42.28616794
+8/17/20,14:31,T023,281,0,0,281,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,Frieda w fish! Delete last if didn’t go theu,1,N,310,,40,-30.64177772,25.71150439
+8/17/20,14:33,T023,281,0,0,281,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,4,S,330,,250,-125,216.5063509
+8/17/20,14:34,T023,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,310,,120,-91.92533317,77.13451316
+8/17/20,14:42,T023,281,0,0,281,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,FriedA,1,N,310,,36,-27.57759995,23.14035395
+8/17/20,14:45,T023,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,330,,205,-102.5,177.5352078
+8/17/20,15:26,T024,281,0,0,281,ON,HS,2,LB,Platform,"Normal Surfacing, Foraging (Fish visible)",Yes,0,Yes,X2,1,N,290,,74,-69.53725394,25.30949061
+8/17/20,15:38,T024,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,N,327,,72,-39.21401052,60.38428089
+8/17/20,15:41,T024,281,0,0,281,ON,HS,2,LB,Platform,"Normal Surfacing, Foraging (Fish visible)",Yes,0,Yes,X2,1,N,355,,42,-3.660541195,41.84017732
+8/17/20,15:51,T024,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,310,,170,-130.2275553,109.2738936
+8/17/20,15:53,T024,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,237,,165,-138.3806437,-89.86544078
+8/17/20,16:43,T025,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,320,,130,-83.56238926,99.58577761
+8/17/20,16:47,T025,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,S,340,,24,-8.20848344,22.5526229
+8/17/20,16:51,T025,281,0,0,281,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,240,,129,-111.7172771,-64.5
+8/18/20,10:03,C001,239,0,0,239,ON,HS,4,LB,Platform,Normal Surfacing,No,0,Yes,X4 socializing!,3,S,320,,160,-102.8460175,122.5671109
+8/18/20,10:03,C001,239,0,0,239,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2 more!!,3,S,310,,120,-91.92533317,77.13451316
+8/18/20,10:07,C001,239,0,0,239,ON,HS,4,LB,Platform,Crash Dive,No,1,Yes,X4,3,S,315,,120,-84.85281374,84.85281374
+8/18/20,10:11,C001,239,0,0,239,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,2,2,N,335,,150,-63.39273926,135.9461681
+8/18/20,10:15,C001,239,0,0,239,ON,HS,2,LB,Platform,Crash Dive,No,1,No,X2,3,S,310,,130,-99.58577761,83.56238926
+8/18/20,10:22,C001,239,0,0,239,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,Swimming into ladder!! Got video,1,S,300,,10,-8.660254038,5
+8/18/20,10:24,C001,239,0,0,239,ON,HS,2,LB,Platform,"Normal Surfacing, Crash Dive",No,1,No,X2,2,S,330,,39,-19.5,33.77499075
+8/18/20,10:27,C001,239,0,0,239,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,310,,180,-137.8879998,115.7017697
+8/18/20,10:28,C001,239,0,0,239,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,321,,76,-47.82834972,59.06309307
+8/18/20,10:46,C002,239,0,0,239,OFF,HS,2,LB,Platform,Crash Dive,No,1,Yes,X2,2,N,5,,42,3.660541195,41.84017732
+8/18/20,10:48,C002,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,S,306,,120,-97.08203932,70.53423028
+8/18/20,10:51,C002,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,3,N,345,,150,-38.82285677,144.8888739
+8/18/20,10:53,C002,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,2,N,355,,120,-10.45868913,119.5433638
+8/18/20,10:55,C002,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,5,,74,6.449524963,73.71840766
+8/18/20,10:57,C002,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,305,,120,-98.29824531,68.82917236
+8/18/20,10:58,C002,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,324,,64,-37.61825615,51.77708764
+8/18/20,11:01,C002,239,0,0,239,OFF,HS,2,LB,Platform,"Normal Surfacing, Crash Dive",No,1,Yes,X2,3,S,310,,140,-107.246222,89.99026536
+8/18/20,11:02,C002,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,N,338,,137,-51.3211033,127.0241881
+8/18/20,11:03,C002,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,328,,78,-41.33370261,66.1477515
+8/18/20,11:07,C002,239,0,0,239,OFF,HS,2,LB,Platform,Foraging (Fish visible),Yes,0,Yes,X2,3,S,309,,130,-101.028975,81.81165084
+8/18/20,11:10,C002,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,Freida kalo c2,1,N,39,,47,29.57805838,36.52586019
+8/18/20,11:14,C002,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,337,,129,-50.40431558,118.7451261
+8/18/20,11:39,C003,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,S,352,,36,-5.010231635,35.64965047
+8/18/20,11:40,C003,239,0,0,239,OFF,HS,3,LB,Platform,Normal Surfacing,No,0,Yes,X3,3,N,309,,220,-170.9721115,138.450486
+8/18/20,11:45,C003,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,Mom and baby!!! Cx2,1,S,320,,25,-16.06969024,19.15111108
+8/18/20,11:47,C003,239,0,0,239,OFF,HS,2,LB,Platform,"Normal Surfacing, Crash Dive",No,1,No,C2,3,N,307,,230,-183.6861673,138.4174553
+8/18/20,11:53,C003,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,317,,240,-163.6796064,175.5248884
+8/18/20,11:54,C003,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,329,,225,-115.8835669,192.8626427
+8/18/20,11:58,C003,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,325,,86,-49.32757353,70.44707581
+8/18/20,12:02,C003,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,347,,76,-17.09628013,74.05212492
+8/18/20,12:04,C003,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,S,324,,240,-141.0684606,194.1640786
+8/18/20,13:15,C004,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,S,324,,240,-141.0684606,194.1640786
+8/18/20,13:18,C004,239,0,0,239,OFF,HS,3,LB,Platform,"Normal Surfacing, Crash Dive",No,1,Yes,X3,1,N,354,,43,-4.494723921,42.7644415
+8/18/20,13:25,C004,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,N,340,,220,-75.24443153,206.7323766
+8/18/20,13:38,C004,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,Two adults and a juv just circling this school of salmon for the last 20 minutesq,1,N,315,,35,-24.74873734,24.74873734
+8/18/20,13:42,C004,239,0,0,239,OFF,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,3,N,NA,,172,#VALUE!,#VALUE!
+8/18/20,13:43,C004,239,0,0,239,OFF,HS,1,LB,Platform,Crash Dive,No,1,No,,1,S,295,,45,-40.78385042,19.01782178
+8/18/20,13:44,C004,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,310,,78,-59.75146656,50.13743356
+8/18/20,14:06,C005,239,0,0,239,OFF,HS,3,LB,Platform,Foraging (Fish visible),Yes,0,Yes,X3,1,N,330,,20,-10,17.32050808
+8/18/20,14:08,C005,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,C2,1,N,0,,33,0,33
+8/18/20,14:11,C005,239,0,0,239,OFF,HS,5,LB,Platform,Foraging (Fish visible),Yes,0,Yes,5seals fighting over the fish,1,N,295,,44,-39.87754263,18.59520352
+8/18/20,14:21,C005,239,0,0,239,OFF,HS,1,LB,Platform,Crash Dive,No,1,Yes,,1,N,329,,36,-18.5413707,30.85802283
+8/18/20,14:21,C005,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,3,1,S,330,,28,-14,24.24871131
+8/18/20,14:25,C005,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,2,S,270,,56,-56,-1.03E-14
+8/18/20,14:29,C005,239,0,0,239,OFF,HS,2,LB,Platform,"Normal Surfacing, Crash Dive",No,1,Yes,X2,1,N,320,,42,-26.99707961,32.17386661
+8/18/20,14:32,C005,239,0,0,239,OFF,HS,2,LB,Platform,Crash Dive,No,1,Yes,X2 Frieda and kalo playing,1,S,280,,20,-19.69615506,3.472963553
+8/18/20,14:53,C006,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,280,,262,-258.0196313,45.49582255
+8/18/20,14:54,C006,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,1,S,330,,41,-20.5,35.50704156
+8/18/20,14:57,C006,239,0,0,239,OFF,HS,2,LB,Platform,"Normal Surfacing, Crash Dive",No,1,Yes,X2,1,S,340,,34,-11.62868487,31.94954911
+8/18/20,14:58,C006,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,N,280,,43,-42.34673338,7.46687164
+8/18/20,15:02,C006,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,290,,54,-50.74340152,18.46908774
+8/18/20,15:02,C006,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,290,,140,-131.5569669,47.88282007
+8/18/20,15:03,C006,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,S,260,,67,-65.98211945,-11.6344279
+8/18/20,15:04,C006,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,275,,320,-318.7823034,27.88983768
+8/18/20,15:06,C006,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,265,,207,-206.2123025,-18.04123875
+8/18/20,15:08,C006,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,C2,2,S,270,,67,-67,-1.23E-14
+8/18/20,15:16,C006,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,240,,47,-40.70319398,-23.5
+8/18/20,15:19,C006,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,200,,53,-18.1270676,-49.8037089
+8/18/20,15:36,C007,239,0,0,239,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,1,N,270,,40,-40,-7.35E-15
+8/18/20,15:44,C007,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,300,,230,-199.1858429,115
+8/18/20,15:50,C007,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,306,,224,-181.2198067,131.6638965
+8/18/20,16:02,C007,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,280,,103,-101.4351986,17.8857623
+8/18/20,16:04,C007,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,320,,320,-205.6920351,245.1342218
+8/18/20,16:05,C007,239,0,0,239,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,355,,83,-7.233926648,82.68415994
+8/19/20,09:40,C008,520,0,0,520,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,355,,83,-7.233926648,82.68415994
+8/19/20,09:40,C008,520,0,0,520,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,1,S,210,,43,-21.5,-37.23909236
+8/19/20,09:43,C008,520,0,0,520,OFF,HS,3,LB,Platform,Normal Surfacing,No,0,Yes,X3,3,S,260,,153,-150.6755862,-26.56817118
+8/19/20,09:44,C008,520,0,0,520,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,280,,203,-199.9159739,35.25058007
+8/19/20,09:51,C008,520,0,0,520,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,S,280,,150,-147.721163,26.04722665
+8/19/20,09:52,C008,520,0,0,520,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,295,,74,-67.06677624,31.27375137
+8/19/20,09:55,C008,520,0,0,520,OFF,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,No,Fim in the ladder entrance,1,S,210,,10,-5,-8.660254038
+8/19/20,09:56,C008,520,0,0,520,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,301,,57,-48.85853614,29.35717027
+8/19/20,10:02,C008,520,0,0,520,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,54,,290,234.6149284,170.4577232
+8/19/20,10:02,C008,520,0,0,520,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,225,,49,-34.64823228,-34.64823228
+8/19/20,10:04,C008,520,0,0,520,OFF,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,3,S,190,,140,-24.31074487,-137.8730854
+8/19/20,10:08,C008,520,0,0,520,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,322,,61,-37.55534999,48.06865597
+8/19/20,10:25,C008,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,20,,68,23.25736975,63.89909821
+8/19/20,10:28,T026,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,355,,43,-3.747696938,42.83637202
+8/19/20,10:31,T026,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,326,,183,-102.3323013,151.7138758
+8/19/20,10:33,T026,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,320,,65,-41.78119463,49.7928888
+8/19/20,10:34,T026,520,0,0,520,ON,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,3,S,266,,201,-200.5103741,-14.02105122
+8/19/20,10:39,T026,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,324,,57,-33.50375938,46.11396868
+8/19/20,10:41,T026,520,0,0,520,ON,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,3,N,335,,181,-76.49390538,164.0417095
+8/19/20,10:43,T026,520,0,0,520,ON,HS,2,LB,Platform,Crash Dive,No,1,Yes,X2,2,N,260,,150,-147.721163,-26.04722665
+8/19/20,10:46,T026,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,Frieda,1,N,250,,46,-43.22586056,-15.73292659
+8/19/20,10:48,T026,520,0,0,520,ON,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,3,N,340,,221,-75.58645167,207.6720692
+8/19/20,10:53,T026,520,0,0,520,ON,HS,3,LB,Platform,"Normal Surfacing, Crash Dive",No,1,Yes,X3,1,N,260,,42,-41.36192563,-7.293223462
+8/19/20,11:12,T027,520,0,0,520,ON,HS,2,LB,Platform,Crash Dive,No,1,No,X2,1,S,219,,31,-19.50893212,-24.09152481
+8/19/20,11:13,T027,520,0,0,520,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,215,,196,-112.4209815,-160.5538007
+8/19/20,11:14,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,225,,83,-58.68986284,-58.68986284
+8/19/20,11:16,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,5,,41,3.573385453,40.84398262
+8/19/20,11:19,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,330,,120,-60,103.9230485
+8/19/20,11:19,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,N,3,,41,2.145774206,40.94381092
+8/19/20,11:21,T027,520,0,0,520,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,S,327,,210,-114.3741974,176.1208193
+8/19/20,11:22,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,305,,83,-67.98961968,47.60684422
+8/19/20,11:25,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,S,310,,235,-180.0204441,151.0550883
+8/19/20,11:26,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,320,,90,-57.85088487,68.94399988
+8/19/20,11:27,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,Frieda,1,N,300,,41,-35.50704156,20.5
+8/19/20,11:29,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,251,,240,-226.9244581,-78.13635707
+8/19/20,11:31,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,259,,90,-88.34644651,-17.17280958
+8/19/20,11:32,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,277,,103,-102.2322536,12.55254237
+8/19/20,11:33,T027,520,0,0,520,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,S,287,,231,-220.9063986,67.53786379
+8/19/20,11:36,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,162,,183,56.55010997,-174.0433425
+8/19/20,11:37,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,286,,196,-188.4072924,54.02492174
+8/19/20,11:40,T027,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,316,,207,-143.7942827,148.9033387
+8/19/20,11:58,T028,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,305,,253,-207.2454672,145.1148384
+8/19/20,11:59,T028,520,0,0,520,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,S,280,,163,-160.5236637,28.30465296
+8/19/20,12:01,T028,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,301,,182,-156.0044487,93.73692963
+8/19/20,12:02,T028,520,0,0,520,ON,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,3,N,183,,345,-18.0559049,-344.5271895
+8/19/20,12:06,T028,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,302,,168,-142.4720802,89.02643639
+8/19/20,12:15,T028,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,352,,110,-15.30904111,108.9294876
+8/19/20,12:16,T028,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,345,,264,-68.32822791,255.0044181
+8/19/20,12:22,T028,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,2,3,S,345,,245,-63.41066605,236.6518274
+8/19/20,12:24,T028,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,2,3,S,345,,245,-63.41066605,236.6518274
+8/19/20,12:44,T029,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,2,3,S,345,,245,-63.41066605,236.6518274
+8/19/20,12:44,T029,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,270,,81,-81,-1.49E-14
+8/19/20,12:49,T029,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,280,,67,-65.98211945,11.6344279
+8/19/20,12:49,T029,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,286,,147,-141.3054693,40.51869131
+8/19/20,12:50,T029,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,S,302,,230,-195.0510621,121.8814308
+8/19/20,12:53,T029,520,0,0,520,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,C2,3,S,280,,240,-236.3538607,41.67556264
+8/19/20,12:55,T029,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,198,,85,-26.26644452,-80.83980389
+8/19/20,13:05,T029,520,0,0,520,ON,SL,1,LB,Platform,Normal Surfacing,No,0,Yes,STELLER,1,S,210,,44,-22,-38.10511777
+8/19/20,13:08,T029,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,240,,50,-43.30127019,-25
+8/19/20,13:10,T029,520,0,0,520,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,"Seal and stallion within 5 m, STELLER came about 50m close again and quickly retreated",3,N,5,,188,16.38527964,187.2846032
+8/19/20,13:10,T029,520,0,0,520,ON,SL,2,LB,Platform,Normal Surfacing,No,0,No,"Seal and stallion within 5 m, STELLER came about 50m close again and quickly retreated",3,N,5,,188,16.38527964,187.2846032
+8/19/20,13:35,T030,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,S,132,,137,101.8108411,-91.67089307
+8/19/20,13:36,T030,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,343,,245,-71.63106766,234.2946652
+8/19/20,13:40,T030,520,0,0,520,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,,2,S,329,,85,-43.77823637,72.85922056
+8/19/20,13:41,T030,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,351,,143,-22.3701285,141.2394327
+8/19/20,13:43,T030,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,0,,73,0,73
+8/19/20,13:49,T030,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,355,,114,-9.935754673,113.5661956
+8/19/20,13:54,T030,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,Swimming upside down at ladder entrance,1,S,180,,10,1.23E-15,-10
+8/19/20,14:00,T030,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,N,280,,285,-280.6702096,49.48973064
+8/19/20,14:31,T031,520,0,0,520,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,280,,220,-216.6577057,38.20259909
+8/19/20,14:35,T031,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,S,330,,43,-21.5,37.23909236
+8/19/20,14:38,T031,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,300,,165,-142.8941916,82.5
+8/19/20,14:42,T031,520,0,0,520,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,C2,2,N,340,,93,-31.80787333,87.39141373
+8/19/20,14:45,T031,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,285,,54,-52.15999462,13.97622844
+8/19/20,14:57,T031,520,0,0,520,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,S,20,,38,12.99676545,35.70831959
+8/20/20,09:57,T032,333,0,0,333,ON,HS,2,EA,Gate,Normal Surfacing,No,0,No,2 seals,3,NA,NA,,108,#VALUE!,#VALUE!
+8/20/20,09:59,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,NA,NA,NA,,112,#VALUE!,#VALUE!
+8/20/20,10:00,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,"splash, large group of fish schooling s side of canal",NA,NA,NA,,68,#VALUE!,#VALUE!
+8/20/20,10:03,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,1,NA,NA,,30,#VALUE!,#VALUE!
+8/20/20,10:05,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,yes,,2,NA,NA,,73,#VALUE!,#VALUE!
+8/20/20,10:08,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,2,NA,NA,,91,#VALUE!,#VALUE!
+8/20/20,10:08,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,2,NA,NA,,64,#VALUE!,#VALUE!
+8/20/20,10:11,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,NA,NA,,174,#VALUE!,#VALUE!
+8/20/20,10:12,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,NA,NA,,126,#VALUE!,#VALUE!
+8/20/20,10:14,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,NA,NA,,179,#VALUE!,#VALUE!
+8/20/20,10:16,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,nearly under the bridge,4,NA,NA,,242,#VALUE!,#VALUE!
+8/20/20,10:17,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,NA,NA,,148,#VALUE!,#VALUE!
+8/20/20,10:20,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,2,S,NA,,60,#VALUE!,#VALUE!
+8/20/20,10:23,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,2,S,NA,,150,#VALUE!,#VALUE!
+8/20/20,10:24,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,2,N,NA,,91,#VALUE!,#VALUE!
+8/20/20,10:25,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,2,N,NA,,96,#VALUE!,#VALUE!
+8/20/20,10:27,T032,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,2,N,NA,,95,#VALUE!,#VALUE!
+8/20/20,10:43,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,NA,NA,NA,,146,#VALUE!,#VALUE!
+8/20/20,10:44,T033,333,0,0,333,ON,HS,1,EA,Gate,Crash Dive,No,1,No,high arch dive,2,N,NA,,77,#VALUE!,#VALUE!
+8/20/20,10:46,T033,333,0,0,333,ON,HS,2,EA,Gate,Normal Surfacing,No,0,No,2 seals,NA,NA,NA,,189,#VALUE!,#VALUE!
+8/20/20,10:46,T033,333,0,0,333,ON,HS,2,EA,Gate,Normal Surfacing,No,0,No,"2 seals, all 4 within 1m just after surfacing ",NA,NA,NA,,191,#VALUE!,#VALUE!
+8/20/20,10:49,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,3 seals surfacing together ,3,N,NA,,165,#VALUE!,#VALUE!
+8/20/20,10:51,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,"4th seal, Note: Large (~25) group of Chinook swimming toward fish ladder under locks entry gate/sampling location @10:52",3,N,NA,,117,#VALUE!,#VALUE!
+8/20/20,10:53,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,"2 seals, tactile",3,N,NA,,137,#VALUE!,#VALUE!
+8/20/20,10:54,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,2,N,NA,,85,#VALUE!,#VALUE!
+8/20/20,10:58,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,swam rapidly underwater and appeared to be chasing; possibly gull,2,N,NA,,99,#VALUE!,#VALUE!
+8/20/20,10:59,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,NA,NA,,131,#VALUE!,#VALUE!
+8/20/20,11:00,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,yes,,2,N,NA,,67,#VALUE!,#VALUE!
+8/20/20,11:02,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,yes,,1,N,NA,,40,#VALUE!,#VALUE!
+8/20/20,11:03,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,S,NA,,137,#VALUE!,#VALUE!
+8/20/20,11:04,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,S,NA,,143,#VALUE!,#VALUE!
+8/20/20,11:04,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,N,NA,,129,#VALUE!,#VALUE!
+8/20/20,11:05,T033,333,0,0,333,ON,HS,4,EA,Gate,Normal Surfacing,No,0,No,4 seals w/in 1m,NA,NA,NA,,75,#VALUE!,#VALUE!
+8/20/20,11:07,T033,333,0,0,333,ON,HS,3,EA,Gate,Normal Surfacing,No,0,No,3 w/in 1m,NA,NA,NA,,124,#VALUE!,#VALUE!
+8/20/20,11:09,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,yes,,NA,NA,NA,,62,#VALUE!,#VALUE!
+8/20/20,11:12,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,NA,NA,NA,,195,#VALUE!,#VALUE!
+8/20/20,11:12,T033,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,NA,NA,NA,,22,#VALUE!,#VALUE!
+8/20/20,11:33,T034,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,N,NA,,145,#VALUE!,#VALUE!
+8/20/20,11:34,T034,333,0,0,333,ON,HS,2,EA,Gate,Normal Surfacing,No,0,No,2 seals,3,N,NA,,119,#VALUE!,#VALUE!
+8/20/20,11:35,T034,333,0,0,333,ON,HS,2,EA,Gate,Normal Surfacing,No,0,No,2 seals,2,N,NA,,85,#VALUE!,#VALUE!
+8/20/20,11:36,T034,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,N,NA,,217,#VALUE!,#VALUE!
+8/20/20,11:38,T034,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,2seals,3,N,NA,,192,#VALUE!,#VALUE!
+8/20/20,11:38,T034,333,0,0,333,ON,HS,2,EA,Gate,Normal Surfacing,No,0,No,2 seals,3,N,NA,,138,#VALUE!,#VALUE!
+8/20/20,11:39,T034,333,0,0,333,ON,HS,1,EA,Gate,Crash Dive,No,1,No,"tail slaps rigth after observed normal surfacing, same seal, same location",3,N,NA,,192,#VALUE!,#VALUE!
+8/20/20,11:41,T034,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,2 seals within 1m,3,N,NA,,126,#VALUE!,#VALUE!
+8/20/20,11:41,T034,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,2,N,NA,,75,#VALUE!,#VALUE!
+8/20/20,11:43,T034,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,yes,,2,N,NA,,54,#VALUE!,#VALUE!
+8/20/20,11:44,T034,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,3 seals surfacing together ,3,N,NA,,146,#VALUE!,#VALUE!
+8/20/20,11:44,T034,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,3 seals surfacing together ,3,N,NA,,152,#VALUE!,#VALUE!
+8/20/20,11:46,T034,333,0,0,333,ON,HS,1,EA,Gate,Foraging (Fish visible),Yes,0,yes,,2,S,NA,,84,#VALUE!,#VALUE!
+8/20/20,11:47,T034,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,N,NA,,194,#VALUE!,#VALUE!
+8/20/20,11:49,T034,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,3,N,NA,,61,#VALUE!,#VALUE!
+8/20/20,11:56,T034,333,0,0,333,ON,HS,1,EA,Gate,Normal Surfacing,No,0,No,,1,N,NA,,33,#VALUE!,#VALUE!
+8/20/20,12:43,T035,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,210,,126,-63,-109.1192009
+8/20/20,12:45,T035,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,220,,83,-53.3513716,-63.58168878
+8/20/20,12:47,T035,333,0,0,333,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,2,S,220,,64,-41.13840702,-49.02684436
+8/20/20,12:49,T035,333,0,0,333,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,230,,102,-78.1365332,-65.56433619
+8/20/20,12:52,T035,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,240,,127,-109.9852263,-63.5
+8/20/20,12:56,T035,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,290,,236,-221.7674585,80.71675382
+8/20/20,12:57,T035,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,230,,81,-62.04959989,-52.06579638
+8/20/20,13:01,T035,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,270,,127,-127,-2.33E-14
+8/20/20,13:04,T035,333,0,0,333,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,,2,N,280,,81,-79.76942799,14.06550239
+8/20/20,13:05,T035,333,0,0,333,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,240,,132,-114.3153533,-66
+8/20/20,13:38,T036,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,230,,52,-39.83431104,-33.4249557
+8/20/20,13:42,T036,333,0,0,333,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,225,,85,-60.1040764,-60.1040764
+8/20/20,13:43,T036,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,211,,76,-39.14289369,-65.14471485
+8/20/20,13:46,T036,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,260,,58,-57.11884967,-10.0715943
+8/20/20,14:00,T036,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,281,,41,-40.24671452,7.82316881
+8/20/20,14:02,T036,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,280,,65,-64.01250395,11.28713155
+8/20/20,14:04,T036,333,0,0,333,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,,2,S,250,,51,-47.92432366,-17.44302731
+8/20/20,15:14,T037,333,0,0,333,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,,2,S,250,,51,-47.92432366,-17.44302731
+8/20/20,15:14,T037,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,290,,84,-78.93418015,28.72969204
+8/20/20,15:18,T037,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,287,,104,-99.45569462,30.40665729
+8/20/20,15:20,T037,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,S,260,,263,-259.004439,-45.66947073
+8/20/20,15:22,T037,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,305,,63,-51.60657879,36.13531549
+8/20/20,15:25,T037,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,270,,111,-111,-2.04E-14
+8/20/20,15:28,T037,333,0,0,333,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,270,,134,-134,-2.46E-14
+8/20/20,15:33,T037,333,0,0,333,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,295,,61,-55.28477501,25.77971397
+8/20/20,15:35,T037,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,291,,145,-135.3691618,51.96335268
+8/20/20,15:50,T038,333,0,0,333,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,1,N,330,,51,-25.5,44.16729559
+8/20/20,15:52,T038,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,S,270,,33,-33,-6.06E-15
+8/20/20,15:52,T038,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,280,,76,-74.84538923,13.1972615
+8/20/20,15:55,T038,333,0,0,333,ON,HS,3,LB,Platform,"Normal Surfacing, Crash Dive",No,1,Yes,X3 two crash dives def foraging and about the enter the ladder ,1,S,330,,23,-11.5,19.91858429
+8/20/20,16:03,T038,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,3,N,275,,174,-173.3378775,15.16509924
+8/20/20,16:04,T038,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,S,260,,23,-22.65057832,-3.993908086
+8/20/20,16:11,T038,333,0,0,333,ON,HS,2,LB,Platform,Foraging (Fish visible),Yes,0,Yes,X2!,1,S,260,,33,-32.49865585,-5.730389863
+8/20/20,16:19,T038,333,0,0,333,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,285,,163,-157.4459097,42.18750435
+8/21/20,10:25,T039,585,0,0,585,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,S,90,,110,110,6.74E-15
+8/21/20,10:33,T039,585,0,0,585,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,335,3,N,335,,184,-77.76176016,166.7606328
+8/21/20,10:37,T039,585,0,0,585,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,330,,68,-34,58.88972746
+8/21/20,10:38,T039,585,0,0,585,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,345,,173,-44.7756948,167.1051679
+8/21/20,10:39,T039,585,0,0,585,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,3,N,355,,182,-15.86234518,181.3074351
+8/21/20,10:49,T039,585,0,0,585,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,1,N,60,,50,43.30127019,25
+8/21/20,12:08,T040,585,0,0,585,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,1,N,60,,50,43.30127019,25
+8/21/20,13:43,T040,585,0,0,585,ON,HS,2,LB,Platform,Normal Surfacing,No,0,Yes,X2,1,N,60,,50,43.30127019,25
+8/21/20,13:45,T040,585,0,0,585,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,1,S,355,,34,-2.963295253,33.87061974
+8/21/20,13:46,T040,585,0,0,585,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,337,,103,-40.24530623,94.81199991
+8/21/20,13:48,T040,585,0,0,585,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,5,,107,9.325664474,106.5928327
+8/21/20,13:55,T040,585,0,0,585,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,S,357,,54,-2.826141637,53.92599488
+8/21/20,13:57,T040,585,0,0,585,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,5,,86,7.495393876,85.67274404
+8/21/20,13:57,T040,585,0,0,585,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,330,,160,-80,138.5640646
+8/21/20,14:08,T040,585,0,0,585,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,340,,160,-54.72322293,150.3508193
+8/21/20,14:11,T040,585,0,0,585,ON,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,3,N,330,,175,-87.5,151.5544457
+8/22/20,11:08,C009,296,0,0,296,ON,HS,2,AC,Platform,Normal Surfacing,No,0,No,X2,1,N,30,,65,32.5,56.29165125
+8/22/20,11:12,C009,296,0,0,296,ON,HS,1,AC,Platform,Foraging (Fish visible),Yes,0,No,,1,N,32,,51,27.02588248,43.2504529
+8/22/20,11:14,C009,296,0,0,296,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,1,S,20,,26,8.892523726,24.43200814
+8/22/20,11:21,C009,296,0,0,296,ON,HS,1,AC,Platform,Crash Dive,No,1,No,,1,N,42,,52,34.79479153,38.64353092
+8/22/20,11:23,C009,296,0,0,296,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,Light colored young individual,2,N,12,,62,12.89052483,60.64515125
+8/22/20,11:25,C009,296,0,0,296,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,Dark large ind,2,N,10,,68,11.80807608,66.9669272
+8/22/20,11:27,C009,296,0,0,296,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,Light colored ind,2,N,52,,46,36.24849467,28.32042786
+8/22/20,11:32,C009,296,0,0,296,ON,HS,2,AC,Platform,Normal Surfacing,No,0,No,X2,3,S,308,,122,-96.13731194,75.11069999
+8/22/20,11:52,C010,296,0,0,296,OFF,HS,2,AC,Platform,Normal Surfacing,No,0,No,X2,3,N,8,,66,9.185424663,65.35769254
+8/22/20,11:56,C010,296,0,0,296,OFF,HS,1,AC,Platform,Normal Surfacing,No,0,No,,1,N,24,,64,26.03114516,58.46690929
+8/22/20,11:57,C010,296,0,0,296,OFF,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,352,,46,-6.401962644,45.55233116
+8/22/20,11:58,C010,296,0,0,296,OFF,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,N,14,,82,19.83759544,79.56424955
+8/22/20,12:00,C010,296,0,0,296,OFF,HS,2,AC,Platform,Normal Surfacing,No,0,No,X2,2,N,2,,47,1.640276345,46.97136887
+8/22/20,12:01,C010,296,0,0,296,OFF,HS,1,AC,Platform,Normal Surfacing,No,0,No,,1,S,68,,53,49.14074429,19.85414945
+8/22/20,12:03,C010,296,0,0,296,OFF,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,20,,41,14.02282588,38.52739745
+8/22/20,12:05,C010,296,0,0,296,OFF,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,358,,38,-1.326180875,37.97685143
+8/22/20,12:06,C010,296,0,0,296,OFF,HS,1,AC,Platform,Normal Surfacing,No,0,No,,1,N,30,,60,30,51.96152423
+8/22/20,12:10,C010,296,0,0,296,OFF,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,N,310,,178,-136.3559109,114.4161945
+8/22/20,12:14,C010,296,0,0,296,OFF,HS,2,AC,Platform,Normal Surfacing,No,0,No,X2,3,N,306,,107,-86.5648184,62.893022
+8/22/20,12:15,C010,296,0,0,296,OFF,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,N,308,,146,-115.04957,89.8865754
+8/22/20,12:17,C010,296,0,0,296,OFF,HS,1,AC,Platform,Normal Surfacing,No,0,No,,1,N,18,,48,14.83281573,45.65071278
+8/22/20,12:20,C010,296,0,0,296,OFF,HS,1,AC,Platform,Normal Surfacing,No,0,No,,1,N,18,,52,16.06888371,49.45493885
+8/22/20,12:24,C010,296,0,0,296,OFF,HS,3,AC,Platform,Normal Surfacing,No,0,No,X3,3,S,292,,182,-168.7474615,68.1784
+8/22/20,12:44,C011,296,0,0,296,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,1,N,270,,47,-47,-8.64E-15
+8/22/20,12:45,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,280,,110,-108.3288528,19.10129954
+8/22/20,12:48,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,200,,135,-46.17271935,-126.8585038
+8/22/20,12:49,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,275,,68,-67.74123947,5.926590507
+8/22/20,12:51,C011,296,0,0,296,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,C2,3,N,290,,129,-121.2203481,44.12059849
+8/22/20,12:53,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,270,,65,-65,-1.19E-14
+8/22/20,12:55,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,290,,155,-145.6523562,53.01312222
+8/22/20,12:57,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,300,,43,-37.23909236,21.5
+8/22/20,12:59,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,285,,105,-101.4222118,27.17599974
+8/22/20,13:01,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,265,,54,-53.7945137,-4.706410108
+8/22/20,13:03,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,300,,47,-40.70319398,23.5
+8/22/20,13:06,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,270,,245,-245,-4.50E-14
+8/22/20,13:07,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,325,,54,-30.97312756,44.23421039
+8/22/20,13:09,C011,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,275,,120,-119.5433638,10.45868913
+8/22/20,13:20,C012,296,0,0,296,OFF,HS,3,LB,Platform,Normal Surfacing,No,0,No,X3,3,S,292,,182,-168.7474615,68.1784
+8/22/20,13:25,C012,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,300,,54,-46.7653718,27
+8/22/20,13:27,C012,296,0,0,296,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,280,,140,-137.8730854,24.31074487
+8/22/20,13:28,C012,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,297,,52,-46.33233926,23.60750599
+8/22/20,13:33,C012,296,0,0,296,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,270,,135,-135,-2.48E-14
+8/22/20,13:42,C012,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,275,,164,-163.3759305,14.29354181
+8/22/20,13:45,C012,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,330,,164,-82,142.0281662
+8/22/20,14:09,C013,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,330,,164,-82,142.0281662
+8/22/20,14:10,C013,296,0,0,296,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,270,,130,-130,-2.39E-14
+8/22/20,14:13,C013,296,0,0,296,OFF,HS,1,LB,Platform,Crash Dive,No,1,No,,3,N,280,,184,-181.2046266,31.95126469
+8/22/20,14:16,C013,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,Lots of boats in block 3 obstructing view,3,N,270,,215,-215,-3.95E-14
+8/22/20,14:16,C013,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,295,,162,-146.8218615,68.4641584
+8/22/20,14:19,C013,296,0,0,296,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,265,,115,-114.5623903,-10.02291042
+8/22/20,14:21,C013,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,275,,56,-55.78690309,4.880721594
+8/22/20,14:22,C013,296,0,0,296,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,305,,180,-147.447368,103.2437585
+8/22/20,14:24,C013,296,0,0,296,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,302,,72,-61.05946292,38.15418702
+8/22/20,14:30,C013,296,0,0,296,OFF,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,N,265,,130,-129.5053108,-11.33024656
+8/24/20,12:47,C014,248,0,0,248,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,260,,58,-57.11884967,-10.0715943
+8/24/20,12:56,C014,248,0,0,248,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,265,,85,-84.67654934,-7.408238134
+8/24/20,12:58,C014,248,0,0,248,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,255,,64,-61.81925288,-16.56441889
+8/24/20,13:03,C014,248,0,0,248,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,235,,56,-45.87251448,-32.12028044
+8/24/20,13:06,C014,248,0,0,248,OFF,HS,4,LB,Platform,"Normal Surfacing, Crash Dive",No,1,No,"X4, one cd 3!normal",3,N,245,,195,-176.7300185,-82.41056104
+8/24/20,13:08,C014,248,0,0,248,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,S,265,,198,-197.2465502,-17.25683706
+8/24/20,13:13,C014,248,0,0,248,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,255,,171,-165.1733163,-44.25805671
+8/24/20,13:13,C014,248,0,0,248,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,275,,64,-63.75646068,5.577967536
+8/24/20,13:15,C014,248,0,0,248,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,260,,55,-54.16442642,-9.550649772
+8/24/20,13:38,T041,248,0,0,248,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,260,,55,-54.16442642,-9.550649772
+8/24/20,13:39,T041,248,0,0,248,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,1,S,275,,40,-39.84778792,3.48622971
+8/24/20,13:40,T041,248,0,0,248,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,C2,3,S,280,,177,-174.3109723,30.73572745
+8/24/20,13:42,T041,248,0,0,248,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,265,,82,-81.68796524,-7.146770905
+8/24/20,13:45,T041,248,0,0,248,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,285,,64,-61.81925288,16.56441889
+8/24/20,13:46,T041,248,0,0,248,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,265,,276,-274.9497367,-24.054985
+8/24/20,13:48,T041,248,0,0,248,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,"S
+2seals circling in 2N, we’re in block 1 before tast on during break",2,N,250,,62,-58.26094249,-21.20524889
+8/24/20,13:50,T041,248,0,0,248,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,278,,155,-153.4915507,21.57183065
+8/24/20,13:54,T041,248,0,0,248,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,245,,62,-56.1910828,-26.20233223
+8/24/20,13:54,T041,248,0,0,248,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,300,,83,-71.88010851,41.5
+8/24/20,13:55,T041,248,0,0,248,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,3,S,300,,184,-159.3486743,92
+8/24/20,13:57,T041,248,0,0,248,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,285,,120,-115.9110992,31.05828541
+8/24/20,13:58,T041,248,0,0,248,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,280,,67,-65.98211945,11.6344279
+8/24/20,14:01,T041,248,0,0,248,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,280,,64,-63.02769619,11.11348337
+8/24/20,14:04,T041,248,0,0,248,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2,2,N,255,,101,-97.55850846,-26.14072356
+8/24/20,14:07,T041,248,0,0,248,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,X2. Generally there were 5 seals circling in 2n,2,N,285,,74,-71.47851115,19.15260934
+8/27/20,17:18,T042,227,0,0,227,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,300,,220,-190.5255888,110
+8/27/20,17:25,T042,227,0,0,227,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,310,,230,-176.1902219,147.8411502
+8/27/20,17:29,T042,227,0,0,227,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,260,,52,-51.21000316,-9.029705239
+8/27/20,17:33,T042,227,0,0,227,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,320,,51,-32.78216809,39.0682666
+8/27/20,17:35,T042,227,0,0,227,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,290,,55,-51.68309414,18.81110788
+8/27/20,17:37,T042,227,0,0,227,ON,HS,2,LB,Platform,Normal Surfacing,No,0,No,2 seals,2,S,275,,70,-69.73362887,6.100901992
+8/27/20,17:44,T042,227,0,0,227,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,265,,95,-94.63849632,-8.279795561
+8/27/20,17:46,T042,227,0,0,227,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,265,,237,-236.0981434,-20.65591103
+8/27/20,18:16,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,270,,360,-360,-6.62E-14
+8/27/20,18:18,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,325,,40,-22.94305745,32.76608177
+8/27/20,18:20,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,330,,53,-26.5,45.8993464
+8/27/20,18:20,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,290,,100,-93.96926208,34.20201433
+8/27/20,18:22,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,300,,52,-45.033321,26
+8/27/20,18:24,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,310,,103,-78.90257764,66.2071238
+8/27/20,18:27,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,270,,240,-240,-4.41E-14
+8/27/20,18:33,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,300,,60,-51.96152423,30
+8/27/20,18:35,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,290,,62,-58.26094249,21.20524889
+8/27/20,18:36,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,315,,200,-141.4213562,141.4213562
+8/27/20,18:38,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,320,,56,-35.99610614,42.89848881
+8/27/20,18:41,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,330,,120,-60,103.9230485
+8/27/20,18:43,C015,227,0,0,227,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,270,,69,-69,-1.27E-14
+9/2/20,10:12,C016,113,0,32,145,OFF,SL,3,AB,Platform,Normal Surfacing,No,0,No,3 adult sea lions D from gate,2,S,266,,24,-23.94153721,-1.67415537
+9/2/20,10:13,C016,113,0,32,145,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,D from gate,2,S,333,,62,-28.14741098,55.2424045
+9/2/20,10:16,C016,113,0,32,145,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL gate,3,N,330,,181,-90.5,156.7505981
+9/2/20,10:16,C016,113,0,32,145,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL gate,2,N,352,,181,-25.19033127,179.2385204
+9/2/20,10:19,C016,113,0,32,145,OFF,SL,2,AB,Platform,Normal Surfacing,No,0,No,Adult SL pup SL,2,S,337,,171,-66.81502297,157.4063299
+9/2/20,10:20,C016,113,0,32,145,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL from gate,3,N,NA,,169,#VALUE!,#VALUE!
+9/2/20,10:22,C016,113,0,32,145,OFF,SL,1,AB,Platform,Foraging (Fish visible),Yes,0,No,Adult male SL,1,S,350,,20,-3.472963553,19.69615506
+9/2/20,10:25,C016,113,0,32,145,OFF,SL,1,AB,Platform,Foraging (Fish visible),Yes,0,No,Adult SL,3,N,332,,135,-63.37866098,119.197925
+9/2/20,10:26,C016,113,0,32,145,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,Juv SL,2,N,350,,60,-10.41889066,59.08846518
+9/2/20,10:27,C016,113,0,32,145,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,3,N,NA,,104,#VALUE!,#VALUE!
+9/2/20,10:28,C016,113,0,32,145,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL gate,2,N,NA,,92,#VALUE!,#VALUE!
+9/2/20,10:28,C016,113,0,32,145,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,3,N,343,,162,-47.36421617,154.9213705
+9/2/20,10:29,C016,113,0,32,145,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,247,,15,-13.8075728,-5.860966927
+9/2/20,10:30,C016,113,0,32,145,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,3,N,NA,,110,#VALUE!,#VALUE!
+9/2/20,10:30,C016,113,0,32,145,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,4,N,NA,,147,#VALUE!,#VALUE!
+9/2/20,10:31,C016,113,0,32,145,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,268,,20,-19.98781654,-0.697989934
+9/2/20,10:32,C016,113,0,32,145,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL gate,2,S,345,,62,-16.0467808,59.88740123
+9/2/20,10:33,C016,113,0,32,145,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,Adult male SL,1,S,354,,17,-1.776983876,16.90687222
+9/2/20,10:35,C016,113,0,32,145,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,267,,50,-49.93147674,-2.616797812
+9/2/20,10:35,C016,113,0,32,145,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL gate,3,N,NA,,135,#VALUE!,#VALUE!
+9/2/20,10:36,C016,113,0,32,145,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,NA,,40,#VALUE!,#VALUE!
+9/2/20,10:37,C016,113,0,32,145,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,2,S,NA,,78,#VALUE!,#VALUE!
+9/2/20,10:38,C016,113,0,32,145,OFF,HS,3,AB,Gate,Normal Surfacing,No,0,No,3 SL from gate,3,N,332,,161,-75.58492161,142.1545625
+9/2/20,10:39,C016,113,0,32,145,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,270,,40,-40,-7.35E-15
+9/2/20,10:41,C016,113,0,32,145,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 HS,1,S,287,,40,-38.25219024,11.69486819
+9/2/20,11:15,T043,113,0,32,145,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,265,,141,-140.4634524,-12.28895973
+9/2/20,11:16,T043,113,0,32,145,ON,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL gate,3,S,NA,,81,#VALUE!,#VALUE!
+9/2/20,11:20,T043,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,S,260,,161,-158.5540482,-27.9573566
+9/2/20,11:24,T043,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,N,NA,,181,#VALUE!,#VALUE!
+9/2/20,11:28,T043,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,275,,40,-39.84778792,3.48622971
+9/2/20,11:31,T043,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,2,S,250,,78,-73.29602442,-26.67757118
+9/2/20,11:35,T043,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,2,S,260,,75,-73.86058148,-13.02361333
+9/2/20,11:37,T043,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,N,NA,,203,#VALUE!,#VALUE!
+9/2/20,12:15,T044,113,0,32,145,ON,SL,2,AB,Platform,Foraging (Fish visible),Yes,0,No,2 SL tearing apart salmon,4,N,260,,295,-290.5182871,-51.22621241
+9/2/20,12:19,T044,113,0,32,145,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,3,N,275,,147,-146.4406206,12.81189418
+9/2/20,12:19,T044,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,275,,85,-84.67654934,7.408238134
+9/2/20,12:21,T044,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,280,,40,-39.39231012,6.945927107
+9/2/20,12:22,T044,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,260,,147,-144.7667397,-25.52628212
+9/2/20,12:23,T044,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,270,,154,-154,-2.83E-14
+9/2/20,12:28,T044,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,280,,174,-171.356549,30.21478291
+9/2/20,12:30,T044,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,290,,72,-67.6578687,24.62545032
+9/2/20,12:31,T044,113,0,32,145,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,3,N,250,,197,-185.1194463,-67.37796824
+9/2/20,12:34,T044,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,210,,79,-39.5,-68.4160069
+9/2/20,12:35,T044,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,260,,209,-205.8248204,-36.29246913
+9/2/20,12:37,T044,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,280,,83,-81.7390435,14.41279875
+9/2/20,12:41,T044,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,S,315,,36,-25.45584412,25.45584412
+9/2/20,13:37,T045,113,0,32,145,ON,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL gate,3,N,NA,,173,#VALUE!,#VALUE!
+9/2/20,13:40,T045,113,0,32,145,ON,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL gate,3,N,330,,233,-116.5,201.7839191
+9/2/20,13:41,T045,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS. gate,3,N,NA,,139,#VALUE!,#VALUE!
+9/2/20,13:46,T045,113,0,32,145,ON,HS,2,AB,Platform,Normal Surfacing,No,0,No,2HS,2,S,350,,45,-7.814167995,44.31634889
+9/2/20,13:47,T045,113,0,32,145,ON,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL gate,3,S,NA,,183,#VALUE!,#VALUE!
+9/2/20,13:48,T045,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,N,NA,,158,#VALUE!,#VALUE!
+9/2/20,13:50,T045,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,N,20,,30,10.2606043,28.19077862
+9/2/20,13:51,T045,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,345,,82,-21.2231617,79.20591776
+9/2/20,13:55,T045,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,265,,50,-49.8097349,-4.357787137
+9/2/20,13:55,T045,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,S,NA,,57,#VALUE!,#VALUE!
+9/2/20,13:57,T045,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,S,260,,143,-140.8275087,-24.83168941
+9/2/20,13:59,T045,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,280,,60,-59.08846518,10.41889066
+9/2/20,13:59,T045,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,S,260,,113,-111.2832761,-19.62224408
+9/2/20,14:01,T045,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,270,,113,-113,-2.08E-14
+9/2/20,14:01,T045,113,0,32,145,ON,HS,2,AB,Gate,Normal Surfacing,No,0,No,2 HS from gate,2,N,NA,,88,#VALUE!,#VALUE!
+9/2/20,14:03,T045,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,4,N,NA,,246,#VALUE!,#VALUE!
+9/2/20,14:03,T045,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,N,NA,,138,#VALUE!,#VALUE!
+9/2/20,14:04,T045,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,2,N,NA,,82,#VALUE!,#VALUE!
+9/2/20,14:05,T045,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,NA,,45,#VALUE!,#VALUE!
+9/2/20,14:06,T045,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,N,NA,,193,#VALUE!,#VALUE!
+9/2/20,14:23,T046,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,N,320,,50,-32.13938048,38.30222216
+9/2/20,14:24,T046,113,0,32,145,ON,HS,1,AB,Platform,Crash Dive,No,1,No,HS,2,S,270,,66,-66,-1.21E-14
+9/2/20,14:26,T046,113,0,32,145,ON,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 seals,3,S,NA,,35,#VALUE!,#VALUE!
+9/2/20,14:26,T046,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,N,NA,,165,#VALUE!,#VALUE!
+9/2/20,14:28,T046,113,0,32,145,ON,HS,1,AB,Platform,Crash Dive,No,1,No,HS,2,N,NA,,57,#VALUE!,#VALUE!
+9/2/20,14:30,T046,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,265,,56,-55.78690309,-4.880721594
+9/2/20,14:34,T046,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,N,290,,185,-173.8431348,63.27372652
+9/2/20,14:36,T046,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,1,N,310,,96,-73.54026654,61.70761053
+9/2/20,14:37,T046,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS GATE,4,S,NA,,348,#VALUE!,#VALUE!
+9/2/20,14:40,T046,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,S,NA,,146,#VALUE!,#VALUE!
+9/2/20,14:41,T046,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,300,,68,-58.88972746,34
+9/2/20,14:43,T046,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,260,,50,-49.24038765,-8.682408883
+9/2/20,14:44,T046,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,2,N,NA,,110,#VALUE!,#VALUE!
+9/2/20,14:46,T046,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,290,,80,-75.17540966,27.36161147
+9/2/20,14:48,T046,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,290,,121,-113.7028071,41.38443734
+9/2/20,14:49,T046,113,0,32,145,ON,HS,2,AB,Gate,Normal Surfacing,No,0,No,2 seals gate,2,S,NA,,161,#VALUE!,#VALUE!
+9/2/20,14:50,T046,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,NA,,181,#VALUE!,#VALUE!
+9/2/20,14:52,T046,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,4,N,NA,,231,#VALUE!,#VALUE!
+9/2/20,14:52,T046,113,0,32,145,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,HS gate,3,N,NA,,135,#VALUE!,#VALUE!
+9/2/20,15:30,T047,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,NA,,113,#VALUE!,#VALUE!
+9/2/20,15:31,T047,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,NA,,126,#VALUE!,#VALUE!
+9/2/20,15:32,T047,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,S,NA,,37,#VALUE!,#VALUE!
+9/2/20,15:34,T047,113,0,32,145,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,Male SL,2,S,NA,,37,#VALUE!,#VALUE!
+9/2/20,15:37,T047,113,0,32,145,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,3,N,NA,,187,#VALUE!,#VALUE!
+9/2/20,15:38,T047,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,NA,,75,#VALUE!,#VALUE!
+9/2/20,15:39,T047,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,N,NA,,45,#VALUE!,#VALUE!
+9/2/20,15:40,T047,113,0,32,145,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,3,N,NA,,183,#VALUE!,#VALUE!
+9/2/20,15:43,T047,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,NA,,42,#VALUE!,#VALUE!
+9/2/20,15:45,T047,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,NA,,31,#VALUE!,#VALUE!
+9/2/20,15:46,T047,113,0,32,145,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,3,N,NA,,171,#VALUE!,#VALUE!
+9/2/20,15:48,T047,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,NA,,73,#VALUE!,#VALUE!
+9/2/20,15:49,T047,113,0,32,145,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,NA,,116,#VALUE!,#VALUE!
+9/2/20,15:50,T047,113,0,32,145,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,NA,,81,#VALUE!,#VALUE!
+9/2/20,15:51,T047,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,N,NA,,58,#VALUE!,#VALUE!
+9/2/20,15:52,T047,113,0,32,145,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,NA,,186,#VALUE!,#VALUE!
+9/2/20,15:56,T047,113,0,32,145,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,3,N,NA,,122,#VALUE!,#VALUE!
+9/2/20,15:59,T047,113,0,32,145,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,3,N,NA,,172,#VALUE!,#VALUE!
+9/3/20,10:59,T048,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,ANGLE BOARD FROM HERE ON OUT,2,N,315,335,79,-55.86143571,55.86143571
+9/3/20,11:04,T048,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,300,320,82,-71.01408311,41
+9/3/20,11:04,T048,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,325,345,53,-30.39955113,43.41505835
+9/3/20,11:08,T048,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,295,315,127,-115.101089,53.67251924
+9/3/20,11:09,T048,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,S,280,300,131,-129.0098156,22.74791127
+9/3/20,11:13,T048,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,305,325,158,-129.426023,90.62507694
+9/3/20,11:16,T048,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,2,N,305,325,114,-93.38333305,65.38771374
+9/3/20,11:16,T048,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,295,315,134,-121.4452435,56.63084707
+9/3/20,11:17,T048,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,300,320,190,-164.5448267,95
+9/3/20,11:18,T048,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,310,330,88,-67.41191099,56.56530965
+9/3/20,11:21,T048,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,310,330,80,-61.28355545,51.42300877
+9/3/20,11:25,T048,151,0,256,407,ON,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 seals,2,N,295,315,121,-109.6632422,51.13680967
+9/3/20,11:31,T049,151,0,256,407,ON,HS,3,AB,Platform,Normal Surfacing,No,0,No,3 seals gate,3,N,285,305,127,-122.6725799,32.87001873
+9/3/20,11:34,T049,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,310,330,208,-159.3372442,133.6998228
+9/3/20,11:35,T049,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,4,N,290,310,235,-220.8277659,80.37473368
+9/3/20,11:36,T049,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,295,315,129,-116.9137045,54.51775576
+9/3/20,11:37,T049,151,0,256,407,ON,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 seals,2,N,300,320,83,-71.88010851,41.5
+9/3/20,11:39,T049,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,300,320,95,-82.27241336,47.5
+9/3/20,11:40,T049,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,310,330,74,-56.68728879,47.56628312
+9/3/20,11:41,T049,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,280,300,203,-199.9159739,35.25058007
+9/3/20,11:41,T049,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,300,320,147,-127.3057344,73.5
+9/3/20,11:48,T049,151,0,256,407,ON,HS,2,AB,Platform,"Normal Surfacing, Foraging (Fish visible)",Yes,0,No,2 seals,3,S,285,305,214,-206.7081268,55.38727565
+9/3/20,11:50,T049,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,100,-90.6307787,42.26182617
+9/3/20,11:51,T049,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,300,320,235,-203.5159699,117.5
+9/3/20,11:51,T049,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,300,320,141,-122.1095819,70.5
+9/3/20,11:53,T049,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,S,275,295,91,-90.65371753,7.93117259
+9/3/20,11:53,T049,151,0,256,407,ON,HS,2,AB,Gate,Normal Surfacing,No,0,No,Gate 2 seals,3,S,280,300,196,-193.0223196,34.03504282
+9/3/20,11:56,T049,151,0,256,407,ON,HS,2,AB,Gate,Normal Surfacing,No,0,No,Gate 2 seals,3,S,280,300,130,-128.0250079,22.5742631
+9/3/20,11:56,T049,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,S,290,310,150,-140.9538931,51.3030215
+9/3/20,11:59,T049,151,0,256,407,ON,HS,1,AB,Gate,Foraging (Fish visible),Yes,0,No,Gate,3,N,295,315,163,-147.7281693,68.88677666
+9/3/20,12:18,T050,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,300,320,205,-177.5352078,102.5
+9/3/20,12:19,T050,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,300,320,38,-32.90896534,19
+9/3/20,12:20,T050,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,310,330,72,-55.1551999,46.2807079
+9/3/20,12:21,T050,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,300,320,235,-203.5159699,117.5
+9/3/20,12:23,T050,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,48,-43.50277378,20.28567656
+9/3/20,12:24,T050,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,305,325,71,-58.15979514,40.72392698
+9/3/20,12:31,T050,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,47,-42.59646599,19.8630583
+9/3/20,12:35,T050,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,45,-40.78385042,19.01782178
+9/3/20,12:39,T050,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,47,-42.59646599,19.8630583
+9/3/20,12:43,T050,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,320,340,62,-39.8528318,47.49475547
+9/3/20,13:41,T051,151,0,256,407,ON,HS,2,AB,Gate,Normal Surfacing,No,0,No,Gate 2 seals,3,N,285,305,206,-198.9807202,53.31672329
+9/3/20,13:44,T051,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,S,285,305,140,-135.2296157,36.23466631
+9/3/20,13:46,T051,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,2,N,300,320,112,-96.99484522,56
+9/3/20,13:46,T051,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,340,360,52,-17.78504745,48.86401628
+9/3/20,13:47,T051,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,300,320,165,-142.8941916,82.5
+9/3/20,13:48,T051,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,330,350,83,-41.5,71.88010851
+9/3/20,13:54,T051,151,0,256,407,ON,HS,2,AB,Gate,Normal Surfacing,No,0,No,Gate 2 seals,3,N,290,310,215,-202.0339135,73.53433082
+9/3/20,13:56,T051,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,280,300,113,-111.2832761,19.62224408
+9/3/20,13:59,T051,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,295,315,229,-207.5444832,96.77958194
+9/3/20,14:02,T051,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,285,305,232,-224.0947917,60.04601846
+9/3/20,14:07,T051,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,300,320,177,-153.2864965,88.5
+9/3/20,14:09,T051,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,S,280,300,240,-236.3538607,41.67556264
+9/3/20,14:10,T051,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,275,295,195,-194.2579661,16.99536984
+9/3/20,14:15,T052,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,285,305,235,-226.9925692,60.8224756
+9/3/20,14:18,T052,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,290,310,58,-54.50217201,19.83716831
+9/3/20,14:20,T052,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,340,0,43,-14.70686616,40.40678269
+9/3/20,14:21,T052,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,290,310,235,-220.8277659,80.37473368
+9/3/20,14:22,T052,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,S,275,295,58,-57.77929249,5.055033079
+9/3/20,14:25,T052,151,0,256,407,ON,HS,1,AB,Gate,Crash Dive,No,1,No,Gate,3,S,280,300,120,-118.1769304,20.83778132
+9/3/20,14:29,T052,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,305,325,84,-68.80877172,48.18042065
+9/3/20,14:30,T052,151,0,256,407,ON,HS,2,AB,Gate,Normal Surfacing,No,0,No,Gate 2 seals,3,N,275,295,140,-139.4672577,12.20180398
+9/3/20,14:32,T052,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,310,330,96,-73.54026654,61.70761053
+9/3/20,14:35,T052,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,2,N,300,320,120,-103.9230485,60
+9/3/20,14:38,T052,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,N,290,310,210,-197.3354504,71.8242301
+9/3/20,14:39,T052,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,315,335,55,-38.89087297,38.89087297
+9/3/20,14:41,T052,151,0,256,407,ON,HS,2,AB,Gate,Normal Surfacing,No,0,No,Gate 2 seals,3,N,290,310,208,-195.4560651,71.14018981
+9/3/20,14:41,T052,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,3,S,280,300,230,-226.5057832,39.93908086
+9/3/20,14:42,T052,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,77,-69.7856996,32.54160615
+9/3/20,14:44,T052,151,0,256,407,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,4,N,280,300,330,-324.9865585,57.30389863
+9/3/20,15:06,T053,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,295,315,150,-135.9461681,63.39273926
+9/3/20,15:08,T053,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,290,310,116,-109.004344,39.67433663
+9/3/20,15:09,T053,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,300,320,160,-138.5640646,80
+9/3/20,15:10,T053,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,290,310,160,-150.3508193,54.72322293
+9/3/20,15:12,T053,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,300,320,169,-146.3582932,84.5
+9/3/20,15:14,T053,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,295,315,195,-176.7300185,82.41056104
+9/3/20,15:16,T053,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,300,320,140,-121.2435565,70
+9/3/20,15:20,T053,151,0,256,407,ON,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 seals,3,N,290,310,160,-150.3508193,54.72322293
+9/3/20,15:23,T053,151,0,256,407,ON,HS,2,AB,Platform,Crash Dive,No,1,No,2 seals,3,N,285,305,182,-175.7985004,47.10506621
+9/3/20,15:30,T053,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,290,310,220,-206.7323766,75.24443153
+9/3/20,15:31,T053,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,54,-48.9406205,22.82138613
+9/3/20,15:33,T053,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,300,320,100,-86.60254038,50
+9/3/20,15:34,T053,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,310,330,51,-39.0682666,32.78216809
+9/3/20,15:41,T054,151,0,256,407,ON,HS,1,AB,Platform,"Normal Surfacing, Crash Dive",No,1,No,,1,N,350,10,36,-6.251334396,35.45307911
+9/3/20,15:42,T054,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,S,260,280,20,-19.69615506,-3.472963553
+9/3/20,15:52,T054,151,0,256,407,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,310,330,115,-88.09511096,73.92057511
+9/3/20,15:55,T054,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,290,310,180,-169.1446717,61.5636258
+9/3/20,15:58,T054,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,300,320,120,-103.9230485,60
+9/3/20,16:01,T054,151,0,256,407,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,300,320,118,-102.1909976,59
+9/3/20,16:03,T054,151,0,256,407,ON,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 seals,3,N,290,310,180,-169.1446717,61.5636258
+9/3/20,16:06,T054,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,345,5,42,-10.87039989,40.5688847
+9/3/20,16:10,T054,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,Swimming out of ladder,1,S,40,60,5,3.213938048,3.830222216
+9/3/20,16:11,T054,151,0,256,407,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,305,325,70,-57.3406431,40.15035054
+9/4/20,11:29,T055,21,0,174,195,ON,HS,1,AB,Platform,Foraging (Fish visible),Yes,0,Yes,HS Tossing fish in air,2,N,300,320,60,-51.96152423,30
+9/4/20,11:29,T055,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,SL adult male right next to HS that was tossing fish around,2,N,300,320,60,-51.96152423,30
+9/4/20,11:29,T055,21,0,174,195,ON,SL,2,AB,Platform,Normal Surfacing,No,0,Yes,SL adult male right next to HS that was tossing fish around,2,N,300,320,60,-51.96152423,30
+9/4/20,11:31,T055,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,285,305,120,-115.9110992,31.05828541
+9/4/20,11:33,T055,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,305,325,84,-68.80877172,48.18042065
+9/4/20,11:34,T055,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,300,320,76,-65.81793069,38
+9/4/20,11:35,T055,21,0,174,195,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,310,330,90,-68.94399988,57.85088487
+9/4/20,11:36,T055,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,305,325,54,-44.23421039,30.97312756
+9/4/20,11:37,T055,21,0,174,195,ON,SL,1,AB,Platform,Normal Surfacing,No,0,Yes,SL,2,N,295,315,60,-54.37846722,25.3570957
+9/4/20,11:39,T055,21,0,174,195,ON,SL,1,AB,Platform,Normal Surfacing,No,0,Yes,SL,2,N,300,320,107,-92.6647182,53.5
+9/4/20,11:39,T055,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,290,310,60,-56.38155725,20.5212086
+9/4/20,11:40,T055,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,N,330,350,41,-20.5,35.50704156
+9/4/20,11:42,T055,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,300,320,40,-34.64101615,20
+9/4/20,11:42,T055,21,0,174,195,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,315,335,60,-42.42640687,42.42640687
+9/4/20,11:43,T055,21,0,174,195,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,315,335,50,-35.35533906,35.35533906
+9/4/20,11:45,T055,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,S,280,300,150,-147.721163,26.04722665
+9/4/20,11:46,T055,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,305,325,100,-81.91520443,57.35764364
+9/4/20,11:48,T055,21,0,174,195,ON,SL,1,AB,Platform,Normal Surfacing,No,0,Yes,SL,2,N,295,315,83,-75.22354632,35.07731572
+9/4/20,11:50,T055,21,0,174,195,ON,SL,1,AB,Platform,Normal Surfacing,No,0,Yes,SL,3,N,295,315,130,-117.8200123,54.94037403
+9/4/20,11:51,T055,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,3,S,280,300,130,-128.0250079,22.5742631
+9/4/20,11:52,T055,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,3,N,285,305,200,-193.1851653,51.76380902
+9/4/20,12:16,T056,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,305,325,83,-67.98961968,47.60684422
+9/4/20,12:17,T056,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,320,340,63,-40.49561941,48.26079992
+9/4/20,12:21,T056,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,315,335,70,-49.49747468,49.49747468
+9/4/20,12:26,T056,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,320,340,51,-32.78216809,39.0682666
+9/4/20,12:31,T056,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,295,315,72,-65.25416067,30.42851485
+9/4/20,12:35,T056,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,300,320,70,-60.62177826,35
+9/4/20,13:03,T057,21,0,174,195,ON,SL,1,AB,Platform,Crash Dive,No,1,No,SL,1,N,0,20,74,0,74
+9/4/20,13:05,T057,21,0,174,195,ON,HS,3,AB,Platform,Normal Surfacing,No,0,Yes,3 seals,2,N,310,330,70,-53.62311102,44.99513268
+9/4/20,13:09,T057,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,285,305,111,-107.2177667,28.72891401
+9/4/20,13:11,T057,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS swam into ladder,1,S,290,310,20,-18.79385242,6.840402867
+9/4/20,13:14,T057,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,300,320,100,-86.60254038,50
+9/4/20,13:17,T057,21,0,174,195,ON,SL,1,AB,Platform,Normal Surfacing,No,0,Yes,SL,2,N,315,335,110,-77.78174593,77.78174593
+9/4/20,13:17,T057,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,305,325,70,-57.3406431,40.15035054
+9/4/20,13:21,T057,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,290,310,200,-187.9385242,68.40402867
+9/4/20,13:25,T057,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,305,325,66,-54.06403492,37.8560448
+9/4/20,13:29,T057,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,290,310,175,-164.4462086,59.85352508
+9/4/20,13:31,T057,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS swimming towards ladder,1,S,315,335,20,-14.14213562,14.14213562
+9/4/20,13:37,T058,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,310,330,92,-70.47608877,59.13646009
+9/4/20,13:38,T058,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,N,340,0,41,-14.02282588,38.52739745
+9/4/20,13:40,T058,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,310,330,50,-38.30222216,32.13938048
+9/4/20,13:41,T058,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,N,330,350,42,-21,36.37306696
+9/4/20,13:42,T058,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,S,320,340,30,-19.28362829,22.98133329
+9/4/20,13:45,T058,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals crossing into block 1,1,N,325,345,64,-36.70889193,52.42573083
+9/4/20,13:46,T058,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,S,350,10,15,-2.604722665,14.7721163
+9/4/20,13:47,T058,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,310,330,70,-53.62311102,44.99513268
+9/4/20,13:48,T058,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,S,345,5,40,-10.3527618,38.63703305
+9/4/20,13:51,T058,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,2,S,280,300,75,-73.86058148,13.02361333
+9/4/20,13:53,T058,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,295,315,91,-82.47400862,38.45826182
+9/4/20,13:57,T058,21,0,174,195,ON,SL,1,AB,Platform,Foraging (Fish visible),Yes,0,Yes,SL,4,N,287,307,300,-286.8914268,87.71151142
+9/4/20,14:00,T058,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,290,310,160,-150.3508193,54.72322293
+9/4/20,14:02,T058,21,0,174,195,ON,SL,1,AB,Platform,Crash Dive,No,1,Yes,SL,4,N,285,305,220,-212.5036818,56.94018992
+9/4/20,14:04,T058,21,0,174,195,ON,SL,1,AB,Platform,Foraging (Fish visible),Yes,0,Yes,SL,3,N,295,315,169,-153.166016,71.42248623
+9/4/20,15:04,T059,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,310,330,54,-41.36639993,34.71053092
+9/4/20,15:07,T059,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,275,295,115,-114.5623903,10.02291042
+9/4/20,15:08,T059,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,1,N,335,355,44,-18.59520352,39.87754263
+9/4/20,15:10,T059,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,290,310,111,-104.3058809,37.96423591
+9/4/20,15:11,T059,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,310,330,71,-54.38915546,45.63792029
+9/4/20,15:14,T059,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,305,325,91,-74.54283603,52.19545571
+9/4/20,15:17,T059,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,295,315,160,-145.0092459,67.61892188
+9/4/20,15:20,T059,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 seals; Previous entry did NOT have ID photo,2,N,305,325,88,-72.0853799,50.4747264
+9/4/20,15:22,T059,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,N,345,365,53,-13.71740939,51.19406879
+9/4/20,15:23,T059,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,S,275,295,100,-99.61946981,8.715574275
+9/4/20,15:24,T059,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,2,N,330,350,40,-20,34.64101615
+9/4/20,15:26,T059,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,300,320,178,-154.1525219,89
+9/4/20,15:27,T059,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,2,N,310,330,61,-46.72871103,39.21004419
+9/4/20,15:30,T059,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,2,N,315,335,62,-43.84062043,43.84062043
+9/4/20,15:32,T059,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,285,305,180,-173.8666487,46.58742812
+9/4/20,15:33,T059,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,2,N,320,340,60,-38.56725658,45.96266659
+9/4/20,15:34,T059,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,300,320,105,-90.9326674,52.5
+9/4/20,15:38,T060,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,N,340,0,41,-14.02282588,38.52739745
+9/4/20,15:39,T060,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,1,N,325,345,40,-22.94305745,32.76608177
+9/4/20,15:43,T060,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS TAST no longer on,2,N,300,320,50,-43.30127019,25
+9/4/20,15:45,T060,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,280,300,84,-82.72385125,14.58644692
+9/4/20,15:48,T060,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,310,330,117,-89.62719984,75.20615033
+9/4/20,15:49,T060,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,N,330,350,41,-20.5,35.50704156
+9/4/20,15:53,T060,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,N,325,345,49,-28.10524538,40.13845017
+9/4/20,15:54,T060,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,305,325,125,-102.3940055,71.69705454
+9/4/20,15:55,T060,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,N,345,5,40,-10.3527618,38.63703305
+9/4/20,15:59,T060,21,0,174,195,ON,SL,1,AB,Platform,Crash Dive,No,1,Yes,SL; took video but missed action,4,S,285,305,230,-222.16294,59.52838037
+9/4/20,16:01,T060,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,Previous entry also had one HS next to SL that was crash diving,1,N,344,4,34,-9.371670098,32.68289766
+9/4/20,16:05,T060,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,N,345,5,77,-19.92906647,74.37628862
+9/4/20,16:05,T060,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,305,325,66,-54.06403492,37.8560448
+9/4/20,16:26,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,N,350,10,41,-7.119575284,40.37711787
+9/4/20,16:26,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,N,335,355,40,-16.90473047,36.25231148
+9/4/20,16:27,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,295,315,91,-82.47400862,38.45826182
+9/4/20,16:28,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,S,310,330,28,-21.44924441,17.99805307
+9/4/20,16:28,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,N,335,355,49,-20.70829483,44.40908156
+9/4/20,16:31,T061,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,1,N,340,0,42,-14.36484602,39.46709007
+9/4/20,16:33,T061,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,1,S,320,340,33,-21.21199112,25.27946662
+9/4/20,16:35,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,N,340,0,60,-20.5212086,56.38155725
+9/4/20,16:36,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,S,305,325,20,-16.38304089,11.47152873
+9/4/20,16:37,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,310,330,110,-84.26488874,70.70663707
+9/4/20,16:39,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,320,340,56,-35.99610614,42.89848881
+9/4/20,16:40,T061,21,0,174,195,ON,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 seals,3,N,290,310,216,-202.9736061,73.87635096
+9/4/20,16:41,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,S,330,350,30,-15,25.98076211
+9/4/20,16:43,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,300,320,180,-155.8845727,90
+9/4/20,16:44,T061,21,0,174,195,ON,SL,1,AB,Platform,Crash Dive,No,1,No,SL,1,N,355,15,50,-4.357787137,49.8097349
+9/4/20,16:47,T061,21,0,174,195,ON,SL,1,AB,Platform,Normal Surfacing,No,0,Yes,Same SL as prev entry,2,N,310,330,100,-76.60444431,64.27876097
+9/4/20,16:47,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,S,280,300,20,-19.69615506,3.472963553
+9/4/20,16:50,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,N,340,0,41,-14.02282588,38.52739745
+9/4/20,16:51,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,I think it was HS but need to check photo,2,N,305,325,125,-102.3940055,71.69705454
+9/4/20,16:52,T061,21,0,174,195,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,300,320,60,-51.96152423,30
+9/4/20,16:53,T061,21,0,174,195,ON,SL,1,AB,Platform,Normal Surfacing,No,0,Yes,SL,2,N,300,320,120,-103.9230485,60
+9/4/20,16:54,T061,21,0,174,195,ON,HS,3,AB,Platform,Normal Surfacing,No,0,No,3 seals,2,N,310,330,75,-57.45333323,48.20907073
+9/5/20,09:47,T062,25,0,40,65,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Gate,4,S,285,305,320,-309.0962644,82.82209443
+9/5/20,09:50,T062,25,0,40,65,ON,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL LB AT GATE,2,N,2,22,72,2.512763763,71.95613955
+9/5/20,09:53,T062,25,0,40,65,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,305,325,115,-94.20248509,65.96129018
+9/5/20,09:54,T062,25,0,40,65,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,285,305,175,-169.0370196,45.29333289
+9/5/20,09:54,T062,25,0,40,65,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb at gate,3,N,336,356,180,-73.21259575,164.4381824
+9/5/20,09:57,T062,25,0,40,65,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,4,N,285,305,250,-241.4814566,64.70476128
+9/5/20,09:58,T062,25,0,40,65,ON,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,4,N,288,308,380,-361.4014762,117.4264579
+9/5/20,09:58,T062,25,0,40,65,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,280,300,120,-118.1769304,20.83778132
+9/5/20,09:59,T062,25,0,40,65,ON,SL,1,AB,Gate,Normal Surfacing,No,0,No,LB SL,3,S,288,308,65,-61.81867356,20.08610463
+9/5/20,10:00,T062,25,0,40,65,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,290,310,43,-40.40678269,14.70686616
+9/5/20,10:06,T062,25,0,40,65,ON,SL,1,AB,Gate,Normal Surfacing,No,0,No,LB SL,2,N,51,71,76,59.06309307,47.82834972
+9/5/20,10:06,T062,25,0,40,65,ON,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,305,325,121,-99.11739736,69.4027488
+9/5/20,10:08,T062,25,0,40,65,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,S,280,300,60,-59.08846518,10.41889066
+9/5/20,10:09,T062,25,0,40,65,ON,SL,1,AB,Gate,Normal Surfacing,No,0,No,LB SL,2,N,357,17,81,-4.239212456,80.88899232
+9/5/20,10:10,T062,25,0,40,65,ON,SL,1,AB,Platform,Normal Surfacing,No,0,Yes,SL,2,N,295,315,100,-90.6307787,42.26182617
+9/5/20,10:24,C017,25,0,40,65,OFF,HS,4,AB,Platform,Normal Surfacing,No,0,Yes,4 seals,3,S,280,300,130,-128.0250079,22.5742631
+9/5/20,10:24,C017,25,0,40,65,OFF,HS,4,AB,Gate,Normal Surfacing,No,0,No,LB x4 seals came back through the locks?,3,S,322,342,145,-89.27091392,114.2615593
+9/5/20,10:26,C017,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,S,275,295,220,-219.1628336,19.1742634
+9/5/20,10:26,C017,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,3,S,329,349,153,-78.80082546,131.146597
+9/5/20,10:27,C017,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,300,320,54,-46.7653718,27
+9/5/20,10:28,C017,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,350,10,220,-38.20259909,216.6577057
+9/5/20,10:28,C017,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,295,315,90,-81.56770083,38.03564356
+9/5/20,10:29,C017,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,3,N,358,378,87,-3.036256213,86.94700195
+9/5/20,10:29,C017,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,320,340,72,-46.2807079,55.1551999
+9/5/20,10:30,C017,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,2,N,16,36,51,14.05750515,49.02434649
+9/5/20,10:31,C017,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,Yes,SL,2,N,300,320,94,-81.40638796,47
+9/5/20,10:31,C017,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,Lb last sea lion was LB,3,N,323,343,57,-34.30345632,45.52222407
+9/5/20,10:33,C017,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,2,S,43,63,44,30.00792784,32.17956287
+9/5/20,10:34,C017,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,300,320,70,-60.62177826,35
+9/5/20,10:34,C017,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,LB SL,3,N,346,6,78,-18.86990786,75.68306665
+9/5/20,10:35,C017,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,Yes,SL,3,N,295,315,110,-99.69385657,46.48800879
+9/5/20,10:36,C017,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,N,0,20,51,0,51
+9/5/20,10:37,C017,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,4,N,311,331,227,-171.3190747,148.9253996
+9/5/20,10:38,C017,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,1,S,59,79,41,35.14385933,21.11656107
+9/5/20,10:42,C017,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,300,320,49,-42.43524479,24.5
+9/5/20,10:46,C017,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,2,N,19,39,41,13.34829433,38.7662616
+9/5/20,10:46,C017,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,310,330,52,-39.83431104,33.4249557
+9/5/20,10:46,C017,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,3,N,317,337,176,-120.0317114,128.7182515
+9/5/20,10:47,C017,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,S,275,295,52,-51.8021243,4.532098623
+9/5/20,10:50,C017,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,275,295,18,-17.93150457,1.568803369
+9/5/20,10:51,C017,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,3,N,266,286,96,-95.76614882,-6.696621479
+9/5/20,10:52,C017,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,LB SL,2,S,291,311,44,-41.07753877,15.76818978
+9/5/20,10:52,C017,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,Yes,SL,2,S,285,305,90,-86.93332437,23.29371406
+9/5/20,11:01,C018,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,285,305,64,-61.81925288,16.56441889
+9/5/20,11:02,C018,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,S,280,300,120,-118.1769304,20.83778132
+9/5/20,11:03,C018,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,S,280,300,70,-68.93654271,12.15537244
+9/5/20,11:05,C018,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,S,290,310,56,-52.62278676,19.15312803
+9/5/20,11:06,C018,25,0,40,65,OFF,SL,1,AB,Platform,Foraging (Fish visible),Yes,0,No,SL swimming with fish in mouth,2,S,290,310,21,-19.73354504,7.18242301
+9/5/20,11:07,C018,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,320,340,33,-21.21199112,25.27946662
+9/5/20,11:10,C018,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,S,290,310,63,-59.20063511,21.54726903
+9/5/20,11:15,C018,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,N,315,335,52,-36.76955262,36.76955262
+9/5/20,11:15,C018,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,300,320,60,-51.96152423,30
+9/5/20,11:17,C018,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,340,0,20,-6.840402867,18.79385242
+9/5/20,11:18,C018,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,305,325,67,-54.88318697,38.42962124
+9/5/20,11:18,C018,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,N,0,20,70,0,70
+9/5/20,11:20,C018,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,300,320,52,-45.033321,26
+9/5/20,11:26,C018,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,330,350,27,-13.5,23.3826859
+9/5/20,11:56,C019,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,310,330,68,-52.09102213,43.70955746
+9/5/20,11:59,C019,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,275,295,15,-14.94292047,1.307336141
+9/5/20,12:02,C019,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,290,310,92,-86.45172111,31.46585319
+9/5/20,12:03,C019,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,N,355,15,55,-4.793565851,54.7907084
+9/5/20,12:05,C019,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,1,S,50,70,41,31.40782217,26.354292
+9/5/20,12:05,C019,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,10,30,12,2.083778132,11.81769304
+9/5/20,12:09,C019,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,SL,3,N,300,320,211,-182.7313602,105.5
+9/5/20,12:09,C019,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,Lb SL,3,N,320,340,149,-95.77535384,114.140622
+9/5/20,12:11,C019,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,310,330,61,-46.72871103,39.21004419
+9/5/20,12:12,C019,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,300,320,90,-77.94228634,45
+9/5/20,12:13,C019,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,275,295,46,-45.82495611,4.009164166
+9/5/20,12:16,C019,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,S,285,305,125,-120.7407283,32.35238064
+9/5/20,12:16,C019,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,2,N,250,270,76,-71.41663918,-25.99353089
+9/5/20,12:20,C019,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,270,290,11,-11,-2.02E-15
+9/5/20,12:20,C019,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,340,0,15,-5.13030215,14.09538931
+9/5/20,12:21,C019,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,3,N,317,337,164,-111.8477311,119.9420071
+9/5/20,12:22,C019,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,S,290,310,47,-44.16555318,16.07494674
+9/5/20,13:03,C020,25,0,40,65,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,No,"1 HS, 1 SL",2,N,295,315,81,-73.41093075,34.2320792
+9/5/20,13:03,C020,25,0,40,65,OFF,SL,2,AB,Platform,Normal Surfacing,No,0,No,"1 HS, 1 SL",2,N,295,315,81,-73.41093075,34.2320792
+9/5/20,13:04,C020,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,2,S,357,17,29,-1.517742731,28.96025651
+9/5/20,13:05,C020,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,270,290,15,-15,-2.76E-15
+9/5/20,13:05,C020,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,S,6,26,28,2.926796971,27.84661307
+9/5/20,13:06,C020,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,275,295,18,-17.93150457,1.568803369
+9/5/20,13:06,C020,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,2,N,351,11,78,-12.20188827,77.03969057
+9/5/20,13:08,C020,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,LB SL,2,N,258,278,72,-70.42662725,-14.96964174
+9/5/20,13:08,C020,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,285,305,102,-98.52443428,26.3995426
+9/5/20,13:09,C020,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,3,N,307,327,142,-113.4062424,85.45773329
+9/5/20,13:10,C020,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,300,320,12,-10.39230485,6
+9/5/20,13:12,C020,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,1,N,325,345,66,-37.8560448,54.06403492
+9/5/20,13:12,C020,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,3,N,325,345,160,-91.77222982,131.0643271
+9/5/20,13:16,C020,25,0,40,65,OFF,SL,1,AB,Gate,Foraging (Fish visible),Yes,0,No,LB SL FIM,3,N,314,334,117,-84.16275664,81.27502934
+9/5/20,13:17,C020,25,0,40,65,OFF,SL,1,AB,Platform,Foraging (Fish visible),Yes,0,Yes,SL,3,N,290,310,177,-166.3255939,60.53756537
+9/5/20,13:19,C020,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,305,325,115,-94.20248509,65.96129018
+9/5/20,13:20,C020,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,S,330,350,30,-15,25.98076211
+9/5/20,13:20,C020,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,LB SL,2,N,329,349,49,-25.23686567,42.00119773
+9/5/20,13:20,C020,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,315,335,15,-10.60660172,10.60660172
+9/5/20,13:21,C020,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,Lb SL,1,S,55,75,42,34.40438586,24.09021033
+9/5/20,13:22,C020,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,340,0,21,-7.18242301,19.73354504
+9/5/20,13:23,C020,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,Lb sl,3,N,335,355,148,-62.54750274,134.1335525
+9/5/20,13:23,C020,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,3,N,300,320,132,-114.3153533,66
+9/5/20,13:27,C020,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,4,N,323,343,270,-162.4900563,215.6315877
+9/5/20,13:29,C020,25,0,40,65,OFF,SL,1,AB,Gate,Foraging (Fish visible),Yes,0,No,Lb SL,4,N,316,336,342,-237.5731627,246.0142117
+9/5/20,13:29,C020,25,0,40,65,OFF,SL,1,AB,Platform,Foraging (Fish visible),Yes,0,Yes,SL,4,N,290,310,380,-357.0831959,129.9676545
+9/5/20,13:32,C020,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,3,S,308,328,113,-89.04521516,69.56974671
+9/5/20,13:56,C021,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,310,330,61,-46.72871103,39.21004419
+9/5/20,14:04,C021,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,315,335,65,-45.96194078,45.96194078
+9/5/20,14:06,C021,25,0,40,65,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,2,N,300,320,69,-59.75575286,34.5
+9/5/20,14:07,C021,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,30,50,14,7,12.12435565
+9/5/20,14:09,C021,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,300,320,74,-64.08587988,37
+9/5/20,14:11,C021,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,300,320,70,-60.62177826,35
+9/5/20,14:12,C021,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,305,325,60,-49.14912266,34.41458618
+9/5/20,14:14,C021,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,310,330,56,-42.89848881,35.99610614
+9/5/20,14:16,C021,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,300,320,61,-52.82754963,30.5
+9/5/20,14:17,C021,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,300,320,70,-60.62177826,35
+9/5/20,14:18,C021,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,315,335,94,-66.46803743,66.46803743
+9/5/20,14:35,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,305,325,68,-55.70233901,39.00319767
+9/5/20,14:38,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,310,330,96,-73.54026654,61.70761053
+9/5/20,14:39,C022,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,LB SL,2,S,58,78,41,34.76997194,21.72668983
+9/5/20,14:40,C022,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,Yes,SL,2,N,300,320,79,-68.4160069,39.5
+9/5/20,14:41,C022,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,3,N,355,15,108,-9.412820217,107.5890274
+9/5/20,14:42,C022,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,3,N,348,8,170,-35.34498744,166.2850921
+9/5/20,14:43,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,310,330,62,-47.49475547,39.8528318
+9/5/20,14:44,C022,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,LB SL,1,S,67,87,53,48.78675723,20.70874981
+9/5/20,14:44,C022,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,315,335,28,-19.79898987,19.79898987
+9/5/20,14:45,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,310,330,87,-66.64586655,55.92252204
+9/5/20,14:46,C022,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,1,N,67,87,71,65.3558446,27.74191012
+9/5/20,14:47,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,300,320,77,-66.68395609,38.5
+9/5/20,14:48,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,295,315,119,-107.8506267,50.29157315
+9/5/20,14:50,C022,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,N,5,25,54,4.706410108,53.7945137
+9/5/20,14:51,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,295,315,117,-106.0380111,49.44633662
+9/5/20,14:53,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,300,320,66,-57.15767665,33
+9/5/20,14:53,C022,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,2,S,63,83,34,30.29422182,15.43567699
+9/5/20,14:54,C022,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,315,335,88,-62.22539674,62.22539674
+9/5/20,14:56,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,S,280,300,98,-96.5111598,17.01752141
+9/5/20,14:58,C022,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,LB SL,1,S,110,130,45,42.28616794,-15.39090645
+9/5/20,14:58,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,305,325,64,-52.42573083,36.70889193
+9/5/20,14:59,C022,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,280,300,15,-14.7721163,2.604722665
+9/5/20,14:59,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,305,325,114,-93.38333305,65.38771374
+9/5/20,15:02,C022,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,LB,2,N,48,68,49,36.41409645,32.78739971
+9/5/20,15:02,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,305,325,76,-62.25555537,43.59180916
+9/5/20,15:05,C022,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,310,330,95,-72.7742221,61.06482292
+9/5/20,15:06,C022,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,305,325,120,-98.29824531,68.82917236
+9/5/20,15:21,C023,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,Lb sl,2,N,59,79,70,60.00171105,36.05266524
+9/5/20,15:22,C023,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,295,315,84,-76.12985411,35.49993399
+9/5/20,15:22,C023,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,2,S,34,54,23,12.86143678,19.06786417
+9/5/20,15:26,C023,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,270,290,10,-10,-1.84E-15
+9/5/20,15:26,C023,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,N,300,320,65,-56.29165125,32.5
+9/5/20,15:27,C023,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,Lbsl,2,N,26,46,64,28.05575339,57.52281896
+9/5/20,15:28,C023,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,3,S,2,22,85,2.96645722,84.9482203
+9/5/20,15:28,C023,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,290,310,137,-128.737889,46.85675964
+9/5/20,15:30,C023,25,0,40,65,OFF,HS,3,AB,Gate,Normal Surfacing,No,0,No,X3 lb,2,N,11,31,43,8.204786801,42.20996889
+9/5/20,15:30,C023,25,0,40,65,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,2,N,305,325,59,-48.32997061,33.84100974
+9/5/20,15:33,C023,25,0,40,65,OFF,SL,1,AB,Gate,Normal Surfacing,No,0,No,Lb sl,1,S,65,85,42,38.06492706,17.74996699
+9/5/20,15:34,C023,25,0,40,65,OFF,HS,2,AB,Gate,Normal Surfacing,No,0,No,X2 lb,2,N,345,5,63,-16.30559984,60.85332706
+9/5/20,15:34,C023,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL got video,1,S,25,45,20,8.452365235,18.12615574
+9/5/20,15:35,C023,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,2,N,300,320,76,-65.81793069,38
+9/5/20,15:35,C023,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,HS,3,N,300,320,200,-173.2050808,100
+9/5/20,15:37,C023,25,0,40,65,OFF,HS,2,AB,Gate,Normal Surfacing,No,0,No,X2 lb,3,S,333,353,145,-65.82862246,129.195946
+9/5/20,15:38,C023,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,3,S,340,0,138,-47.19877978,129.6775817
+9/5/20,15:39,C023,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,2,N,46,66,51,36.68632982,35.42757689
+9/5/20,15:40,C023,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL got video,1,S,275,295,10,-9.961946981,0.871557427
+9/5/20,15:41,C023,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,1,S,20,40,13,4.446261863,12.21600407
+9/5/20,15:43,C023,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,S,305,325,23,-18.84049702,13.19225804
+9/5/20,15:45,C023,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,1,N,310,330,52,-39.83431104,33.4249557
+9/5/20,15:46,C023,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,2,S,24,44,23,9.354942791,21.01154553
+9/5/20,15:46,C023,25,0,40,65,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,HS,2,S,290,310,65,-61.08002035,22.23130932
+9/5/20,15:47,C023,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL,2,N,295,315,56,-50.75323607,23.66662266
+9/5/20,15:47,C023,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,3,N,320,340,160,-102.8460175,122.5671109
+9/5/20,15:48,C023,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,3,N,332,352,111,-52.11134347,98.00718281
+9/5/20,15:49,C023,25,0,40,65,OFF,HS,1,AB,Gate,Normal Surfacing,No,0,No,Lb,2,S,20,40,34,11.62868487,31.94954911
+9/5/20,15:49,C023,25,0,40,65,OFF,SL,1,AB,Platform,Normal Surfacing,No,0,No,SL got video,1,S,275,295,12,-11.95433638,1.045868913
+9/5/20,15:50,C023,25,0,40,65,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 seals,2,N,300,320,93,-80.54036255,46.5
+9/6/20,09:47,C024,58,0,106,164,OFF,SL,1,LB,Platform,Normal Surfacing,No,0,No,SL,1,S,318,338,10,-6.691306064,7.431448255
+9/6/20,09:50,C024,58,0,106,164,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,296,316,50,-44.93970231,21.91855734
+9/6/20,09:53,C024,58,0,106,164,OFF,SL,1,LB,Platform,Normal Surfacing,No,0,No,Sea lion circling fish ladder entrance right next to tast,1,S,25,45,10,4.226182617,9.06307787
+9/6/20,09:57,C024,58,0,106,164,OFF,SL,1,LB,Platform,Normal Surfacing,No,0,No,Same sl,1,S,290,310,20,-18.79385242,6.840402867
+9/6/20,10:00,C024,58,0,106,164,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,Range finder struggling in fog,2,S,288,308,50,-47.55282581,15.45084972
+9/6/20,10:05,C024,58,0,106,164,OFF,SL,1,LB,Platform,Normal Surfacing,No,0,Yes,sl,1,S,330,350,7,-3.5,6.062177826
+9/6/20,10:08,C024,58,0,106,164,OFF,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,287,307,55,-52.59676158,16.08044376
+9/6/20,10:10,C024,58,0,106,164,OFF,SL,1,LB,Platform,Normal Surfacing,No,0,No,sl,1,S,355,15,10,-0.871557427,9.961946981
+9/6/20,10:12,C024,58,0,106,164,OFF,SL,1,LB,Platform,Normal Surfacing,No,0,No,SL,1,S,305,325,7,-5.73406431,4.015035054
+9/6/20,10:14,C024,58,0,106,164,OFF,SL,1,LB,Platform,Normal Surfacing,No,0,No,Sl,1,S,290,310,11,-10.33661883,3.762221577
+9/6/20,10:26,T063,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,307,327,80,-63.8908408,48.14520185
+9/6/20,10:27,T063,58,0,106,164,ON,SL,1,LB,Platform,Normal Surfacing,No,0,No,SL,2,N,314,334,110,-79.12737804,76.41242075
+9/6/20,10:28,T063,58,0,106,164,ON,HS,1,LB,Platform,Crash Dive,No,1,Yes,Chasing fish,1,S,246,266,14,-12.78963641,-5.694313003
+9/6/20,10:39,T063,58,0,106,164,ON,SL,1,LB,Platform,Normal Surfacing,No,0,Yes,SL,2,S,281,301,98,-96.19946398,18.69928155
+9/6/20,10:42,T063,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,301,321,80,-68.57338406,41.20304599
+9/6/20,10:43,T063,58,0,106,164,ON,SL,1,LB,Platform,Normal Surfacing,No,0,No,SL,2,N,304,324,110,-91.19413298,61.51121938
+9/6/20,10:45,T063,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,304,324,67,-55.54551736,37.46592453
+9/6/20,10:48,T063,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,Block 4 not visible,2,N,299,319,55,-48.10408389,26.66452911
+9/6/20,10:51,T063,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,283,303,130,-126.6681084,29.24363706
+9/6/20,10:53,T063,58,0,106,164,ON,SL,1,LB,Platform,Normal Surfacing,No,0,No,SL,3,N,292,312,155,-143.7134975,58.06402198
+9/6/20,11:50,T064,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,322,342,55,-33.86138114,43.34059145
+9/6/20,11:53,T064,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,305,325,85,-69.62792376,48.75399709
+9/6/20,12:02,T064,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,299,319,119,-104.0797451,57.69234481
+9/6/20,12:06,T064,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,50+ salmon schooling around tast,2,N,309,329,107,-83.15461788,67.33728184
+9/6/20,12:11,T064,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,"Foamy water from spillway makes visibility difficult, but fog has completely cleared",2,N,302,322,57,-48.33874148,30.20539806
+9/6/20,12:15,T064,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,Chasing fish,1,N,357,17,50,-2.616797812,49.93147674
+9/6/20,12:31,T065,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,299,319,81,-70.84419628,39.26957924
+9/6/20,12:33,T065,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,305,325,61,-49.9682747,34.98816262
+9/6/20,12:35,T065,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,307,327,102,-81.46082202,61.38513236
+9/6/20,12:39,T065,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,284,304,47,-45.60389913,11.37032909
+9/6/20,12:43,T065,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,281,301,87,-85.40156496,16.6003826
+9/6/20,12:50,T065,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,291,311,71,-66.28421028,25.44412442
+9/6/20,12:52,T065,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,301,321,119,-102.0029088,61.28953091
+9/6/20,12:56,T065,58,0,106,164,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,Fish in mouth.,2,N,324,344,86,-50.5495317,69.57546152
+9/6/20,13:06,T066,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,272,292,64,-63.96101293,2.233567789
+9/6/20,13:15,T066,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,9,29,57,8.916764507,56.29823541
+9/6/20,13:16,T066,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,309,329,59,-45.85161173,37.12990307
+9/6/20,13:20,T066,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,5,25,58,5.055033079,57.77929249
+9/6/20,13:23,T066,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,297,317,58,-51.6783784,26.33144898
+9/6/20,13:24,T066,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,312,332,93,-69.11246877,62.22914639
+9/6/20,13:26,T066,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,S,280,300,143,-140.8275087,24.83168941
+9/6/20,13:26,T066,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,307,327,111,-88.64854162,66.80146757
+9/6/20,13:28,T066,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,4,N,289,309,198,-187.212678,64.46249458
+9/6/20,13:35,T066,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,289,309,244,-230.7065324,79.43862969
+9/6/20,13:35,T066,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,305,325,74,-60.61725128,42.44465629
+9/6/20,13:49,T067,58,0,106,164,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,Fim,2,N,307,327,63,-50.31403713,37.91434646
+9/6/20,13:53,T067,58,0,106,164,ON,HS,1,LB,Platform,Foraging (Fish visible),Yes,0,Yes,,2,N,281,301,118,-115.8320076,22.51546145
+9/6/20,13:55,T067,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,S,276,296,34,-33.81374444,3.553967751
+9/6/20,13:56,T067,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,317,337,55,-37.5099098,40.22445359
+9/6/20,13:59,T067,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,10,30,45,7.814167995,44.31634889
+9/6/20,13:59,T067,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,309,329,86,-66.83455269,54.12155363
+9/6/20,14:01,T067,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,291,311,211,-196.98547,75.61563735
+9/6/20,14:03,T067,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,291,311,211,-196.98547,75.61563735
+9/6/20,14:03,T067,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,297,317,75,-66.82548931,34.04928748
+9/6/20,14:06,T067,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,351,371,71,-11.10684702,70.12587218
+9/6/20,14:10,T067,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,308,328,92,-72.49698933,56.64085573
+9/6/20,14:12,T067,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,3,23,53,2.773805681,52.92736534
+9/6/20,14:17,T067,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,340,360,47,-16.07494674,44.16555318
+9/6/20,14:23,T068,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,S,322,342,25,-15.39153688,19.70026884
+9/6/20,14:26,T068,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,302,322,63,-53.42703006,33.38491365
+9/6/20,14:29,T068,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,346,366,53,-12.82186047,51.42567349
+9/6/20,14:29,T068,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,311,331,63,-47.54670355,41.33171883
+9/6/20,14:31,T068,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,321,341,72,-45.31106816,55.95450922
+9/6/20,14:36,T068,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,S,319,339,40,-26.24236116,30.18838321
+9/6/20,14:41,T068,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,Yes,,2,N,308,328,74,-58.31279577,45.55894917
+9/6/20,14:45,T068,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,S,NA,#VALUE!,313,#VALUE!,#VALUE!
+9/6/20,14:49,T068,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,13,33,54,12.14735693,52.6159835
+9/6/20,14:52,T068,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,S,312,332,44,-32.69837232,29.44174668
+9/6/20,15:02,T069,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,303,323,56,-46.9655518,30.49978596
+9/6/20,15:05,T069,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,358,18,63,-2.198668292,62.9616221
+9/6/20,15:12,T069,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,N,12,32,63,13.09843652,61.62329885
+9/6/20,15:13,T069,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,297,317,55,-49.00535883,24.96947749
+9/6/20,15:17,T069,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,3,N,289,309,146,-138.045712,47.53295055
+9/6/20,15:18,T069,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,1,S,308,328,39,-30.73241939,24.01079754
+9/6/20,15:22,T069,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,312,332,46,-34.18466197,30.78000789
+9/6/20,15:27,T069,58,0,106,164,ON,HS,1,LB,Platform,Normal Surfacing,No,0,No,,2,N,300,320,45,-38.97114317,22.5
+9/7/20,10:12,T070,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,Using the angle board,2,N,311,331,89,-67.16915264,58.38925358
+9/7/20,10:14,T070,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,314,334,95,-68.33728103,65.99254519
+9/7/20,10:15,T070,45,0,136,181,ON,HS,1,AC,Platform,Crash Dive,No,1,Yes,Photos taken - maybe not good for individual ID,3,S,284,304,136,-131.9602188,32.9013778
+9/7/20,10:18,T070,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,N,290,310,205,-192.6369873,70.11412938
+9/7/20,10:19,T070,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,3,N,288,308,157,-149.3158731,48.51566812
+9/7/20,10:22,T070,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,S,292,312,59,-54.70384742,22.10178901
+9/7/20,10:25,T070,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,294,314,67,-61.20754566,27.25135509
+9/7/20,10:31,T070,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,290,310,112,-105.2455735,38.30625605
+9/7/20,10:33,T070,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,301,321,103,-88.28823197,53.04892172
+9/7/20,10:38,T070,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,S,282,302,189,-184.8698965,39.29530956
+9/7/20,11:03,T071,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,296,316,121,-108.7540796,53.04290876
+9/7/20,11:06,T071,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,S,286,306,98,-94.2036462,27.01246087
+9/7/20,11:08,T071,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,N,289,309,142,-134.2636377,46.23067793
+9/7/20,11:10,T071,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,291,311,117,-109.2289099,41.9290501
+9/7/20,11:13,T071,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,3,N,288,308,127,-120.7841776,39.24515829
+9/7/20,11:17,T071,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,301,321,75,-64.28754755,38.62785562
+9/7/20,11:20,T071,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,S,282,302,201,-196.6076677,41.79024985
+9/7/20,11:39,T072,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,S,282,302,201,-196.6076677,41.79024985
+9/7/20,11:40,T072,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,"Seal in the ladder during battery check/ change , pic with phone",1,S,0,20,0.1,0,0.1
+9/7/20,12:09,T072,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,S,289,309,202,-190.9947523,65.7647672
+9/7/20,12:28,T073,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,298,318,95,-83.88002132,44.59979846
+9/7/20,12:32,T073,45,0,136,181,ON,HS,2,AC,Platform,Normal Surfacing,No,0,Yes,2x,2,N,301,321,111,-95.14557038,57.16922632
+9/7/20,12:34,T073,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,3,S,282,302,138,-134.9843689,28.69181333
+9/7/20,12:39,T073,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,300,320,45,-38.97114317,22.5
+9/7/20,12:46,T073,45,0,136,181,ON,HS,NA,AC,Platform,Normal Surfacing,No,0,No,2x in the fish ladder,1,S,0,20,0.1,0,0.1
+9/7/20,12:50,T073,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,309,329,53,-41.18873596,33.35398073
+9/7/20,12:52,T073,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,1,S,297,317,29,-25.8391892,13.16572449
+9/7/20,13:04,T074,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,1,S,310,330,23,-17.61902219,14.78411502
+9/7/20,13:05,T074,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,299,319,87,-76.09191452,42.17843696
+9/7/20,13:06,T074,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,1,S,311,331,28,-21.13186825,18.36965281
+9/7/20,13:08,T074,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,3,S,278,298,202,-200.0341499,28.11296639
+9/7/20,13:10,T074,45,0,136,181,ON,HS,2,AC,Platform,Normal Surfacing,No,0,Yes,2x,2,N,304,324,72,-59.69070522,40.26188905
+9/7/20,13:14,T074,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,312,332,76,-56.47900674,50.85392608
+9/7/20,13:17,T074,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,1,S,310,330,33,-25.27946662,21.21199112
+9/7/20,13:18,T074,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,308,328,85,-66.98091406,52.3312254
+9/7/20,13:22,T074,45,0,136,181,ON,HS,1,AC,Platform,Crash Dive,No,1,No,Seal hunting under the platform (no fish seen),1,S,37,57,2,1.203630046,1.59727102
+9/7/20,13:27,T074,45,0,136,181,ON,HS,1,AC,Platform,Crash Dive,No,1,No,Seal hunting under the platform,1,S,258,278,3,-2.934442802,-0.623735072
+9/7/20,13:28,T074,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,1,S,281,301,7,-6.871390284,1.335662968
+9/7/20,13:43,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,1,S,316,336,15,-10.41987556,10.79009701
+9/7/20,13:44,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,299,319,68,-59.47414009,32.96705418
+9/7/20,13:46,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,293,313,98,-90.20947564,38.29165059
+9/7/20,13:46,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,1,S,291,311,22,-20.53876938,7.88409489
+9/7/20,13:49,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,294,314,59,-53.899182,23.99746194
+9/7/20,13:50,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,291,311,98,-91.4908818,35.12005906
+9/7/20,13:52,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,315,335,71,-50.20458146,50.20458146
+9/7/20,13:52,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,316,336,81,-56.26732801,58.26652383
+9/7/20,13:55,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,297,317,109,-97.11971114,49.48496447
+9/7/20,13:56,T075,45,0,136,181,ON,HS,1,AC,Platform,Crash Dive,No,1,Yes,,2,N,300,320,87,-75.34421013,43.5
+9/7/20,13:57,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,312,332,57,-42.35925505,38.14044456
+9/7/20,13:58,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,297,317,119,-106.0297764,54.02486947
+9/7/20,14:01,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,299,319,80,-69.96957657,38.78476962
+9/7/20,14:02,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,323,343,67,-40.32160655,53.50857917
+9/7/20,14:04,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,S,293,313,59,-54.30978635,23.05313658
+9/7/20,14:05,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,Hunting under the platform,1,S,0,20,1,0,1
+9/7/20,14:06,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,309,329,65,-50.51448749,40.90582542
+9/7/20,14:07,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,N,291,311,135,-126.0333576,48.37967319
+9/7/20,14:09,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,298,318,114,-100.6560256,53.51975816
+9/7/20,14:10,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,S,285,305,97,-93.69480515,25.10544737
+9/7/20,14:11,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,306,326,65,-52.58610463,38.2060414
+9/7/20,14:12,T075,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,N,289,309,145,-137.1001935,47.2073824
+9/7/20,14:25,T076,45,0,136,181,ON,HS,2,AC,Platform,Crash Dive,No,1,Yes,Sea lion and seal interacting,3,N,287,307,165,-157.7902847,48.24133128
+9/7/20,14:25,T076,45,0,136,181,ON,SL,2,AC,Platform,Crash Dive,No,1,Yes,Sea lion and seal interacting,3,N,287,307,165,-157.7902847,48.24133128
+9/7/20,14:26,T076,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,305,325,74,-60.61725128,42.44465629
+9/7/20,14:27,T076,45,0,136,181,ON,HS,1,AC,Platform,Foraging (Fish visible),Yes,0,No,,2,S,278,298,105,-103.9781472,14.6131756
+9/7/20,14:29,T076,45,0,136,181,ON,HS,1,AC,Platform,Crash Dive,No,1,No,Hunting under the platform.,1,S,0,20,2,0,2
+9/7/20,14:31,T076,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,295,315,59,-53.47215944,24.93447744
+9/7/20,14:33,T076,45,0,136,181,ON,SL,1,AC,Platform,Normal Surfacing,No,0,No,Interacting with seal,3,N,290,310,158,-148.4714341,54.03918265
+9/7/20,14:34,T076,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,With seal,2,N,294,314,89,-81.30554573,36.19956123
+9/7/20,14:35,T076,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,300,320,75,-64.95190528,37.5
+9/7/20,14:37,T076,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,S,281,301,115,-112.8871261,21.94303447
+9/7/20,14:38,T076,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,309,329,99,-76.93745018,62.30271871
+9/7/20,14:40,T076,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,305,325,70,-57.3406431,40.15035054
+9/7/20,14:40,T076,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,289,309,106,-100.224969,34.51022437
+9/7/20,14:44,T076,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,2,N,295,315,73,-66.16046845,30.85113311
+9/7/20,14:45,T076,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,1,N,342,362,41,-12.66969677,38.99331717
+9/7/20,14:46,T076,45,0,136,181,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,3,N,291,311,135,-126.0333576,48.37967319
+9/7/20,14:50,T076,45,0,136,181,ON,HS,3,AC,Platform,Normal Surfacing,No,0,Yes,2x and a sea lion,3,N,293,313,139,-127.9501746,54.31162686
+9/7/20,14:50,T076,45,0,136,181,ON,SL,3,AC,Platform,Normal Surfacing,No,0,Yes,2x and a sea lion,3,N,293,313,139,-127.9501746,54.31162686
+9/8/20,10:48,T078,86,0,228,314,ON,HS,,AC,Platform,Normal Surfacing,No,0,Yes,Bearing and distance from the S gate,3,N,NA,#VALUE!,225,#VALUE!,#VALUE!
+9/8/20,11:03,T078,86,0,228,314,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,N,284,304,168,-163.009682,40.64287846
+9/8/20,11:19,T079,86,0,228,314,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,Bearing and distance from S gate,2,N,NA,#VALUE!,103,#VALUE!,#VALUE!
+9/8/20,11:21,T079,86,0,228,314,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,327,347,69,-37.58009342,57.86826919
+9/8/20,11:26,T079,86,0,228,314,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,2,N,308,328,78,-61.46483878,48.02159508
+9/8/20,11:34,T079,86,0,228,314,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,S,280,300,180,-177.2653955,31.25667198
+9/8/20,11:42,T079,86,0,228,314,ON,HS,3,AC,Platform,Normal Surfacing,No,0,Yes,2x and a sea lion,3,N,293,313,139,-127.9501746,54.31162686
+9/8/20,11:42,T079,86,0,228,314,ON,SL,3,AC,Platform,Normal Surfacing,No,0,Yes,2x and a sea lion,3,N,293,313,139,-127.9501746,54.31162686
+9/8/20,11:43,T079,86,0,228,314,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,4,N,288,308,285,-271.0511071,88.0698434
+9/8/20,12:03,T080,86,0,228,314,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,N,292,312,170,-157.6212553,63.68312088
+9/8/20,12:13,T080,86,0,228,314,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,4,N,282,302,280,-273.8813282,58.21527343
+9/8/20,12:19,T080,86,0,228,314,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,S,280,300,180,-177.2653955,31.25667198
+9/8/20,12:19,T080,86,0,228,314,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,N,294,314,181,-165.3517278,73.6193324
+9/9/20,09:48,C025,18,0,252,270,ON,HS,1,AMB,Platform,Foraging (Fish visible),Yes,0,Yes,,2,N,302,322,60,-50.88288577,31.79515585
+9/9/20,09:49,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,N,295,315,145,-131.4146291,61.27964795
+9/9/20,09:50,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,275,295,65,-64.75265538,5.665123279
+9/9/20,09:50,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,N,304,324,115,-95.33932084,64.3071839
+9/9/20,09:53,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,S,280,300,86,-84.69346676,14.93374328
+9/9/20,09:55,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,1,N,315,335,68,-48.08326112,48.08326112
+9/9/20,09:56,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,283,303,60,-58.46220389,13.49706326
+9/9/20,09:57,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,N,303,323,73,-61.22295146,39.75864956
+9/9/20,09:59,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,3,S,283,303,130,-126.6681084,29.24363706
+9/9/20,10:00,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,S,277,297,62,-61.5378614,7.555899291
+9/9/20,10:00,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,S,277,297,65,-64.51549986,7.921507321
+9/9/20,10:01,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,N,291,311,65,-60.68272772,23.29391672
+9/9/20,10:03,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,S,274,294,62,-61.84897112,4.324901372
+9/9/20,10:03,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,S,273,293,74,-73.89858557,3.872860762
+9/9/20,10:04,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,S,273,293,56,-55.92325395,2.93081355
+9/9/20,10:05,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,N,286,306,75,-72.0946272,20.67280169
+9/9/20,10:07,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,N,289,309,280,-264.7452012,91.15908325
+9/9/20,10:09,C025,18,0,252,270,ON,HS,1,AMB,Platform,Foraging (Fish visible),Yes,0,Yes,,1,N,354,14,72,-7.526049355,71.60557647
+9/9/20,10:11,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,S,271,291,35,-34.99466933,0.610834225
+9/9/20,10:13,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,S,283,303,110,-107.1807071,24.74461598
+9/9/20,10:14,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,1,N,343,3,76,-22.22024956,72.67916145
+9/9/20,10:15,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,N,269,289,87,-86.98674948,-1.51835936
+9/9/20,10:16,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,276,296,73,-72.60009836,7.630577819
+9/9/20,10:18,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,277,297,91,-90.3216998,11.09011025
+9/9/20,10:19,C025,18,0,252,270,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,1,S,337,357,25,-9.768278212,23.01262134
+9/9/20,11:03,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Foraging (Fish visible),Yes,0,No,,2,S,291,311,49,-45.7454409,17.56002953
+9/9/20,11:06,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,1,N,323,343,48,-28.88712111,38.33450448
+9/9/20,11:10,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,1,N,350,370,74,-12.84996515,72.87577372
+9/9/20,11:13,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,S,293,313,54,-49.70726209,21.09948094
+9/9/20,11:14,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,N,291,311,140,-130.7012597,50.17151294
+9/9/20,11:15,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,278,298,87,-86.15332198,12.10805978
+9/9/20,11:18,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,281,301,65,-63.80576692,12.4025847
+9/9/20,11:19,C026,18,0,252,270,OFF,SL,2,AMB,Platform,Normal Surfacing,No,0,No,2 sea lions on top of each other with vicalization,2,S,279,299,70,-69.13818384,10.95041255
+9/9/20,11:20,C026,18,0,252,270,OFF,HS,2,AMB,Platform,Normal Surfacing,No,0,No,There were two in the same area,1,S,353,13,70,-8.530854038,69.47823061
+9/9/20,11:21,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,1,N,336,356,79,-32.1321948,72.17009115
+9/9/20,11:22,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,3,S,271,291,200,-199.969539,3.490481287
+9/9/20,11:24,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,Traveling to me,1,S,301,321,32,-27.42935362,16.4812184
+9/9/20,11:25,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Crash Dive,No,1,No,,1,S,315,335,35,-24.74873734,24.74873734
+9/9/20,11:26,C026,18,0,252,270,OFF,HS,2,AMB,Platform,Normal Surfacing,No,0,Yes,Both sea lion and harbor seal in San spot,2,N,306,326,63,-50.96807065,37.03047089
+9/9/20,11:26,C026,18,0,252,270,OFF,SL,2,AMB,Platform,Normal Surfacing,No,0,Yes,Both sea lion and harbor seal in San spot,2,N,306,326,63,-50.96807065,37.03047089
+9/9/20,11:28,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,285,305,42,-40.5688847,10.87039989
+9/9/20,11:29,C026,18,0,252,270,OFF,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,1,S,304,324,47,-38.96476591,26.28206646
+9/9/20,11:30,C026,18,0,252,270,OFF,HS,2,AMB,Platform,Normal Surfacing,No,0,Yes,2 harbor seals Same area,2,S,283,303,74,-72.10338479,16.64637802
+9/9/20,12:02,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,295,315,63,-57.09739058,26.62495049
+9/9/20,12:04,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,315,335,34,-24.04163056,24.04163056
+9/9/20,12:06,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,325,345,27,-15.48656378,22.1171052
+9/9/20,12:08,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,S,310,330,25,-19.15111108,16.06969024
+9/9/20,12:10,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,S,285,305,62,-59.88740123,16.0467808
+9/9/20,12:12,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,300,320,129,-111.7172771,64.5
+9/9/20,12:14,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,3,N,290,310,130,-122.1600407,44.46261863
+9/9/20,12:16,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,295,315,63,-57.09739058,26.62495049
+9/9/20,12:16,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,S,278,298,87,-86.15332198,12.10805978
+9/9/20,12:17,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,3,S,280,300,124,-122.1161614,21.53237403
+9/9/20,12:18,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,N,340,360,34,-11.62868487,31.94954911
+9/9/20,12:19,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,S,285,305,98,-94.66073098,25.36426642
+9/9/20,12:21,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,310,330,84,-64.34773322,53.99415921
+9/9/20,12:22,C027,18,0,252,270,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,HS and SL together,1,S,325,345,40,-22.94305745,32.76608177
+9/9/20,12:22,C027,18,0,252,270,OFF,SL,2,AB,Platform,Normal Surfacing,No,0,Yes,HS and SL together,1,S,325,345,40,-22.94305745,32.76608177
+9/9/20,12:24,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,N,355,375,39,-3.399073967,38.85159323
+9/9/20,12:26,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,S,290,310,75,-70.47694656,25.65151075
+9/9/20,12:26,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,305,325,50,-40.95760221,28.67882182
+9/9/20,12:27,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,315,335,80,-56.56854249,56.56854249
+9/9/20,12:28,C027,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,S,280,300,86,-84.69346676,14.93374328
+9/9/20,12:28,C027,18,0,252,270,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,HS and SL together,2,N,300,320,65,-56.29165125,32.5
+9/9/20,12:28,C027,18,0,252,270,OFF,SL,2,AB,Platform,Normal Surfacing,No,0,Yes,HS and SL together,2,N,300,320,65,-56.29165125,32.5
+9/9/20,12:37,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,300,320,75,-64.95190528,37.5
+9/9/20,12:44,C028,18,0,252,270,OFF,HS,1,AB,Platform,Foraging (Fish visible),Yes,0,Yes,"Took video of fish in mouth, might have caught more than one fish in a period of several minutes",1,N,345,365,45,-11.64685703,43.46666218
+9/9/20,12:46,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,300,320,68,-58.88972746,34
+9/9/20,12:47,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,290,310,61,-57.32124987,20.86322874
+9/9/20,12:48,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,295,315,75,-67.97308403,31.69636963
+9/9/20,12:50,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,3,N,280,300,175,-172.3413568,30.38843109
+9/9/20,12:51,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,290,310,175,-164.4462086,59.85352508
+9/9/20,12:52,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,300,320,60,-51.96152423,30
+9/9/20,12:54,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,N,320,340,34,-21.85477873,26.04551107
+9/9/20,12:54,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,315,335,18,-12.72792206,12.72792206
+9/9/20,12:55,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,350,370,22,-3.820259909,21.66577057
+9/9/20,12:57,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,N,345,365,54,-13.97622844,52.15999462
+9/9/20,12:58,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,S,290,310,74,-69.53725394,25.30949061
+9/9/20,13:00,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,295,315,65,-58.91000616,27.47018701
+9/9/20,13:01,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,N,320,340,41,-26.354292,31.40782217
+9/9/20,13:02,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,340,360,45,-15.39090645,42.28616794
+9/9/20,13:04,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,N,350,370,48,-8.335112528,47.27077214
+9/9/20,13:05,C028,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,305,325,60,-49.14912266,34.41458618
+9/9/20,13:35,C029,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,300,320,65,-56.29165125,32.5
+9/9/20,13:37,C029,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,290,310,200,-187.9385242,68.40402867
+9/9/20,13:44,C029,18,0,252,270,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 seals,3,N,295,315,150,-135.9461681,63.39273926
+9/9/20,13:46,C029,18,0,252,270,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,3,N,290,310,200,-187.9385242,68.40402867
+9/9/20,13:50,C029,18,0,252,270,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 seals,2,N,285,305,180,-173.8666487,46.58742812
+9/9/20,13:52,C029,18,0,252,270,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,No,2 seals,2,S,280,300,175,-172.3413568,30.38843109
+9/9/20,13:55,C029,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,100,-90.6307787,42.26182617
+9/9/20,13:55,C029,18,0,252,270,OFF,HS,2,AB,Platform,Crash Dive,No,1,No,2 seals,3,S,280,300,130,-128.0250079,22.5742631
+9/9/20,13:57,C029,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,315,335,78,-55.15432893,55.15432893
+9/9/20,14:01,C029,18,0,252,270,OFF,HS,1,AB,Platform,Foraging (Fish visible),Yes,0,No,,1,N,355,375,60,-5.229344565,59.77168189
+9/9/20,14:04,C029,18,0,252,270,OFF,HS,1,AB,Platform,Foraging (Fish visible),Yes,0,No,,2,S,280,300,42,-41.36192563,7.293223462
+9/9/20,14:23,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,S,285,305,66,-63.75110454,17.08205698
+9/9/20,14:23,C030,18,0,252,270,OFF,HS,2,AB,Platform,Crash Dive,No,1,Yes,2 seals,1,N,345,365,50,-12.94095226,48.29629131
+9/9/20,14:24,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,305,325,20,-16.38304089,11.47152873
+9/9/20,14:25,C030,18,0,252,270,OFF,HS,1,AB,Platform,Foraging (Fish visible),Yes,0,Yes,,1,N,340,360,60,-20.5212086,56.38155725
+9/9/20,14:26,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,S,285,305,25,-24.14814566,6.470476128
+9/9/20,14:27,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,330,350,30,-15,25.98076211
+9/9/20,14:30,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,305,325,24,-19.65964906,13.76583447
+9/9/20,14:31,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,305,325,117,-95.84078918,67.10844305
+9/9/20,14:33,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,305,325,60,-49.14912266,34.41458618
+9/9/20,14:37,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,305,325,85,-69.62792376,48.75399709
+9/9/20,14:40,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,290,310,80,-75.17540966,27.36161147
+9/9/20,14:41,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,295,315,130,-117.8200123,54.94037403
+9/9/20,14:42,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,Upside down swimming,1,S,260,280,17,-16.7417318,-2.95201902
+9/9/20,14:43,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,345,365,50,-12.94095226,48.29629131
+9/9/20,14:44,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,N,350,370,55,-9.550649772,54.16442642
+9/9/20,14:45,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,300,320,120,-103.9230485,60
+9/9/20,14:46,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,N,335,355,40,-16.90473047,36.25231148
+9/9/20,14:47,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,350,370,59,-10.24524248,58.10365743
+9/9/20,14:49,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,Upsideown,1,S,260,280,16,-15.75692405,-2.778370843
+9/9/20,14:49,C030,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,S,345,365,34,-8.799847533,32.84147809
+9/9/20,14:57,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,305,325,52,-42.5959063,29.82597469
+9/9/20,14:58,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,110,-99.69385657,46.48800879
+9/9/20,14:59,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,S,350,370,25,-4.341204442,24.62019383
+9/9/20,15:00,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,S,280,300,75,-73.86058148,13.02361333
+9/9/20,15:01,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,310,330,59,-45.19662214,37.92446897
+9/9/20,15:03,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,310,330,30,-22.98133329,19.28362829
+9/9/20,15:04,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,305,325,100,-81.91520443,57.35764364
+9/9/20,15:06,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,N,340,360,53,-18.1270676,49.8037089
+9/9/20,15:09,C031,18,0,252,270,OFF,HS,3,AB,Platform,Normal Surfacing,No,0,Yes,3 seals,1,N,345,365,60,-15.52914271,57.95554958
+9/9/20,15:09,C031,18,0,252,270,OFF,HS,1,AB,Platform,Foraging (Fish visible),Yes,0,Yes,Couldn’t get photo of fish in mouth,1,S,260,280,30,-29.54423259,-5.20944533
+9/9/20,15:11,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,N,350,370,53,-9.203353416,52.19481091
+9/9/20,15:12,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,325,345,27,-15.48656378,22.1171052
+9/9/20,15:14,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,N,345,365,46,-11.90567607,44.43258801
+9/9/20,15:14,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,330,350,25,-12.5,21.65063509
+9/9/20,15:17,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,300,320,15,-12.99038106,7.5
+9/9/20,15:19,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,280,300,35,-34.46827136,6.077686218
+9/9/20,15:20,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,310,330,20,-15.32088886,12.85575219
+9/9/20,15:21,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,330,350,37,-18.5,32.04293994
+9/9/20,15:22,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,315,335,24,-16.97056275,16.97056275
+9/9/20,15:24,C031,18,0,252,270,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,N,340,360,34,-11.62868487,31.94954911
+9/10/20,10:10,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,310,330,64,-49.02684436,41.13840702
+9/10/20,10:13,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,75,-67.97308403,31.69636963
+9/10/20,10:15,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,300,320,73,-63.21985448,36.5
+9/10/20,10:17,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,290,310,80,-75.17540966,27.36161147
+9/10/20,10:18,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,295,315,98,-88.81816313,41.41658965
+9/10/20,10:19,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,300,320,58,-50.22947342,29
+9/10/20,10:22,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,315,335,72,-50.91168825,50.91168825
+9/10/20,10:23,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,S,280,300,44,-43.33154113,7.640519817
+9/10/20,10:23,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,S,280,300,60,-59.08846518,10.41889066
+9/10/20,10:25,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,300,320,52,-45.033321,26
+9/10/20,10:29,C032,0,0,728,728,OFF,HS,1,AB,Platform,Foraging (Fish visible),Yes,0,Yes,,2,N,300,320,45,-38.97114317,22.5
+9/10/20,10:30,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,S,290,310,45,-42.28616794,15.39090645
+9/10/20,10:35,C032,0,0,728,728,OFF,HS,4,AB,Platform,Foraging (Fish visible),Yes,0,Yes,"Same fish from prev entry, but 4 seals are at the surface together tearing it apart and sharing, got video",2,N,305,325,50,-40.95760221,28.67882182
+9/10/20,10:36,C032,0,0,728,728,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,2,S,275,295,62,-61.76407128,5.40365605
+9/10/20,10:38,C032,0,0,728,728,OFF,HS,2,AB,Platform,Normal Surfacing,No,0,Yes,2 seals,2,S,275,295,70,-69.73362887,6.100901992
+9/10/20,10:39,C032,0,0,728,728,OFF,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,290,310,150,-140.9538931,51.3030215
+9/10/20,10:56,T081,0,0,728,728,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,295,315,52,-47.12800493,21.97614961
+9/10/20,10:59,T081,0,0,728,728,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,290,310,90,-84.57233587,30.7818129
+9/10/20,11:02,T081,0,0,728,728,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,300,320,84,-72.74613392,42
+9/10/20,11:05,T081,0,0,728,728,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,305,325,67,-54.88318697,38.42962124
+9/10/20,11:09,T081,0,0,728,728,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,300,320,73,-63.21985448,36.5
+9/10/20,11:12,T081,0,0,728,728,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,123,-111.4758578,51.98204619
+9/10/20,11:14,T081,0,0,728,728,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,260,280,15,-14.7721163,-2.604722665
+9/10/20,11:16,T081,0,0,728,728,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,285,305,230,-222.16294,59.52838037
+9/10/20,11:19,T081,0,0,728,728,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,290,310,256,-240.5613109,87.55715669
+9/10/20,11:22,T081,0,0,728,728,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,295,315,177,-160.4164783,74.80343233
+9/10/20,11:24,T081,0,0,728,728,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,300,320,140,-121.2435565,70
+9/10/20,11:50,T082,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,276,296,120,-119.3426274,12.54341559
+9/10/20,11:50,T082,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,274,294,50,-49.87820251,3.487823687
+9/10/20,11:52,T082,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,S,273,293,251,-250.6560132,13.13632502
+9/10/20,11:56,T082,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,1,N,287,307,46,-43.99001877,13.44909842
+9/10/20,11:59,T082,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,N,303,323,55,-46.12688124,29.95514693
+9/10/20,12:01,T082,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,S,271,291,45,-44.99314628,0.78535829
+9/10/20,12:02,T082,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,N,286,306,245,-235.5091155,67.53115218
+9/10/20,12:07,T082,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,263,283,56,-55.58258449,-6.824683231
+9/10/20,12:10,T082,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,S,288,308,44,-41.84648672,13.59674775
+9/10/20,12:13,T082,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,S,273,293,53,-52.92736534,2.773805681
+9/10/20,12:15,T082,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,S,279,299,126,-124.4487309,19.7107426
+9/10/20,12:16,T082,0,0,728,728,ON,HS,NA,AMB,Platform,Foraging (Fish visible),Yes,0,No,Swimming under water after a fish,1,N,0,20,0.1,0,0.1
+9/10/20,12:18,T082,0,0,728,728,ON,HS,1,AMB,Platform,Foraging (Fish visible),Yes,0,No,"Playing with fish
+Took a lot of photos",1,N,95,115,10,9.961946981,-0.871557427
+9/10/20,12:21,T083,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,N,300,320,140,-121.2435565,70
+9/10/20,12:22,T083,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,4,N,286,306,278,-267.2307515,76.62718492
+9/10/20,12:30,T083,0,0,728,728,ON,HS,1,AMB,Platform,Foraging (Fish visible),Yes,0,No,I think it’s the same deal from last fix,2,S,282,302,56,-54.77626564,11.64305469
+9/10/20,12:31,T083,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,S,276,296,121,-120.3371493,12.64794406
+9/10/20,12:34,T083,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,1,S,304,324,49,-40.62284106,27.40045227
+9/10/20,12:36,T083,0,0,728,728,ON,HS,1,AMB,Platform,Foraging (Fish visible),Yes,0,No,Just at the surface consistently no going down,2,S,282,302,120,-117.3777121,24.9494029
+9/10/20,12:38,T083,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,Checking out research vessel,2,S,276,296,65,-64.6439232,6.794350112
+9/10/20,12:41,T083,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,S,276,296,250,-248.6304738,26.13211582
+9/10/20,12:48,T083,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,283,303,45,-43.84665292,10.12279745
+9/10/20,13:17,T084,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,N,305,325,60,-49.14912266,34.41458618
+9/10/20,13:20,T084,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,N,296,316,42,-37.74934994,18.41158817
+9/10/20,13:24,T084,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,N,312,332,59,-43.8455447,39.47870578
+9/10/20,13:26,T084,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,1,N,304,324,46,-38.13572834,25.72287356
+9/10/20,13:27,T084,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,2,S,296,316,80,-71.9035237,35.06969174
+9/10/20,13:30,T084,0,0,728,728,ON,HS,3,AMB,Platform,Normal Surfacing,No,0,Yes,X3,2,S,276,296,63,-62.65487941,6.585293186
+9/10/20,13:31,T084,0,0,728,728,ON,HS,2,AMB,Platform,Normal Surfacing,No,0,No,X2,2,S,273,293,154,-153.7889484,8.059737261
+9/10/20,13:33,T084,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,N,297,317,53,-47.22334578,24.06149649
+9/10/20,13:36,T084,0,0,728,728,ON,HS,2,AMB,Platform,Normal Surfacing,No,0,No,X2,3,N,272,292,190,-189.8842571,6.630904373
+9/10/20,13:39,T084,0,0,728,728,ON,HS,2,AMB,Platform,Normal Surfacing,No,0,No,X2,3,N,274,294,190,-189.5371695,13.25373001
+9/10/20,13:40,T084,0,0,728,728,ON,HS,1,AMB,Platform,Foraging (Fish visible),Yes,0,No,"See underwater 
+No surfacing but chasing fish",1,N,315,335,4,-2.828427125,2.828427125
+9/10/20,13:42,T084,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,No,,3,N,283,303,240,-233.8488155,53.98825304
+9/10/20,13:43,T084,0,0,728,728,ON,HS,1,AMB,Platform,Normal Surfacing,No,0,Yes,,2,N,300,320,45,-38.97114317,22.5
+9/11/20,09:36,T085,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,S,300,320,38,-32.90896534,19
+9/11/20,09:40,T085,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,S,295,315,45,-40.78385042,19.01782178
+9/11/20,09:45,T085,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,S,285,305,111,-107.2177667,28.72891401
+9/11/20,09:50,T085,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,290,310,175,-164.4462086,59.85352508
+9/11/20,09:59,T085,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,295,315,43,-38.97123484,18.17258525
+9/11/20,10:18,T086,127,0,1026,1153,ON,HS,1,AB,Platform,Foraging (Fish visible),Yes,0,No,Right by entrance to fish ladder,1,S,70,90,3,2.819077862,1.02606043
+9/11/20,10:20,T086,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,285,305,111,-107.2177667,28.72891401
+9/11/20,10:28,T086,127,0,1026,1153,ON,HS,NA,AB,Platform,Normal Surfacing,No,0,No,Swam into ladder,1,S,0,20,0.1,0,0.1
+9/11/20,10:32,T086,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,S,285,305,55,-53.12592045,14.23504748
+9/11/20,10:43,T086,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,"Swam out of ladder then was Swimming upside down, chuffing.",1,S,70,90,5,4.698463104,1.710100717
+9/11/20,10:54,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,300,320,114,-98.72689603,57
+9/11/20,10:58,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,285,305,175,-169.0370196,45.29333289
+9/11/20,10:58,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,295,315,45,-40.78385042,19.01782178
+9/11/20,11:00,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,N,305,325,54,-44.23421039,30.97312756
+9/11/20,11:02,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,S,280,300,180,-177.2653955,31.25667198
+9/11/20,11:03,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,300,320,50,-43.30127019,25
+9/11/20,11:06,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,S,295,315,50,-45.31538935,21.13091309
+9/11/20,11:10,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,2,S,275,295,80,-79.69557585,6.97245942
+9/11/20,11:11,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,1,S,335,355,28,-11.83331133,25.37661804
+9/11/20,11:17,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,1,S,290,310,30,-28.19077862,10.2606043
+9/11/20,11:20,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,2,N,310,330,58,-44.4305777,37.28168136
+9/11/20,11:21,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,4,S,285,305,250,-241.4814566,64.70476128
+9/11/20,11:22,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,No,,3,N,285,305,180,-173.8666487,46.58742812
+9/11/20,11:25,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,4,N,282,302,280,-273.8813282,58.21527343
+9/11/20,11:28,T087,127,0,1026,1153,ON,HS,1,AB,Platform,Normal Surfacing,No,0,Yes,,4,N,282,302,280,-273.8813282,58.21527343
+9/11/20,12:11,T088,127,0,1026,1153,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,1,S,254,274,8,-7.690093568,-2.205098847
+9/11/20,12:14,T088,127,0,1026,1153,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,Video taken,1,S,262,282,11,-10.89294876,-1.530904111
+9/11/20,12:17,T088,127,0,1026,1153,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,1,S,255,275,15,-14.48888739,-3.882285677
+9/11/20,12:23,T088,127,0,1026,1153,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,3,S,279,299,190,-187.6607847,29.72254836
+9/11/20,12:47,T089,127,0,1026,1153,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,4,S,282,302,298,-291.487985,61.95768386
+9/11/20,12:48,T089,127,0,1026,1153,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,1,S,266,286,5,-4.987820251,-0.348782369
+9/11/20,13:09,T089,127,0,1026,1153,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,Hunting,1,S,265,285,2,-1.992389396,-0.174311485
+9/11/20,13:47,T090,127,0,1026,1153,ON,HS,1,AC,Platform,Crash Dive,No,1,No,,1,S,82,102,3,2.970804206,0.417519303
+9/11/20,13:51,T090,127,0,1026,1153,ON,HS,1,AC,Platform,Normal Surfacing,No,0,No,,3,N,278,298,245,-242.6156768,34.09740974
+9/11/20,13:57,T090,127,0,1026,1153,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,3,S,273,293,223,-222.6943863,11.67091824
+9/11/20,14:02,T090,127,0,1026,1153,ON,HS,1,AC,Platform,Normal Surfacing,No,0,Yes,,3,N,277,297,235,-233.2483456,28.6392957

@@ -1,0 +1,177 @@
+Session_ID,Observer1,Observer2,Date,Phase,Julian_day_from_start,Start_Time,End_Time,Duration,dur_hr,pred_rate_seal_hour,pred_rate_per_hour,Tide,Treatment,Seal_Freq,SL_Freq,Seal_Pred,SL_Pred,seals_in_ladder,Observer1_Location,Observer2_Location,Notes
+B001,LB,NA,2020-07-08,Baseline,1,12:24,12:45,00:21,0.35,0.71,2.86,,TAST OFF,4,0,1,NA,,Gate,,collecting data at the gate
+B002,LB,NA,2020-07-19,Baseline,12,11:48,13:00,01:12,1.2,0.5,2.5,,TAST OFF,5,0,3,NA,,Gate,,collecting data at the gate
+B003,LB,NA,2020-07-21,Baseline,14,11:08,12:10,01:02,1.03,0.39,1.94,,TAST OFF,5,0,2,NA,,Gate,,collecting data at the gate
+B004,LB,NA,2020-07-23,Baseline,16,20:27,21:13,00:46,0.77,0.26,1.3,,TAST OFF,5,0,1,NA,,Gate,,"collecting data at the gate, LB + AB got dark towards the end and had to cut short our hour of obvs. Very high tide."
+B005,LB,NA,2020-07-26,Baseline,19,12:27,13:29,01:02,1.03,0.48,2.9,,TAST OFF,6,0,3,NA,,Gate,,collecting data at the gate
+B006,LB,NA,2020-08-10,Baseline,19,13:30,14:00,00:30,0.5,0,0,,TAST OFF,7,0,0,NA,,Gate,,collecting data at the gate
+B007,LB,NA,2020-08-10,Baseline,34,14:00,14:30,00:30,0.5,0.4,2,,TAST OFF,5,0,1,NA,,Gate,,collecting data at the gate
+B008,LB,NA,2020-08-10,Baseline,34,14:30,15:00,00:30,0.5,0,0,,TAST OFF,4,0,0,NA,,Gate,,collecting data at the gate
+B009,LB,NA,2020-08-10,Baseline,34,15:15,15:45,00:30,0.5,0.33,2,,TAST OFF,6,0,1,NA,,Gate,,collecting data at the gate
+B010,LB,NA,2020-08-11,Baseline,35,13:45,14:15,00:30,0.5,0.67,4,,TAST OFF,6,0,2,NA,,Gate,,"Not a lot of transiting, collecting data at the gate."
+B011,LB,NA,2020-08-11,Baseline,35,15:15,15:45,00:30,0.5,0.29,2,,TAST OFF,7,0,1,NA,,Gate,,
+B012,LB,NA,2020-08-11,Baseline,35,16:00,16:30,00:30,0.5,0,0,,TAST OFF,7,0,0,NA,,Gate,,
+B013,LB,NA,2020-08-11,Baseline,36,11:15,11:45,00:30,0.5,0.67,4,,TAST OFF,6,0,2,NA,,Gate,,"54m w of ladder, colleting data at gate, collected firecreacker recording at 12:30pm, rec#0020 @2:33 into rec. Gain: 0.0, 222m from ladder"
+B014,LB,NA,2020-08-12,Baseline,36,13:30,14:01,00:31,0.5,0.86,6,,TAST OFF,7,0,3,NA,,Gate,,"TONS of foraging, everyother seal had FIM, collecting data at gate"
+B015,LB,NA,2020-08-12,Baseline,36,14:20,14:30,00:10,0.5,0.67,4,,TAST OFF,6,0,2,NA,,Gate,,"Ended early, JO arrived to collect Firecracker recs. Used CR1 @ 66m, RL:170dB, SL=10dB for every decade of distance (assuming spherical spreading), humans hear 20Hz-20kHz."
+B016,LB,NA,2020-08-13,Baseline,37,10:30,11:00,00:30,0.5,0.29,2,,TAST OFF,7,0,1,NA,,Gate,,"54M w of ladder, colleting data at gate, 1 FIM at 10:55"
+B017,LB,NA,2020-08-13,Baseline,37,11:12,11:43,00:31,0.5,0.29,2,,TAST OFF,7,0,1,NA,,Gate,,FIM at 11:32 and 11:46 (during break)
+B018,LB,NA,2020-08-13,Baseline,37,12:00,12:30,00:30,0.5,0.29,2,,TAST OFF,7,0,1,NA,,Gate,,
+B019,LB,NA,2020-08-13,Baseline,37,13:30,14:00,00:30,0.5,1.33,8,,TAST OFF,6,0,4,NA,,Gate,,"FIM @ 13:40 ,mellow day high tide"
+B020,LB,NA,2020-08-13,Baseline,37,14:05,14:35,00:30,0.5,0.29,2,,TAST OFF,7,0,1,NA,,Gate,,FIM @ 14:35
+B021,LB,NA,2020-08-13,Baseline,37,14:45,15:15,00:30,0.5,0.57,4,,TAST OFF,7,0,2,NA,,Gate,,Calc: #pred events/# of seals/hours = average seal hours
+B022,LB,AB,2020-08-14,Baseline,38,13:00,13:30,00:30,0.5,0,0,,TAST OFF,6,0,0,NA,,Gate,,52m west of ladder
+B023,LB,AB,2020-08-14,Baseline,38,13:45,14:15,00:30,0.5,0.86,6,,TAST OFF,7,0,3,NA,,Gate,,53m west of ladder
+B024,LB,AB,2020-08-14,Baseline,38,14:25,14:55,00:30,0.5,0,0,,TAST OFF,8,0,0,NA,,Gate,,
+T001,LB,EA,2020-08-14,Chinook,38,19:00,19:30,00:30,0.5,0,0,,TAST ON,4,0,0,NA,,Platform,,"No seals in block 1, turned TAST on and it seemed like the 2-3 seals that were in block one went down and re surfaced in block 3/4. Not a huge startle response necessarily but definitely displacement."
+T002,LB,AB,2020-08-15,Chinook,39,10:00,10:30,00:30,0.5,0,0,,TAST ON,5,0,0,NA,,Platform,,All seals in blocks 2-3
+T003,LB,AB,2020-08-15,Chinook,39,10:40,11:10,00:30,0.5,0,0,,TAST ON,4,0,0,NA,,Platform,,more difficult to measure distance from the platform
+T004,LB,AB,2020-08-15,Chinook,39,11:20,11:50,00:30,0.5,0,0,,TAST ON,5,0,0,NA,,Platform,,during break I noticed a seal had swum past the TAST and into the ladder
+T005,LB,AB,2020-08-15,Chinook,39,12:35,13:05,00:30,0.5,0.33,2,,TAST ON,6,0,1,NA,,Platform,,1300 FIM in the ladder and 13:30 FIM during break
+T006,LB,AB,2020-08-15,Chinook,39,13:15,13:45,00:30,0.5,0.33,2,,TAST ON,6,0,1,NA,,Platform,,
+T007,LB,AB,2020-08-15,Chinook,39,14:00,14:30,00:30,0.5,0,0,,TAST ON,5,0,0,NA,,Platform,,
+T008,LB,AB,2020-08-15,Chinook,39,14:45,15:15,00:30,0.5,0,0,,TAST ON,5,0,0,NA,,Platform,,one seal swanm past tast at ~5m but didn’t surface
+T009,LB,AB,2020-08-15,Chinook,39,15:30,16:00,00:30,0.5,0,0,,TAST ON,5,0,0,NA,,Platform,,one seal swanm past tast at ~5m but didn’t surface
+T010,LB,AB,2020-08-15,Chinook,39,16:20,16:50,00:30,0.5,0,0,,TAST ON,5,0,0,NA,,Platform,,
+T011,LB,NA,2020-08-16,Chinook,40,10:00,10:30,00:30,0.5,0,0,,TAST ON,4,0,0,NA,,Platform,,
+T012,LB,NA,2020-08-16,Chinook,40,10:40,11:10,00:30,0.5,0,0,,TAST ON,3,0,0,NA,,Platform,,"3 seals stayng pretty far away from tast, issues with phone compass."
+T014,LB,NA,2020-08-16,Chinook,40,12:30,13:00,00:30,0.5,0.33,2,,TAST ON,6,0,1,NA,,Platform,,
+T015,LB,NA,2020-08-16,Chinook,40,13:20,13:50,00:30,0.5,0,0,,TAST ON,6,0,0,NA,,Platform,,lots of boats
+T016,LB,NA,2020-08-16,Chinook,40,14:15,14:45,00:30,0.5,1,4,,TAST ON,4,0,2,NA,,Platform,,one young seal startled at surface when tast fired
+T017,LB,NA,2020-08-16,Chinook,40,15:00,15:30,00:30,0.5,0,0,,TAST ON,6,0,0,NA,,Platform,,
+T018,LB,NA,2020-08-17,Chinook,41,09:45,10:15,00:30,0.5,0,0,,TAST ON,4,0,0,NA,,Platform,,new compass today
+T019,LB,NA,2020-08-17,Chinook,41,10:35,11:05,00:30,0.5,0.33,2,,TAST ON,6,0,1,NA,,Platform,,very hot day today
+T020,LB,NA,2020-08-17,Chinook,41,11:20,11:50,00:30,0.5,0.29,2,,TAST ON,7,0,1,NA,,Platform,,
+T021,LB,NA,2020-08-17,Chinook,41,12:15,12:45,00:30,0.5,0.57,4,,TAST ON,7,0,2,NA,,Platform,,
+T022,LB,NA,2020-08-17,Chinook,41,13:20,13:50,00:30,0.5,1,6,,TAST ON,6,0,3,NA,,Platform,,
+T023,LB,NA,2020-08-17,Chinook,41,14:15,14:45,00:30,0.5,0.86,6,,TAST ON,7,0,3,NA,,Platform,,Dogfish near ladder entrance!
+T024,LB,NA,2020-08-17,Chinook,41,15:20,15:50,00:30,0.5,1.33,4,,TAST ON,3,0,2,NA,,Platform,,Erin came to visit with cookies :)
+C001,LB,NA,2020-08-18,Chinook,42,10:00,10:30,00:30,0.5,0,0,,TAST OFF,8,0,0,NA,,Platform,,"two seals in the ladder, one with a fish, Derek (Muckleshoot) told me that they were going through about a box and a half (36!!!!!) seal bombs/day."
+C002,LB,NA,2020-08-18,Chinook,42,10:45,11:15,00:30,0.5,0.29,2,,TAST OFF,7,0,1,NA,,Platform,,
+C003,LB,NA,2020-08-18,Chinook,42,11:35,12:05,00:30,0.5,0,0,,TAST OFF,8,0,0,NA,,Platform,,
+C004,LB,NA,2020-08-18,Chinook,42,13:15,13:45,00:30,0.5,0,0,,TAST OFF,7,0,0,NA,,Platform,,
+C005,LB,NA,2020-08-18,Chinook,42,14:00,14:30,00:30,0.5,0.57,4,,TAST OFF,7,0,2,NA,,Platform,,FEASTING in block one (2 yoy)
+C006,LB,NA,2020-08-18,Chinook,42,14:50,15:20,00:30,0.5,0,0,,TAST OFF,6,0,0,NA,,Platform,,
+C007,LB,NA,2020-08-18,Chinook,42,15:30,16:00,00:30,0.5,0,0,,TAST OFF,6,0,0,NA,,Platform,,one seal in ladder
+C008,LB,NA,2020-08-19,Chinook,43,09:45,10:15,00:30,0.5,0.33,2,,TAST OFF,6,0,1,NA,,Platform,,"2 in ladder, gave alanna a camera unsure about date/time stamp. Should start arounfd 10:20"
+T026,LB,NA,2020-08-19,Chinook,43,10:30,11:00,00:30,0.5,0,0,,TAST ON,6,0,0,NA,,Platform,,TAST on at 10:20
+T027,LB,NA,2020-08-19,Chinook,43,11:15,11:45,00:30,0.5,0,0,,TAST ON,6,0,0,NA,,Platform,,"Seals have shifted, Frida is only seal in first block"
+T028,LB,NA,2020-08-19,Chinook,43,11:50,12:20,00:30,0.5,0,0,,TAST ON,5,0,0,NA,,Platform,,"5 individuals, all in blocks 3 and 4. ACE taking down smolt slide, their boat could be keeping seals out of first block"
+T029,LB,NA,2020-08-19,Chinook,43,12:45,13:15,00:30,0.5,0,0,,TAST ON,6,1,0,0,,Platform,,Steller sea lion came into about 44m then quickly retreated to block 3/4. passed back towards block one 2x more but never got much closer thatn the cable before turning around.
+T030,LB,NA,2020-08-19,Chinook,43,13:30,14:00,00:30,0.5,0.4,2,,TAST ON,5,0,1,NA,,Platform,,1 seal in ladder
+T031,LB,NA,2020-08-19,Chinook,43,14:30,15:00,00:30,0.5,0,0,,TAST ON,5,0,0,NA,1,Platform,,1 seal in ladder
+T032,EA,NA,2020-08-20,Chinook,44,09:57,10:27,00:30,0.5,0,0,,TAST ON,4,0,0,NA,,Gate,,No apparnt foraging. Saw seal among school of forage fish when first arrived
+T033,EA,NA,2020-08-20,Chinook,44,10:43,11:13,00:30,0.5,0,0,,TAST ON,5,0,0,NA,,Gate,,No apparent foraging except for possible chase in block 2
+T034,EA,NA,2020-08-20,Chinook,44,11:29,11:59,00:30,0.5,0.4,2,,TAST ON,5,0,1,NA,,Gate,,EA
+T035,LB,NA,2020-08-20,Chinook,44,12:35,13:05,00:30,0.5,0.33,2,,TAST ON,6,0,1,NA,,Platform,,LB from platform
+T036,LB,NA,2020-08-20,Chinook,44,13:30,14:00,00:30,0.5,0.4,2,,TAST ON,5,0,1,NA,1,Platform,,"seal in ladder with FIM, Laying on its back with the fish's tail in its mouth and the fish on its belly!! The nerve."
+T037,LB,NA,2020-08-20,Chinook,44,15:10,15:40,00:30,0.5,0,0,,TAST ON,4,0,0,NA,1,Platform,,"very quiet, one seal in the ladder, Karen droppd off her amazing brochures"
+T038,LB,NA,2020-08-20,Chinook,44,15:50,16:20,00:30,0.5,0.5,2,,TAST ON,4,0,1,NA,,Platform,,"two seals prey sharing ""lady and the tramp style"", great photos"
+T039,LB,NA,2020-08-21,Chinook,45,10:20,10:50,00:30,0.5,0,0,,TAST ON,4,0,0,NA,2,Platform,,
+T040,LB,NA,2020-08-21,Chinook,45,13:40,14:10,00:30,0.5,0.5,2,,TAST ON,4,0,1,NA,1,Platform,,"seal in ladder with fish at 13:50, leavign early due to rain and broken camera"
+C009,AC,LB,2020-08-22,Chinook,46,11:00,11:30,00:30,0.5,0.67,2,,TAST OFF,3,0,1,NA,,Gate,,
+C010,AC,LB,2020-08-22,Chinook,46,11:50,12:20,00:30,0.5,0,0,,TAST OFF,4,0,0,NA,,Gate,,
+C011,LB,NA,2020-08-22,Chinook,46,12:47,13:12,00:25,0.5,0,0,,TAST OFF,5,0,0,NA,,Platform,,
+C012,LB,NA,2020-08-22,Chinook,46,13:20,13:50,00:30,0.5,0,0,,TAST OFF,5,0,0,NA,1,Platform,,seal in ladder
+C013,LB,NA,2020-08-22,Chinook,46,14:00,14:30,00:30,0.5,0,0,,TAST OFF,3,0,0,NA,,Platform,,1 FIM during break before I started scanning. No intervalometer so I shot video today
+C014,LB,NA,2020-08-24,Chinook,48,12:45,13:15,00:30,0.5,0,0,Ebbing,TAST OFF,5,0,0,NA,,Platform,,"large school of chinook near ladder, one tagged fish"
+T041,LB,NA,2020-08-24,Chinook,48,13:40,14:10,00:30,0.5,0,0,Ebbing,TAST ON,5,0,0,NA,,Platform,,"136: TAST on, 135 gopro5 started, sounded like there was a seal in the ladder, check gopro 8 for confirmation"
+T042,LB,NA,2020-08-27,Chinook,51,17:15,17:45,00:30,0.5,0,0,,TAST ON,3,0,0,NA,,Platform,,Unusually quiet
+C015,LB,NA,2020-08-27,Chinook,51,18:15,18:45,00:30,0.5,0,0,,TAST OFF,3,0,0,NA,,Platform,,
+C016,AB,AC,2020-09-02,Coho,57,10:10,10:40,00:30,0.5,0,0,,TAST OFF,2,3,0,2,,Platform,Gate,"Started observing close to high tide, and conditions were foggy when we got there but beginning to lift by the first survey. Slightly windy throughout the day. There were 3 spillways open. Water was very foamy.This was the first day for AB/AC doing observations without LB. Since only one person was allowed past the gate, AB served as the primary observer (from the platform) and AC served as a second person (standing at gate) with a rangefinder who was able to get distance readings in blocks 3 and 4. • All distances in blocks 3 and 4 were taken from the gate (indicated as “gate” in the comments of the data sheet)
+• All bearings taken from platform with iPhone compass
+• High tide, foamy conditions"
+T043,AB,AC,2020-09-02,Coho,57,11:12,11:42,00:30,0.5,0,0,,TAST ON,2,0,0,0,,Platform,Gate,Distances for most of the suvey were taken from the gate because the reangefinder ran out of batteries. After survey ended AB observed a predaion even by a harbor seal in 1N.
+T044,AB,NA,2020-09-02,Coho,57,12:11,12:41,00:30,0.5,0,0,,TAST ON,2,2,0,1,,Platform,Gate,Pred event by two sealions in block 2
+T045,AB,AC,2020-09-02,Coho,57,13:36,14:06,00:30,0.5,0,0,,TAST ON,3,1,0,0,,Platform,Gate,"Compass issues, some bearings not entered"
+T046,AB,AC,2020-09-02,Coho,57,14:22,14:52,00:30,0.5,0,0,,TAST ON,6,0,0,NA,,Platform,Gate,"Compass issues, some bearings not entered"
+T047,AB,AC,2020-09-02,Coho,57,15:29,15:59,00:30,0.5,0,0,,TAST ON,3,1,0,0,1,Platform,NA,"Compass issues, some bearings not entered. After survey was over AB heard slapping in the ladder and observed a seal in the ladder with FIM."
+T048,AB,AC,2020-09-03,Coho,58,10:54,11:24,00:30,0.5,0,0,,TAST ON,4,0,0,NA,,Platform,Gate,"Conditions: 
+Clear and warm. Slightly windy in the afternoon. There were 3 spillways open in the morning, but all 3 closed midday. Foamy water in the morning, flat in the afternoon. 
+
+Observer Protocol:
+AB served as the primary observer (from the platform) and AC served as a second person (standing at gate) with a rangefinder and took distance readings in blocks 3 and 4. 
+
+TAST was on all day. 
+Bearings taken from the platform using an angle board (see comments below)
+Distances taken from the gate are indicated as “gate” in the comments on data sheet"
+T049,AB,AC,2020-09-03,Coho,58,11:29,11:59,00:30,0.5,1,4,,TAST ON,4,0,2,0,,Platform,Gate,
+T050,AB,AC,2020-09-03,Coho,58,12:14,12:44,00:30,0.5,0,0,,TAST ON,3,0,0,NA,,Platform,Gate,Checked PG camera after survey and it was no longer working
+T051,AB,AC,2020-09-03,Coho,58,13:40,14:10,00:30,0.5,0,0,,TAST ON,3,0,0,NA,,Platform,Gate,Spillways turned off prior to this survey and remained of for he rest of the day
+T052,AB,AC,2020-09-03,Coho,58,14:14,14:44,00:30,0.5,0,0,,TAST ON,4,0,0,NA,,Platform,Gate,"Seal observed in ladder at 15:00, unable to get ID photo"
+T053,AB,NA,2020-09-03,Coho,58,15:05,15:35,00:30,0.5,0,0,,TAST ON,4,0,0,NA,,Platform,NA,
+T054,AB,NA,2020-09-03,Coho,58,15:40,16:10,00:30,0.5,0,0,,TAST ON,4,1,0,0,,Platform,NA,"Crash dive at the beginning of survey was marked as HS but could have been SL
+
+Comments:
+After fixing the initial problem with the 7D Mark II (camera trying to focus but shutter not clicking on the programmed schedule), the camera was initially working, but when I went to check it after Survey 3, it was showing an error message (“the connection between the lens and the camera is faulty, clean the contact”). After disconnecting the lens from the body and cleaning the contact point, it worked for a few more photos, then showed the same error message again, so I did not continue trying to troubleshoot. 
+
+AC took ID photos from the gate using her personal camera. 
+
+The GoPro was set up to take time-lapsed video of the fish ladder. 
+
+Bearings were taken from the platform using a calibrated angle board. Angle board was placed in the NW corner of the platform railing. A calibration was made for the angle board in this position using a compass. All bearings taken from this location will need to be corrected by +20° during post processing."
+T055,AB,NA,2020-09-04,Coho,59,11:23,11:53,00:30,0.5,0.67,2,,TAST ON,3,1,1,0,,Platform,NA,"Conditions: 
+Clear and warm. Still all day. All spillways were closed for the duration of surveys. 
+
+Observer Protocol:
+AB served as the primary and only observer (from the platform), taking distances, bearings, and photo ID. PG camera was set to time lapse. 
+
+TAST was on all day, aside from part of Survey 6."
+T056,AB,NA,2020-09-04,Coho,59,12:14,12:44,00:30,0.5,0,0,,TAST ON,1,1,0,0,,Platform,NA,
+T057,AB,NA,2020-09-04,Coho,59,13:02,13:32,00:30,0.5,0,0,,TAST ON,3,1,0,0,1,Platform,NA,Watched a HS swim into ladder
+T058,AB,NA,2020-09-04,Coho,59,13:36,14:06,00:30,0.5,0,0,,TAST ON,3,1,0,2,,Platform,NA,"Pred events by sealions in B4, B3N"
+T059,AB,NA,2020-09-04,Coho,59,15:04,15:34,00:30,0.5,0,0,,TAST ON,3,0,0,NA,,Platform,NA,
+T061,AB,NA,2020-09-04,Coho,59,16:25,16:55,00:30,0.5,0,0,,TAST ON,4,1,0,0,,Platform,NA,"TAST ON, The original PG camera body came back from the shop so we used it for photogrammetry today. Still having issues with remote settings, so we used a time-lapse instead, in the movie setting, with a photo being taken once every 3 sec. 
+*AB double checked the time stamp on the PG camera and it was off by exactly 20 min
+
+ID photos were taken using the 7D Mark II. 
+
+The GoPro was set up to take time-lapsed video of the fish ladder."
+T062,AB,LB,2020-09-05,Coho,60,09:45,10:15,00:30,0.5,0,0,,TAST ON,2,1,0,0,,Platform,Gate,"Dual observer, gopro timelapse off by 9 hrs. LB at corner (47' 39'54"", 122' 23' 55""), 2seals, Conditions: 
+Overcast. 3 spillways open. Foamy water. High tide at 9 am. 
+
+Observer Protocol:
+AB served as the primary observer (from the platform), taking distances, bearings, and photo ID. LB observed at the gate and assisted with distances in blocks 3 and 4. Survey 2 was an independent, “experimental” survey where AB and LB both surveyed without communicating and both entered data independently so that survey data from the two positions could be compared. 1SL, spillway 4-6 open cloudy, foamy water"
+C017,AB,LB,2020-09-05,Coho,60,10:22,10:52,00:30,0.5,0,0,,TAST OFF,4,2,0,0,,Platform,Gate,Tast off at 10:20 dual observer
+C018,AB,NA,2020-09-05,Coho,60,11:00,11:30,00:30,0.5,0,0,,TAST OFF,3,2,0,1,,Platform,NA,"PG camera on timelapse for rest of the day. LB ran errand, AB alone."
+C019,AB,LB,2020-09-05,Coho,60,11:52,12:22,00:30,0.5,0,0,,TAST OFF,2,1,0,0,,Platform,Gate,AB and LB
+C020,AB,LB,2020-09-05,Coho,60,13:02,13:32,00:30,0.5,0,0,,TAST OFF,2,1,0,4,,Platform,Gate,AB and LB
+C021,AB,NA,2020-09-05,Coho,60,13:50,14:20,00:30,0.5,0,0,,TAST OFF,2,1,0,0,,Platform,NA,"LB ran errand, just AB"
+C022,AB,LB,2020-09-05,Coho,60,14:34,15:04,00:30,0.5,0,0,,TAST OFF,3,1,0,0,,Platform,Gate,AB and LB
+C023,AB,LB,2020-09-05,Coho,60,15:20,15:50,00:30,0.5,0,0,,TAST OFF,4,1,0,0,,Platform,Gate,AB and LB
+C024,LB,NA,2020-09-06,Coho,61,09:45,10:15,00:30,0.5,0,0,,TAST OFF,1,1,0,0,,Platform,,"Spillway 4/5 open. Overcast and foggy. 4th block not visible due to fog. RD is having trouble with the fog , and cannot measure past block two. SL circling around TAST and ladder entrance. 2nd gopro timelapse started at 10:24."
+T063,LB,NA,2020-09-06,Coho,61,10:25,10:55,00:30,0.5,0,0,,TAST ON,2,1,0,0,0,Platform,,Obvious shift away from TAST when it was turned on. SL no longer in block one circling tast. Block 3/4 still in and out vis due to fog. Takigna break and waiting for fog to clear after this session.
+T064,LB,NA,2020-09-06,Coho,61,11:45,12:15,00:30,0.5,0,0,,TAST ON,1,1,0,0,,Platform,,Pretty quiet
+T065,LB,NA,2020-09-06,Coho,61,12:30,13:00,00:30,0.5,1,2,,TAST ON,2,1,1,0,,Platform,,
+T066,LB,NA,2020-09-06,Coho,61,13:05,13:35,00:30,0.5,0,0,,TAST ON,4,1,0,0,,Platform,,
+T067,LB,NA,2020-09-06,Coho,61,13:45,14:15,00:30,0.5,1.33,4,,TAST ON,3,1,2,0,,Platform,,
+T068,LB,NA,2020-09-06,Coho,61,14:20,14:50,00:30,0.5,0,0,,TAST ON,2,1,0,0,,Platform,,
+T069,LB,NA,2020-09-06,Coho,61,15:00,15:30,00:30,0.5,0,0,,TAST ON,2,1,0,0,,Platform,,
+T070,AC,NA,2020-09-07,Coho,62,10:07,10:37,00:30,0.5,0,0,,TAST ON,1,1,0,0,,Platform,,Seal in ladder (phone pic) before 1st survey. Windy and foamy. High tide. High boat traffic.
+T071,AC,NA,2020-09-07,Coho,62,11:00,11:30,00:30,0.5,0,0,,TAST ON,3,1,0,0,1,Platform,,Gopro battery charged
+T072,AC,NA,2020-09-07,Coho,62,11:40,12:15,00:35,0.5,0,0,,TAST ON,1,0,0,0,,Platform,,
+T073,AC,NA,2020-09-07,Coho,62,12:25,12:55,00:30,0.5,0,0,,TAST ON,2,0,0,0,1,Platform,,Seal got startled and left ladder (bias due to observer presence?)
+T074,AC,NA,2020-09-07,Coho,62,13:02,13:32,00:30,0.5,0,0,,TAST ON,2,0,0,0,1,Platform,,In ladder and under platform. No predation but seals were hunting
+T075,AC,NA,2020-09-07,Coho,62,13:41,14:11,00:30,0.5,0,0,,TAST ON,2,1,0,0,0,Platform,,Seal under the platform. No predation but hunting
+T076,AC,NA,2020-09-07,Coho,62,14:21,14:51,00:30,0.5,0.67,2,,TAST ON,3,1,1,0,0,Platform,,Seal under the platform. 
+T078,AC,NA,2020-09-08,Coho,63,10:44,11:14,00:30,0.5,1,2,,TAST ON,2,0,1,0,1,Platform,,Seal in ladder with fish in mouth @ 10:55
+T079,AC,NA,2020-09-08,Coho,63,11:17,11:47,00:30,0.5,0,0,,TAST ON,2,0,0,0,0,Platform,,
+T080,AC,NA,2020-09-08,Coho,63,11:53,12:23,00:30,0.5,0,0,,TAST ON,1,0,0,0,0,Platform,,
+C025,AMB,LB,2020-09-09,Coho,64,09:45,10:15,00:30,0.5,0.8,4,,TAST OFF,5,1,2,0,1,Platform,NA,AMB training from platform.
+C026,AMB,LB,2020-09-09,Coho,64,11:00,11:30,00:30,0.5,0.4,2,,TAST OFF,5,3,1,0,,Platform,NA,AMB training from platform.
+C027,AB,NA,2020-09-09,Coho,64,12:00,12:30,00:30,0.5,0,0,,TAST OFF,2,1,0,0,,Platform,NA,"AB observing for rest of session alone. Tried to take video of SL pursuing a group of salmon underwater, but there was too mich glare to really see anything."
+C028,AB,NA,2020-09-09,Coho,64,12:35,13:05,00:30,0.5,0.67,2,,TAST OFF,3,1,1,0,,Platform,NA,"Took video of SL in block 1N, and need to review video to see if they caught 2 fish in a row or if it was just the same fish."
+C029,AB,NA,2020-09-09,Coho,64,13:34,14:04,00:30,0.5,1.33,4,,TAST OFF,3,0,2,NA,,Platform,NA,"Photo ID camera ran out of batteries, so no photos of pred events"
+C030,AB,NA,2020-09-09,Coho,64,14:20,14:50,00:30,0.5,0.67,2,,TAST OFF,3,0,1,NA,,Platform,NA,
+C031,AB,NA,2020-09-09,Coho,64,14:55,15:25,00:30,0.5,0.5,2,,TAST OFF,4,0,1,NA,,Platform,NA,
+C032,AB,NA,2020-09-10,Coho,65,10:09,10:39,00:30,0.5,1,4,,TAST OFF,4,0,2,NA,,Platform,NA,Less smoky than yesterday. 3 spillways on. Water foamy. There was 1 sea lion and 3 seals present during equipment setup. Seattle Times at locks with LB. AB recording TAST from small boat in pm. 
+T081,AB,NA,2020-09-10,Coho,65,10:54,11:24,00:30,0.5,0,0,,TAST ON,4,0,0,NA,2,Platform,NA,"TAST on at 10:44. Just before survey began, there were two seals in the ladder eating a salmon. AB took video. Uncertain whether the seals were already in the ladder when TAST was turned on. AB turned on TAST, was getting ready to begin the survey when heard them splashing in ladder. They were tearing fish apart and sharing it. "
+T082,AMB,NA,2020-09-10,Coho,65,11:49,12:19,00:30,0.5,1.33,4,,TAST ON,3,0,2,NA,,Platform,NA,Seal swam right next to TAST
+T083,AMB,NA,2020-09-10,Coho,65,12:20,12:50,00:30,0.5,1.33,4,,TAST ON,3,0,2,NA,,Platform,NA,
+T084,AMB,NA,2020-09-10,Coho,65,13:15,13:45,00:30,0.5,0.5,2,,TAST ON,4,0,1,NA,,Platform,NA,
+T085,AB,NA,2020-09-11,Coho,66,09:33,10:03,00:30,0.5,0,0,,TAST ON,2,0,0,NA,1,Platform,NA,"Seal in ladder with fish in mouth. Very smoky. 1 spillway open. Water semi-flat. Due to heavy presence of seals in ladder today, not all surveys were completely continuous. Observers moved from platform to ladder to take ID photos of seals in ladder. "
+T086,AB,NA,2020-09-11,Coho,66,10:15,10:45,00:30,0.5,1,2,,TAST ON,2,0,1,NA,1,Platform,NA,Seal a few meters away from TAST with fish in mouth. Same seal with FIM spent most of the survey in the ladder
+T087,AB,NA,2020-09-11,Coho,66,10:52,11:22,00:30,0.5,0,0,,TAST ON,4,0,0,NA,1,Platform,NA,Same seal from previous survey was in the ladder for the full duration of the survey. ID photos were taken of upside-down swimming in ladder. 
+T088,AC,NA,2020-09-11,Coho,66,12:07,12:37,00:30,0.5,0.67,2,,TAST ON,3,0,1,NA,2,Platform,NA,"2 seals in ladder with a fish, videos taken"
+T089,AC,NA,2020-09-11,Coho,66,12:45,13:15,00:30,0.5,1,2,,TAST ON,2,0,1,NA,1,Platform,NA,1 seal in ladder with a fish. Video taken of the chase and fish in mouth
+T090,AC,NA,2020-09-11,Coho,66,13:40,14:10,00:30,0.5,0.67,2,,TAST ON,3,0,1,NA,1,Platform,NA,1 seal in the ladder with a fish. Video taken of seal in ladder on AC phone
