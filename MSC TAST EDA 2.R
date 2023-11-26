@@ -1,4 +1,3 @@
-rm(list = ls())
 ## TAST MSC CLEANING AND EDA SCRIPT
 ## Laura Bogaard
 
@@ -127,8 +126,6 @@ RL_plot <- ggplot(data = RL) +
 
 
 RL_plot
-
-
 
 # Boxplot for all distances
 distance %>% 
@@ -289,7 +286,6 @@ datalisst <- plyr::ldply(datalist, rbind)
 #group by session make each row an observation
 uniqueIDs <- datalisst %>%
   pivot_longer(!.id, names_to = "count", values_to = "unique_ID")
-##YAYYYYYYY
 
 # expand grid to create list of every possible combo of session ID and square
 head(grid_counts)
@@ -315,9 +311,6 @@ Df1$treatment <- ifelse(str_sub(Df1$Var3, 1, 1) == "T", paste("ON"), paste("OFF"
 # add column for square ID
 Df1$square_ID <- paste(Df1$Var1, Df1$Var2, sep = "_")
 
-# get rid of NA squares??
-#Df1 <- na.omit(Df1)
-
 # fix "Var" columns
 colnames(Df1) <- c("cut_x", "cut_y", "session_id", "unique_id", "p_a", "treatment", "square_ID")
 
@@ -332,9 +325,6 @@ dist2 <- distance%>%
   select(session_id, fish_day)
 Df1 <- left_join(Df1, dist2, by = "session_id")
 
-#combine distance and valid bearings
-# vb1 <- left_join(distance, valid_bearings, by = "session_id")
-# View(vb1) 
 ## DF1 is a data frame where P/A is recorded for each square during each survey
 Df1$treatment <- as.factor(Df1$treatment)
 head(valid_bearings)
@@ -356,20 +346,9 @@ PA1 <- Df1%>%
 head(PA1)
 PA1 <- distinct(PA1, unique_id, .keep_all = TRUE)
 
-# calculate distance to each square using pythagorean theorem then 
-# # calculate received level at each square
-# rl_c <- NULL
-# for(i in 1:nrow(PA1)){
-#   c[i] <- sqrt(PA1$xsq[i]^2 + PA1$ysq[i]^2)
-#   rl_c[i] <- 180 - 20*log(c[i])
-# }
-# rl_c
-# PA1$rl_c <- rl_c
-# head(PA1)
-
 # add this new rl information to DF1
 ################################################################################
-########### okay bring in clean distance data to validate + abinand
+########### okay bring in clean distance data to validate + help from abinand
 ################################################################################
 
 #filter clean distance data for only days after 02 sep or jul day 39
@@ -382,12 +361,7 @@ numon <- length(which(valid_bearings$treatment == "ON"))
 valid_bearings$datetime <- as_datetime(paste(valid_bearings$Date, valid_bearings$Time, sep = " "))
 valid_bearings <- arrange(valid_bearings, datetime)
 
-519 - 362
-#####
-##### Abinand Code
-##### 
-
-## If you haven't used this before - great package for spatial stuff
+## great package for spatial stuff
 library(sf)
 library(sp)
 library(rgdal)
@@ -426,8 +400,8 @@ valid_bearings$tide_dist[1]
 #### We've got the shapefile to the same scale as our data but they aren't 
 # aligned yet. Need to rotate one of the two to make them match
 
-#### Rotating the polygon to the dataset, you might want to swap this at some 
-# point if you want to make plots for your report for geographic consistency
+#### Rotating the polygon to the dataset, might want to swap this at some 
+# point if I want to make plots for the report for geographic consistency
 
 ###Target vector to align to
 target_coord <- c(valid_bearings$x[1],valid_bearings$y[1])
@@ -445,7 +419,7 @@ poly_coord <- poly_coord[,1:2]%*%rotmat %>% data.frame()
 ### Convert the coordinates to a polygon again
 polygon <- poly_coord %>%
   st_as_sf(coords = c("X1", "X2")) %>%
-   mutate(geometry = st_combine(geometry)) %>% #change from summarise to mutate because st cast wont pass a dataframe??
+   mutate(geometry = st_combine(geometry)) %>% 
   st_cast("POLYGON")
 
 ###Original polygon with origin and reference coordinate
@@ -609,9 +583,7 @@ valid_bearings1 <- valid_bearings %>% mutate(gridx = ((x+5)%/%10)*10,
 ### the problem with this is that there are lots of points that fall outside the 
 # actual grid we've created and this doesn't recognise that
 
-####2. Instead we assign the grid ids using a spatial operator. I'm copying the 
-# dataframe just to retain the original, you might not need to once you check it 
-# and this seems ok
+####2. Instead we assign the grid ids using a spatial operator. 
 
 
 valid_bearings2 <- valid_bearings
@@ -646,7 +618,7 @@ theme(
   axis.title.x = element_text(size = 12),
   axis.title.y = element_text(size = 12))
 
-###Once you have the matched grid ids then getting counts and PA is very straight forward
+### matched grid ids, now getting counts and PA 
 valid_bearings2$session_id <- factor(valid_bearings2$session_id)
 
 ###We make the ids a factor too making all grids within the survey area into a 
@@ -662,9 +634,7 @@ colnames(final_data) <- c('session_id','id','counts')
 #add presence absence
 final_data$pa <- ifelse(final_data$counts > 0,1,0)
 
-################################################################################
-# Back to Laura's Code
-### Now you have session id to match session/temporal covariates and grid id to match spatial covariates, 
+### Now I have session id to match session/temporal covariates and grid id to match spatial covariates, 
 
 #create spattial covar df
 spatcovar <- gr2
